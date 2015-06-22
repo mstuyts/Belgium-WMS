@@ -5,6 +5,7 @@ A list of WMS services with data for Belgium
 ##Belgium
 
 * [CP_CadastralParcels - FOD Financien](http://ccff02.minfin.fgov.be/cadgisWMS/CP_CadastralParcels/MapServer/WMSServer)
+* 
 * [IRCEL - CELINE - Web Map Service - Belgian Interregional Environment Agency](http://geoserver.irceline.be/geoserver/ows)
 
 
@@ -12,6 +13,7 @@ A list of WMS services with data for Belgium
 ##Brussels
 
 * [CIRB WMS - CIRB](http://geoserver.gis.irisnet.be/urbis/wms)
+
 * [GeoServer Web Map Service - BruGIS team - DAF - BDU](http://ws.brugis.irisnet.be/geoserver/INSPIRENL/ows)
 
 * [GeoServer Web Map Service - BruGIS team - DAF - BDU](http://ws.brugis.irisnet.be/geoserver/INSPIREEN/ows)
@@ -23,6 +25,7 @@ A list of WMS services with data for Belgium
 ##Flanders
 
 * [Administratieve eenheden - AGIV](http://geo.agiv.be/inspire/wms/Administratieve_Eenheden?)
+
 * [Adressen - AGIV](http://geo.agiv.be/inspire/wms/adressen)
 
 * [Agentschap Onroerend Erfgoed Publieke View Service - Vlaamse Overheid - Mercator](https://geo.onroerenderfgoed.be/geoserver/ows)
@@ -92,6 +95,7 @@ A list of WMS services with data for Belgium
 ##Wallonia
 
 * [EAU_ALEA_2013 - SPW](http://geoservices.wallonie.be/arcgis/services/EAU/ALEA_2013/MapServer/WMSServer)
+
 * [EAU_ZI_2013 - SPW](http://geoservices.wallonie.be/arcgis/services/EAU/ZI_2013/MapServer/WMSServer)
 
 * [NITRATES - SPW](http://geoservices.wallonie.be/arcgis/services/EAU/NITRATES/MapServer/WMSServer)
@@ -115,6 +119,7 @@ A list of WMS services with data for Belgium
 ##World
 
 * [Metacarta WMS VMaplv0](http://vmap0.tiles.osgeo.org/wms/vmap0)
+
 * [NGA Geographic Grid WMS Server - NGA](http://geonames.nga.mil/grids/request.asp?)
 
 * [OpenStreetMap WMS Deutschland - terrestris GmbH und Co. KG](http://ows.terrestris.de/osm-gray/service)
