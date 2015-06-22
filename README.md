@@ -1,11 +1,11 @@
 # WMS List Belgium
-A list of WMS services with data for Belgium
+**A list of WMS services with data for Belgium**
 
 
 ##Belgium
 
 * [CP_CadastralParcels - FOD Financien](http://ccff02.minfin.fgov.be/cadgisWMS/CP_CadastralParcels/MapServer/WMSServer)
-* 
+
 * [IRCEL - CELINE - Web Map Service - Belgian Interregional Environment Agency](http://geoserver.irceline.be/geoserver/ows)
 
 
