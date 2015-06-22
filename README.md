@@ -1,2 +1,2 @@
-# wms-belgium
-A lis of WMS services with data for Belgium
+# WMS List Belgium
+A list of WMS services with data for Belgium
