@@ -73,6 +73,8 @@
 * [WMS Departement Ruimte Vlaanderen - AGIV](http://geo.agiv.be/ogc/wms/product/DeptRWO?)
 
 * [WMS Digitaal Hoogtemodel Vlaanderen - AGIV](http://geo.agiv.be/ogc/wms/product/DHMV?)
+ 
+* [WMS GIPOD Publieke Informatie - AGIV](http://geo.agiv.be/ogc/wms/gipodpubliek)
 
 * [WMS Instituut voor Natuur- en Bosonderzoek - AGIV](http://geo.agiv.be/ogc/wms/product/INBO?)
 
