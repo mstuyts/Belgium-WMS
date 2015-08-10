@@ -48,6 +48,8 @@ The names of the services are based on the *Title* and *ContactOrganization* pro
 * [Flanders Marine Institute (VLIZ) - Geoserver WMS Service - Flanders Marine Institute (VLIZ)](http://geo.vliz.be/geoserver/Emodnet/ows)
 
 * [GeoServer Web Map Service - OVAM](http://services.ovam.be/geoserver/wms)
+ 
+* [GeoServer Web Map Service (SADL KU Leuven)](http://www.ruimtemonitor.be/geoserver/wms)
 
 * [GeoServer Web Map Service - Coördinatiecel E-government](http://ogc.magdageo.vlaanderen.be/magdageo/wms)
 
@@ -58,8 +60,6 @@ The names of the services are based on the *Title* and *ContactOrganization* pro
 * [IRENA Web Map Service - Masdar Institute of Science and Technology](http://irena.masdar.ac.ae:8080/geoserver/belgium/ows)
 
 * [Mercator Publieke View Service - Vlaamse Overheid - Mercator](https://www.mercator.vlaanderen.be/raadpleegdienstenmercatorpubliek/wms?)
-
-* [My GeoServer WMS - K.U.Leuven, R&D Division SADL](http://appsrv.sadl.kuleuven.be:8082/geoserver/ows)
 
 * [Nutsdiensten en overheidsdiensten - AGIV](http://geo.agiv.be/inspire/wms/Nutsdiensten_en_Overheidsdiensten)
 
