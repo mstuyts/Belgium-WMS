@@ -43,7 +43,7 @@ The names of the services are based on the *Title* and *ContactOrganization* pro
 
 * [Bodemgebruik - AGIV](http://wms.agiv.be/inspire/wms/bodemgebruik?)
 
-* [DOV View Service - Vlaamse Overheid - DOV](http://www.dov.vlaanderen.be/geoserver/wms?)
+* [DOV Inspire View Service - Vlaamse Overheid - DOV](http://www.dov.vlaanderen.be/geoserver/wms?)
 
 * [Flanders Marine Institute (VLIZ) - Geoserver WMS Service - Flanders Marine Institute (VLIZ)](http://geo.vliz.be/geoserver/Emodnet/ows)
 
