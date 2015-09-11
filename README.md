@@ -1,7 +1,7 @@
 # WMS List Belgium
 **A list of WMS services with data for Belgium**
 
-The names of the services are based on the *Title* and *ContactOrganization* provided by each service. 
+The names of the services are based on the *Title* and *ContactOrganization* provided in each service. 
 
 ##Belgium
 
