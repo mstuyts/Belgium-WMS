@@ -103,6 +103,9 @@ The names of the services are based on the *Title* and *ContactOrganization* pro
 
 * [EAU_ZI_2013 - SPW](http://geoservices.wallonie.be/arcgis/services/EAU/ZI_2013/MapServer/WMSServer)
 
+
+* [IMAGERIE_ORTHO_2009_2010 (Direction de la Géométrologie (SPW - SG - Département de la Géomatique))](http://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2009_2010/MapServer/WMSServer)
+
 * [NITRATES - SPW](http://geoservices.wallonie.be/arcgis/services/EAU/NITRATES/MapServer/WMSServer)
 
 * [Relief de la Wallonie - Modèle Numérique de Terrain (MNT) 2013-2014 (Service de visualisation) - Service public de Wallonie](http://geoservices.wallonie.be/arcgis/services/RELIEF/WALLONIE_MNT_2013_2014/MapServer/WMSServer)
@@ -116,8 +119,6 @@ The names of the services are based on the *Title* and *ContactOrganization* pro
 * [Web Map Service portail](http://cartopro1.wallonie.be/WMS/com.esri.wms.Esrimap/portail)
 
 * [WMS de la Carte géologique de Wallonie - Cellule Sous-sol/Géologie (SPW - DGO3)](http://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/CARTE_GEOLOGIQUE_SIMPLE/MapServer/WMSServer)
-
-* [WMS Orthophotos 2009-2010 - Direction de la Géométrologie (SPW - SG - Département de la Géomatique)](http://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2009_2010/MapServer/WMSServer)
 
 
 
