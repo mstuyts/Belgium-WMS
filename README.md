@@ -83,7 +83,7 @@ The names of the services are based on the *Title* and *ContactOrganization* pro
 
 * [GeoServer Web Map Service - OVAM](http://services.ovam.be/geoserver/wms)
  
-* [GeoServer Web Map Service (SADL KU Leuven)](http://www.ruimtemonitor.be/geoserver/wms)
+* [GeoServer Web Map Service - SADL KU Leuven](http://www.ruimtemonitor.be/geoserver/wms)
 
 * [GeoServer Web Map Service - Coördinatiecel E-government](http://ogc.magdageo.vlaanderen.be/magdageo/wms)
 
@@ -101,7 +101,7 @@ The names of the services are based on the *Title* and *ContactOrganization* pro
 
 * [Orthofotomozaïek, middenschalig, winteropnamen, kleur, meest recent, Vlaanderen - AGIV](http://wms.agiv.be/ogc/wms/omkl)
 
-* [Wegenregister (AGIV)](http://geo.agiv.be/ogc/wms/wegenregister)
+* [Wegenregister - AGIV](http://geo.agiv.be/ogc/wms/wegenregister)
 
 * [WMS Agentschap voor Landbouw en Visserij - AGIV](http://geo.agiv.be/ogc/wms/product/ALV)
 
