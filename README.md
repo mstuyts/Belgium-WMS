@@ -5,6 +5,8 @@ The only content of this repository is available in the README.md document. All 
 
 The names of the services are based on the *Title* and *ContactOrganization* provided in each service. 
 
+More information about WMS Services kan be found on [Wikipedia](https://en.wikipedia.org/wiki/Web_Map_Service).
+
 ##Belgium
 
 * [CP_CadastralParcels - FOD Financien](http://ccff02.minfin.fgov.be/cadgisWMS/CP_CadastralParcels/MapServer/WMSServer)
