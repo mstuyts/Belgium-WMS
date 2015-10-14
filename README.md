@@ -11,6 +11,38 @@ The names of the services are based on the *Title* and *ContactOrganization* pro
 
 * [IRCEL - CELINE - Web Map Service - Belgian Interregional Environment Agency](http://geoserver.irceline.be/geoserver/ows)
 
+* [Top100R_L08 - Nationaal Geografisch Instituut](http://www.ngi.be/testbed/wms/top100r_l08_nl)
+
+* [Top100R_L08 - Institut Géographique National](http://www.ngi.be/testbed/wms/top100r_l08_fr)
+
+* [Top100R_L72 - Institut Géographique National](http://www.ngi.be/testbed/wms/top100r_l72_fr)
+
+* [Top100R_L72_NL - Nationaal Geografisch Instituut](http://www.ngi.be/testbed/wms/top100r_l72_nl)
+
+* [Top10Rgris_Fused_L72 - Nationaal Geografisch Instituut](http://www.ngi.be/testbed/wms/top10rgris_fused_l72_nl)
+
+* [Top10Rgris_Fused_L72 - Institut gépgraphique national](http://www.ngi.be/testbed/wms/top10rgris_fused_l72_fr)
+
+* [Top10Rgris_L72 - Institut Géographique National](http://www.ngi.be/testbed/wms/top10rgris_l72_nl)
+
+* [Top10Rgris_L72 - Institut Géographique National](http://www.ngi.be/testbed/wms/top10rgris_l72_fr)
+
+* [Top10R_L08 - Nationaal Geografisch Instituut](http://www.ngi.be/testbed/wms/top10r_l08_nl)
+
+* [Top10R_L08 - Institut Géographique National](http://www.ngi.be/testbed/wms/top10r_l08_fr)
+
+* [Top10R_L72 - Nationaal Geografisch Instituut](http://www.ngi.be/testbed/wms/top10r_l72_nl)
+
+* [Top10R_L72 - Institut Géographique National](http://www.ngi.be/testbed/wms/top10r_l72_fr)
+
+* [Top50R_L08 - Nationaal Geografisch Instituut](http://www.ngi.be/testbed/wms/top50r_l08_nl)
+
+* [Top50R_L08 - Institut Géographique National](http://www.ngi.be/testbed/wms/top50r_l08_fr)
+
+* [Top50R_L72 - Nationaal Geografisch Instituut](http://www.ngi.be/testbed/wms/top50r_l72_nl)
+
+* [Top50R_L72 - Institut Géographique National](http://www.ngi.be/testbed/wms/top50r_l72_fr)
+
 
 
 ##Brussels
