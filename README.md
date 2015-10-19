@@ -84,7 +84,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [Flanders Marine Institute (VLIZ) - Geoserver WMS Service - Flanders Marine Institute (VLIZ)](http://geo.vliz.be/geoserver/Emodnet/ows)
 
 * [GeoServer Web Map Service - OVAM](http://services.ovam.be/geoserver/wms)
- 
+
 * [GeoServer Web Map Service - SADL KU Leuven](http://www.ruimtemonitor.be/geoserver/wms)
 
 * [GeoServer Web Map Service - Coördinatiecel E-government](http://ogc.magdageo.vlaanderen.be/magdageo/wms)
@@ -112,7 +112,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [WMS Departement Ruimte Vlaanderen - AGIV](http://geo.agiv.be/ogc/wms/product/DeptRWO)
 
 * [WMS Digitaal Hoogtemodel Vlaanderen - AGIV](http://geo.agiv.be/ogc/wms/product/DHMV)
- 
+
 * [WMS GIPOD Publieke Informatie - AGIV](http://geo.agiv.be/ogc/wms/gipodpubliek)
 
 * [WMS Instituut voor Natuur- en Bosonderzoek - AGIV](http://geo.agiv.be/ogc/wms/product/INBO)
@@ -139,8 +139,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [EAU_ZI_2013 - SPW](http://geoservices.wallonie.be/arcgis/services/EAU/ZI_2013/MapServer/WMSServer)
 
-
-* [IMAGERIE_ORTHO_2009_2010 (Direction de la Géométrologie (SPW - SG - Département de la Géomatique))](http://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2009_2010/MapServer/WMSServer)
+* [IMAGERIE_ORTHO_2009_2010 - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG) ](http://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2009_2010/MapServer/WMSServer)
 
 * [NITRATES - SPW](http://geoservices.wallonie.be/arcgis/services/EAU/NITRATES/MapServer/WMSServer)
 
