@@ -67,13 +67,13 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Agentschap Onroerend Erfgoed Publieke View Service - Vlaamse Overheid - Mercator](https://geo.onroerenderfgoed.be/geoserver/ows)
 
-* [AGIV GRB-basiskaart WMS - AGIV](http://grb.agiv.be/geodiensten/raadpleegdiensten/GRB-basiskaart/wms)
+* [AGIV GRB WMS - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/GRB/wms)
 
-* [AGIV GRB-basiskaart WMS - grijswaarden - AGIV](http://grb.agiv.be/geodiensten/raadpleegdiensten/GRB-basiskaart/wmsgr)
+* [AGIV GRB-basiskaart WMS - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/GRB-basiskaart/wms)
 
-* [AGIV GRB-raadpleegdienst WMS - AGIV](http://grb.agiv.be/geodiensten/raadpleegdiensten/GRB/wms)
+* [AGIV GRB-basiskaart WMS - grijswaarden - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/GRB-basiskaart-grijs/wms)
 
-* [AGIV raadpleegdienst voor historische cartografie WMS - AGIV](http://geo.api.agiv.be/geodiensten/raadpleegdiensten/histcart/wms)
+* [AGIV GRB-selectie WMS - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/GRB-selectie/wms)
 
 * [AGIV raadpleegdienst voor orthofotoreeksen WMS - AGIV](http://grb.agiv.be/geodiensten/raadpleegdiensten/orthofoto/wms)
 
@@ -101,7 +101,15 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Orthobeeldvorming - AGIV](http://wms.agiv.be/inspire/wms/orthobeeldvorming)
 
-* [Orthofotomozaïek, middenschalig, winteropnamen, kleur, meest recent, Vlaanderen - AGIV](http://wms.agiv.be/ogc/wms/omkl)
+* [Orthofotomozaïek, kleinschalig, zomeropnamen - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/okz/wms)
+
+* [Orthofotomozaïek, middenschalig, winteropnamen - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/omw/wms)
+
+* [Orthofotomozaïek, middenschalig, winteropnamen, kleur, meest recent, Vlaanderen - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/omwrgbmrvl/wms)
+
+* [Orthofotomozaïek, middenschalig, zomeropnamen - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/omz/wms)
+
+* [Raadpleegdienst voor historische cartografie - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/histcart/wms)
 
 * [Wegenregister - AGIV](http://geo.agiv.be/ogc/wms/wegenregister)
 
