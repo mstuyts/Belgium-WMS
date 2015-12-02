@@ -113,6 +113,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Wegenregister - AGIV](http://geo.agiv.be/ogc/wms/wegenregister)
 
+* [WMS](http://geo.vlaamsbrabant.be:8888/TrageWegen/MapServer/WMSServer?)
+
 * [WMS Agentschap voor Landbouw en Visserij - AGIV](http://geo.agiv.be/ogc/wms/product/ALV)
 
 * [WMS Agentschap voor Natuur en Bos - AGIV](http://geo.agiv.be/ogc/wms/product/ANB)
