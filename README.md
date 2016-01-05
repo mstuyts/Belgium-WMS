@@ -7,6 +7,7 @@ The names of the services are based on the *Title* and *ContactOrganization* pro
 
 More information about WMS Services kan be found on [Wikipedia](https://en.wikipedia.org/wiki/Web_Map_Service).
 
+
 ##Belgium
 
 * [CP_CadastralParcels - FOD Financien](http://ccff02.minfin.fgov.be/cadgisWMS/CP_CadastralParcels/MapServer/WMSServer)
@@ -149,7 +150,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [EAU_ZI_2013 - SPW](http://geoservices.wallonie.be/arcgis/services/EAU/ZI_2013/MapServer/WMSServer)
 
-* [IMAGERIE_ORTHO_2009_2010 - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG) ](http://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2009_2010/MapServer/WMSServer)
+* [IMAGERIE_ORTHO_2009_2010 - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](http://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2009_2010/MapServer/WMSServer)
 
 * [NITRATES - SPW](http://geoservices.wallonie.be/arcgis/services/EAU/NITRATES/MapServer/WMSServer)
 
