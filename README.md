@@ -68,14 +68,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Agentschap Onroerend Erfgoed Publieke View Service - Vlaamse Overheid - Mercator](https://geo.onroerenderfgoed.be/geoserver/ows)
 
-* [AGIV GRB WMS - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/GRB/wms)
-
-* [AGIV GRB-basiskaart WMS - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/GRB-basiskaart/wms)
-
-* [AGIV GRB-basiskaart WMS - grijswaarden - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/GRB-basiskaart-grijs/wms)
-
-* [AGIV GRB-selectie WMS - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/GRB-selectie/wms)
-
 * [AGIV raadpleegdienst voor orthofotoreeksen WMS - AGIV](http://grb.agiv.be/geodiensten/raadpleegdiensten/orthofoto/wms)
 
 * [Bodemgebruik - AGIV](http://wms.agiv.be/inspire/wms/bodemgebruik)
@@ -125,6 +117,14 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [WMS Digitaal Hoogtemodel Vlaanderen - AGIV](http://geo.agiv.be/ogc/wms/product/DHMV)
 
 * [WMS GIPOD Publieke Informatie - AGIV](http://geo.agiv.be/ogc/wms/gipodpubliek)
+
+* [WMS GRB - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/GRB/wms)
+
+* [WMS GRB-basiskaart - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/GRB-basiskaart/wms)
+
+* [WMS GRB-basiskaart grijs - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/GRB-basiskaart-grijs/wms)
+
+* [WMS GRB-selectie - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/GRB-selectie/wms)
 
 * [WMS Instituut voor Natuur- en Bosonderzoek - AGIV](http://geo.agiv.be/ogc/wms/product/INBO)
 
