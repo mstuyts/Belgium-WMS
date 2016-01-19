@@ -14,6 +14,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [IRCEL - CELINE - Web Map Service - Belgian Interregional Environment Agency](http://geoserver.irceline.be/geoserver/ows)
 
+* [IRENA Web Map Service - Masdar Institute of Science and Technology](http://irena.masdar.ac.ae:8080/geoserver/belgium/ows)
+
 * [Top100R_L08 - Nationaal Geografisch Instituut](http://www.ngi.be/testbed/wms/top100r_l08_nl)
 
 * [Top100R_L08 - Institut Géographique National](http://www.ngi.be/testbed/wms/top100r_l08_fr)
@@ -49,6 +51,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 
 ##Brussels
+
+* [Bruenvi Bruenvi- WMS DATA NO INSPIRE - Bruxelles Environnement-IBGE](http://wms.ibgebim.be/ibgewms)
 
 * [CIRB WMS - CIRB](http://geoserver.gis.irisnet.be/urbis/wms)
 
