@@ -8,13 +8,12 @@ The names of the services are based on the *Title* and *ContactOrganization* pro
 More information about WMS Services kan be found on [Wikipedia](https://en.wikipedia.org/wiki/Web_Map_Service).
 
 
+
 ##Belgium
 
 * [CP_CadastralParcels - FOD Financien](http://ccff02.minfin.fgov.be/cadgisWMS/CP_CadastralParcels/MapServer/WMSServer)
 
 * [IRCEL - CELINE - Web Map Service - Belgian Interregional Environment Agency](http://geoserver.irceline.be/geoserver/ows)
-
-* [IRENA Web Map Service - Masdar Institute of Science and Technology](http://irena.masdar.ac.ae:8080/geoserver/belgium/ows)
 
 * [Top100R_L08 - Nationaal Geografisch Instituut](http://www.ngi.be/testbed/wms/top100r_l08_nl)
 
