@@ -10,7 +10,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 
 ##Belgium
-
 * [CP_CadastralParcels - FOD Financien](http://ccff02.minfin.fgov.be/cadgisWMS/CP_CadastralParcels/MapServer/WMSServer)
 
 * [IRCEL - CELINE - Web Map Service - Belgian Interregional Environment Agency](http://geoserver.irceline.be/geoserver/ows)
@@ -69,7 +68,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Adressen - AGIV](http://geo.agiv.be/inspire/wms/adressen)
 
-* [Agentschap Onroerend Erfgoed Publieke View Service - Vlaamse Overheid - Mercator](https://geo.onroerenderfgoed.be/geoserver/ows)
+* [Agentschap Onroerend Erfgoed Publieke View Service - Vlaamse Overheid - Onroerend Erfgoed](https://geo.onroerenderfgoed.be/geoserver/ows)
 
 * [AGIV raadpleegdienst voor orthofotoreeksen WMS - AGIV](http://grb.agiv.be/geodiensten/raadpleegdiensten/orthofoto/wms)
 
