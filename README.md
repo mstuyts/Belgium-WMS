@@ -44,6 +44,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Bodemgebruik - AGIV](http://wms.agiv.be/inspire/wms/bodemgebruik)
 
+* [CARIS Web Map Service](http://bathy.agentschapmdk.be/spatialfusionserver/services/ows/wms/WMS_ENC)
+
 * [DOV Inspire View Service - Vlaamse Overheid - DOV](http://www.dov.vlaanderen.be/geoserver/wms)
 
 * [Flanders Marine Institute (VLIZ) - Geoserver WMS Service - Flanders Marine Institute (VLIZ)](http://geo.vliz.be/geoserver/Emodnet/ows)
