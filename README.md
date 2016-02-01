@@ -156,5 +156,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [OSM-WMS Uni Heidelberg - University of Heidelberg, Department of Geography, Chair of GIScience Prof. Zipf](http://129.206.228.72/cached/hillshade)
 
+* [SeaDataNet Map Server - GHER, ULg, Belgium](http://gher-diva.phys.ulg.ac.be/web-vis/Python/web/wms)
+
 * [WMS for the GEBCO global bathymetric grid - British Oceanographic Data Centre (BODC)](http://www.gebco.net/data_and_products/gebco_web_services/web_map_service/mapserv)
 
