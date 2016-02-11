@@ -1,4 +1,3 @@
-
 # WMS List Belgium
 **A list of WMS services with data for Belgium**
 
@@ -160,3 +159,4 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [WMS for the GEBCO global bathymetric grid - British Oceanographic Data Centre (BODC)](http://www.gebco.net/data_and_products/gebco_web_services/web_map_service/mapserv)
 
+* [World Map](http://www2.demis.nl/worldmap/wms.asp)
