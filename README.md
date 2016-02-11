@@ -145,6 +145,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 ##World
 
+* [GeoServer Web Map Service - CIESIN, Columbia University](https://sedac.ciesin.columbia.edu/geoserver/wms)
+
 * [Metacarta WMS VMaplv0](http://vmap0.tiles.osgeo.org/wms/vmap0)
 
 * [NGA Geographic Grid WMS Server - NGA](http://geonames.nga.mil/grids/request.asp)
