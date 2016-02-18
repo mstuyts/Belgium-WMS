@@ -13,7 +13,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [CP_CadastralParcels - FOD Financien](http://ccff02.minfin.fgov.be/cadgisWMS/CP_CadastralParcels/MapServer/WMSServer)
 
-* [IRCEL - CELINE - Web Map Service - Belgian Interregional Environment Agency](http://geoserver.irceline.be/geoserver/ows)
+* [IRCEL - CELINE - Web Map Service - Belgian Interregional Environment Agency](http://geo.irceline.be/wms)
 
 
 
