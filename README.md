@@ -105,6 +105,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [WMS RVV Afbakeningen - AGIV](http://geo.agiv.be/ogc/wms/product/RVVAfbak)
 
+* [WMS Stroomgebiedbeheerplannen - Vlaamse Milieumaatschappij](http://geoserver.vmm.be/geoserver/HDGIS/wms)
+
 * [WMS Universiteit Gent - AGIV](http://geo.agiv.be/ogc/wms/product/UGent)
 
 * [WMS Vervoersmaatschappij De Lijn - AGIV](http://geo.agiv.be/ogc/wms/product/DeLijn)
