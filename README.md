@@ -39,8 +39,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Agentschap Onroerend Erfgoed Publieke View Service - Vlaamse Overheid - Onroerend Erfgoed](https://geo.onroerenderfgoed.be/geoserver/ows)
 
-* [AGIV raadpleegdienst voor orthofotoreeksen WMS - AGIV](http://grb.agiv.be/geodiensten/raadpleegdiensten/orthofoto/wms)
-
 * [Bodemgebruik - AGIV](http://wms.agiv.be/inspire/wms/bodemgebruik)
 
 * [CARIS Web Map Service](http://bathy.agentschapmdk.be/spatialfusionserver/services/ows/wms/WMS_ENC)
