@@ -33,6 +33,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 ##Flanders
 
+* [3D GRB - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/3DGRB/wms)
+
 * [Administratieve eenheden - AGIV](http://geo.agiv.be/inspire/wms/Administratieve_Eenheden)
 
 * [Adressen - AGIV](http://geo.agiv.be/inspire/wms/adressen)
