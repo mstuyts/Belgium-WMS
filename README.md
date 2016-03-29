@@ -101,6 +101,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [WMS Instituut voor Natuur- en Bosonderzoek - AGIV](http://geo.agiv.be/ogc/wms/product/INBO)
 
+* [WMS Opnameposities 360°-beeldendatabank Vlaanderen](https://viewer.image-v.be/MM_Opnameposities)
+
 * [WMS Percelen in eigendom Vlaamse overheid - Departement Bestuurszaken, Agentschap Facilitair Bedrijf ](http://bzgis.vlaanderen.be/ArcGIS/services/DBZ/Vastgoed_Percelen_Vlaamse_overheid/MapServer/WMSServer)
 
 * [WMS RVV Afbakeningen - AGIV](http://geo.agiv.be/ogc/wms/product/RVVAfbak)
