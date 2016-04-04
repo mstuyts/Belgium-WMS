@@ -47,6 +47,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [DOV Inspire View Service - Vlaamse Overheid - DOV](http://www.dov.vlaanderen.be/geoserver/wms)
 
+* [DSI WMS Services - Vlaamse Overheid - Departement Ruimte Vlaanderen](https://ro.ruimtevlaanderen.be/drodsi-geoserver/wms)
+
 * [Flanders Marine Institute (VLIZ) - Geoserver WMS Service - Flanders Marine Institute (VLIZ)](http://geo.vliz.be/geoserver/Emodnet/ows)
 
 * [GeoServer Web Map Service - OVAM](http://services.ovam.be/geoserver/wms)
