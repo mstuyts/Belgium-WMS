@@ -33,19 +33,21 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 ##Flanders
 
+* [3D GRB - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/3DGRB/wms)
+
 * [Administratieve eenheden - AGIV](http://geo.agiv.be/inspire/wms/Administratieve_Eenheden)
 
 * [Adressen - AGIV](http://geo.agiv.be/inspire/wms/adressen)
 
 * [Agentschap Onroerend Erfgoed Publieke View Service - Vlaamse Overheid - Onroerend Erfgoed](https://geo.onroerenderfgoed.be/geoserver/ows)
 
-* [AGIV raadpleegdienst voor orthofotoreeksen WMS - AGIV](http://grb.agiv.be/geodiensten/raadpleegdiensten/orthofoto/wms)
-
 * [Bodemgebruik - AGIV](http://wms.agiv.be/inspire/wms/bodemgebruik)
 
 * [CARIS Web Map Service](http://bathy.agentschapmdk.be/spatialfusionserver/services/ows/wms/WMS_ENC)
 
 * [DOV Inspire View Service - Vlaamse Overheid - DOV](http://www.dov.vlaanderen.be/geoserver/wms)
+
+* [DSI WMS Services - Vlaamse Overheid - Departement Ruimte Vlaanderen](https://ro.ruimtevlaanderen.be/drodsi-geoserver/wms)
 
 * [Flanders Marine Institute (VLIZ) - Geoserver WMS Service - Flanders Marine Institute (VLIZ)](http://geo.vliz.be/geoserver/Emodnet/ows)
 
@@ -101,9 +103,13 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [WMS Instituut voor Natuur- en Bosonderzoek - AGIV](http://geo.agiv.be/ogc/wms/product/INBO)
 
+* [WMS Opnameposities 360°-beeldendatabank Vlaanderen](https://viewer.image-v.be/MM_Opnameposities)
+
 * [WMS Percelen in eigendom Vlaamse overheid - Departement Bestuurszaken, Agentschap Facilitair Bedrijf ](http://bzgis.vlaanderen.be/ArcGIS/services/DBZ/Vastgoed_Percelen_Vlaamse_overheid/MapServer/WMSServer)
 
 * [WMS RVV Afbakeningen - AGIV](http://geo.agiv.be/ogc/wms/product/RVVAfbak)
+
+* [WMS Stroomgebiedbeheerplannen - Vlaamse Milieumaatschappij](http://geoserver.vmm.be/geoserver/HDGIS/wms)
 
 * [WMS Universiteit Gent - AGIV](http://geo.agiv.be/ogc/wms/product/UGent)
 
