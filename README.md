@@ -121,9 +121,9 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 ##Wallonia
 
-* [EAU_ALEA_2013 - SPW](http://geoservices.wallonie.be/arcgis/services/EAU/ALEA_2013/MapServer/WMSServer)
+* [EAU_ALEA_2016 - SPW](http://geoservices.wallonie.be/arcgis/services/EAU/ALEA_2016/MapServer/WMSServer)
 
-* [EAU_ZI_2013 - SPW](http://geoservices.wallonie.be/arcgis/services/EAU/ZI_2013/MapServer/WMSServer)
+* [EAU_ZI_2016 - SPW](http://geoservices.wallonie.be/arcgis/services/EAU/ZI_2016/MapServer/WMSServer)
 
 * [IMAGERIE_ORTHO_2009_2010 - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](http://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2009_2010/MapServer/WMSServer)
 
