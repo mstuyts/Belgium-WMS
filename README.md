@@ -127,9 +127,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 ##Wallonia
 
-* [EAU_ALEA_2016 - SPW](http://geoservices.wallonie.be/arcgis/services/EAU/ALEA_2016/MapServer/WMSServer)
-
-* [EAU_ZI_2016 - SPW](http://geoservices.wallonie.be/arcgis/services/EAU/ZI_2016/MapServer/WMSServer)
+* [ALEA_2016 - Service Pubic de Wallonie](http://geoservices.wallonie.be/arcgis/services/EAU/ALEA_2016/MapServer/WMSServer)
 
 * [IMAGERIE_ORTHO_2009_2010 - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](http://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2009_2010/MapServer/WMSServer)
 
@@ -146,6 +144,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [Web Map Service portail](http://cartopro1.wallonie.be/WMS/com.esri.wms.Esrimap/portail)
 
 * [WMS de la Carte géologique de Wallonie - Cellule Sous-sol/Géologie (SPW - DGO3)](http://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/CARTE_GEOLOGIQUE_SIMPLE/MapServer/WMSServer)
+
+* [ZI_2016 - Service Public de Wallonie](http://geoservices.wallonie.be/arcgis/services/EAU/ZI_2016/MapServer/WMSServer)
 
 
 
