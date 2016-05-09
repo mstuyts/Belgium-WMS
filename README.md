@@ -53,6 +53,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [GeoServer Web Map Service - OVAM](http://services.ovam.be/geoserver/wms)
 
+* [GeoServer Web Map Service - The ancient geographes INC](https://www.mercator.vlaanderen.be/raadpleegdienstenmercatorpubliek/wms)
+
 * [GeoServer Web Map Service - SADL KU Leuven](http://www.ruimtemonitor.be/geoserver/wms)
 
 * [GeoServer Web Map Service - Coördinatiecel E-government](http://ogc.magdageo.vlaanderen.be/magdageo/wms)
@@ -62,8 +64,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [Hydrografie - AGIV](http://geo.agiv.be/inspire/wms/hydrografie)
 
 * [IRENA Web Map Service - Masdar Institute of Science and Technology](http://irena.masdar.ac.ae:8080/geoserver/belgium/ows)
-
-* [Mercator Publieke View Service - Vlaamse Overheid - Mercator](https://www.mercator.vlaanderen.be/raadpleegdienstenmercatorpubliek/wms)
 
 * [Nutsdiensten en overheidsdiensten - AGIV](http://geo.agiv.be/inspire/wms/Nutsdiensten_en_Overheidsdiensten)
 
