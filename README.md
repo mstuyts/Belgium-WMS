@@ -63,7 +63,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Hydrografie - AGIV](http://geo.agiv.be/inspire/wms/hydrografie)
 
-* [IRENA Web Map Service - Masdar Institute of Science and Technology](http://irena.masdar.ac.ae:8080/geoserver/belgium/ows)
+* [IRENA Web Map Service - Masdar Institute of Science and Technology](http://irena.masdar.ac.ae:8080/geoserver/belgium/ows) (service down since 26/04/2016)
 
 * [Nutsdiensten en overheidsdiensten - AGIV](http://geo.agiv.be/inspire/wms/Nutsdiensten_en_Overheidsdiensten)
 
