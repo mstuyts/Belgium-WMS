@@ -45,8 +45,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [CARIS Web Map Service](http://bathy.agentschapmdk.be/spatialfusionserver/services/ows/wms/WMS_ENC)
 
-* [DOV Inspire View Service - Vlaamse Overheid - DOV](http://www.dov.vlaanderen.be/geoserver/wms)
-
 * [DSI WMS Services - Vlaamse Overheid - Departement Ruimte Vlaanderen](https://ro.ruimtevlaanderen.be/drodsi-geoserver/wms)
 
 * [Flanders Marine Institute (VLIZ) - Geoserver WMS Service - Flanders Marine Institute (VLIZ)](http://geo.vliz.be/geoserver/Emodnet/ows)
@@ -60,6 +58,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [Hoogte - AGIV](http://geo.agiv.be/inspire/wms/Hoogte)
 
 * [Hydrografie - AGIV](http://geo.agiv.be/inspire/wms/hydrografie)
+
+* [INSPIRE Raadpleegdienst Databank Ondergrond Vlaanderen - Databank Ondergrond Vlaanderen (DOV)](http://www.dov.vlaanderen.be/geoserver/wms)
 
 * [IRENA Web Map Service - IRENA](http://irena.masdar.ac.ae/geoserver/belgium/wms)
 
