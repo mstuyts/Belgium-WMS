@@ -57,6 +57,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [EMODnet Biology - Flanders Marine Institute (VLIZ)](http://geo.vliz.be/geoserver/Emodnet/ows)
 
+* [Gebouwenregister - Informatie Vlaanderen](http://vbr-beta-geosrv.azurewebsites.net/geoserver/vbr/wms)
+
 * [GeoServer Web Map Service - OVAM](http://services.ovam.be/geoserver/wms)
 
 * [GeoServer Web Map Service - SADL KU Leuven](http://www.ruimtemonitor.be/geoserver/wms)
