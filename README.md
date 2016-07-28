@@ -11,9 +11,19 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 ##Belgium
 
+* [AU_AdministrativeUnits - FOD Financien](http://ccff02.minfin.fgov.be/cadgisWMS/AU_AdministrativeUnits/MapServer/WMSServer)
+
+* [CadastralLayers - SPF Finances](http://ccff02.minfin.fgov.be/cadgisWMS/CadastralLayers/MapServer/WMSServer)
+
 * [CP_CadastralParcels - FOD Financien](http://ccff02.minfin.fgov.be/cadgisWMS/CP_CadastralParcels/MapServer/WMSServer)
 
+* [Flanders Marine Institute (VLIZ) - Geoserver WMS Service - Flanders Marine Institute (VLIZ)](http://geo.vliz.be/geoserver/ows)
+
+* [Flanders Marine Institute (VLIZ) - Geoserver WMS Service - Flanders Marine Institute (VLIZ)](http://geo.vliz.be/geoserver/Scheldemonitor/ows)
+
 * [IRCEL - CELINE - Web Map Service - Belgian Interregional Environment Agency](http://geo.irceline.be/wms)
+
+* [KMI-IRM - Web Map Service - Royal Meteorological Institute of Belgium](http://opendata.meteo.be/service/alaro/ows)
 
 
 
@@ -29,19 +39,21 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [GeoServer Web Map Service - BruGIS team - DAF - BDU](http://ws.brugis.irisnet.be/geoserver/INSPIREFR/ows)
 
+* [GeoServer Web Map Service - Brussel Mobiliteit - Bruxelles Mobilite](http://data-mobility.irisnet.be/geoserver/bm_public_space/ows)
+
 
 
 ##Flanders
 
-* [3D GRB - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/3DGRB/wms)
+* [3D GRB - AIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/3DGRB/wms)
 
-* [Administratieve eenheden - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/Administratieve_Eenheden/wms)
+* [Administratieve eenheden - AIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/Administratieve_Eenheden/wms)
 
-* [Adressen - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/Adressen/wms)
+* [Adressen - AIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/Adressen/wms)
 
 * [Agentschap Onroerend Erfgoed Publieke View Service - Vlaamse Overheid - Onroerend Erfgoed](https://geo.onroerenderfgoed.be/geoserver/ows)
 
-* [Bodemgebruik - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/Bodemgebruik/wms)
+* [Bodemgebruik - AIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/Bodemgebruik/wms)
 
 * [CARIS Web Map Service - bathy.agentschapmdk.be](http://bathy.agentschapmdk.be/spatialfusionserver/services/ows/wms/WMS_ENC)
 
@@ -65,83 +77,85 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [GeoServer Web Map Service - Coördinatiecel E-government](http://ogc.magdageo.vlaanderen.be/magdageo/wms)
 
-* [Hoogte - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/Hoogte/wms)
+* [Hoogte - AIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/Hoogte/wms)
 
-* [Hydrografie - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/Hydrografie/wms)
+* [Hydrografie - AIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/Hydrografie/wms)
 
 * [IRENA Web Map Service - IRENA](http://irena.masdar.ac.ae/geoserver/belgium/wms)
 
-* [Landgebruik - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/Landgebruik/wms)
+* [Landgebruik - AIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/Landgebruik/wms)
 
 * [Mercator Publieke View Service - Vlaamse Overheid - Mercator](https://www.mercator.vlaanderen.be/raadpleegdienstenmercatorpubliek/wms)
 
-* [Nutsdiensten en overheidsdiensten - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/Nutsdiensten_en_Overheidsdiensten/wms)
+* [Nutsdiensten en overheidsdiensten - AIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/Nutsdiensten_en_Overheidsdiensten/wms)
+
+* [OGC:WMS - RWO](https://ontwikkel.ruimtevlaanderen.be/drodsi-geoserverproxy/ServiceHandler/DSI_2013001103/PV/wms)
 
 * [OpenDataAntwerpen - geodata.antwerpen.be](http://geodata.antwerpen.be/arcgissql/services/P_Publiek/OpenDataAntwerpen/MapServer/WMSServer)
 
-* [Orthobeeldvorming - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/Orthobeeldvorming/wms)
+* [Orthobeeldvorming - AIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/Orthobeeldvorming/wms)
 
-* [Orthofotomozaïek, grootschalig, winteropnamen - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/OGW/wms)
+* [Orthofotomozaïek, grootschalig, winteropnamen - AIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/OGW/wms)
 
-* [Orthofotomozaïek, kleinschalig, zomeropnamen - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/okz/wms)
+* [Orthofotomozaïek, kleinschalig, zomeropnamen - AIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/okz/wms)
 
-* [Orthofotomozaïek, middenschalig, winteropnamen - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/omw/wms)
+* [Orthofotomozaïek, middenschalig, winteropnamen - AIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/omw/wms)
 
-* [Orthofotomozaïek, middenschalig, winteropnamen, kleur, meest recent, Vlaanderen - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/omwrgbmrvl/wms)
+* [Orthofotomozaïek, middenschalig, winteropnamen, kleur, meest recent, Vlaanderen - AIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/omwrgbmrvl/wms)
 
-* [Orthofotomozaïek, middenschalig, zomeropnamen - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/omz/wms)
+* [Orthofotomozaïek, middenschalig, zomeropnamen - AIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/omz/wms)
 
-* [Raadpleegdienst voor historische cartografie - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/histcart/wms)
+* [Raadpleegdienst voor historische cartografie - AIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/histcart/wms)
 
 * [RUPs West-Vlaanderen - Provincie West-Vlaanderen](http://www.geoloket.be/gwserver/services/WMS/AGS_SB_plannen_prup_WMS/MapServer/WMSServer)
 
-* [Statistische_Eenheden - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/Statistische_Eenheden/wms)
+* [Statistische_Eenheden - AIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/Statistische_Eenheden/wms)
 
-* [Wegenregister - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/Wegenregister/wms)
+* [Wegenregister - AIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/Wegenregister/wms)
 
 * [WMS - geoservices.vlaamsbrabant.be](https://geoservices.vlaamsbrabant.be/TrageWegen/MapServer/WMSServer)
 
-* [WMS Agentschap voor Landbouw en Visserij - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/ALV/wms)
+* [WMS Agentschap voor Landbouw en Visserij - AIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/ALV/wms)
 
-* [WMS Agentschap voor Natuur en Bos - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/ANB/wms)
+* [WMS Agentschap voor Natuur en Bos - AIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/ANB/wms)
 
-* [WMS Bodemgebruik en Bodembedekking - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/BodemgebruikBodembedekking/wms)
+* [WMS Bodemgebruik en Bodembedekking - AIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/BodemgebruikBodembedekking/wms)
 
-* [WMS Departement Ruimte Vlaanderen - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/DeptRWO/wms)
+* [WMS Departement Ruimte Vlaanderen - AIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/DeptRWO/wms)
 
-* [WMS Digitaal Hoogtemodel Vlaanderen - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/DHMV/wms)
+* [WMS Digitaal Hoogtemodel Vlaanderen - AIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/DHMV/wms)
 
-* [WMS GIPOD Publieke Informatie - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/GIPODPubliek/wms)
+* [WMS GIPOD Publieke Informatie - AIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/GIPODPubliek/wms)
 
-* [WMS GRB - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/GRB/wms)
+* [WMS GRB - AIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/GRB/wms)
 
-* [WMS GRB-basiskaart - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/GRB-basiskaart/wms)
+* [WMS GRB-basiskaart - AIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/GRB-basiskaart/wms)
 
-* [WMS GRB-basiskaart grijs - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/GRB-basiskaart-grijs/wms)
+* [WMS GRB-basiskaart grijs - AIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/GRB-basiskaart-grijs/wms)
 
-* [WMS GRB-selectie - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/GRB-selectie/wms)
+* [WMS GRB-selectie - AIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/GRB-selectie/wms)
 
-* [WMS Instituut voor Natuur- en Bosonderzoek - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/INBO/wms)
+* [WMS Instituut voor Natuur- en Bosonderzoek - AIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/INBO/wms)
 
 * [WMS Opnameposities 360°-beeldendatabank Vlaanderen - viewer.image-v.be](https://viewer.image-v.be/MM_Opnameposities)
 
 * [WMS Percelen in eigendom Vlaamse overheid - Departement Bestuurszaken, Agentschap Facilitair Bedrijf ](http://bzgis.vlaanderen.be/ArcGIS/services/DBZ/Vastgoed_Percelen_Vlaamse_overheid/MapServer/WMSServer)
 
-* [WMS RVV Afbakeningen - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/RVVAfbak/wms)
+* [WMS RVV Afbakeningen - AIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/RVVAfbak/wms)
 
 * [WMS Stroomgebiedbeheerplannen - Vlaamse Milieumaatschappij](http://geoserver.vmm.be/geoserver/HDGIS/wms)
 
-* [WMS Universiteit Gent - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/UGent/wms)
+* [WMS Universiteit Gent - AIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/UGent/wms)
 
-* [WMS Vervoersmaatschappij De Lijn - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/delijn/wms)
+* [WMS Vervoersmaatschappij De Lijn - AIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/delijn/wms)
 
-* [WMS Vlaamse Landmaatschappij - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/VLM/wms)
+* [WMS Vlaamse Landmaatschappij - AIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/VLM/wms)
 
-* [WMS Vlaamse Maatschappij voor Sociaal Wonen - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/VMSW/wms)
+* [WMS Vlaamse Maatschappij voor Sociaal Wonen - AIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/VMSW/wms)
 
-* [WMS Vlaamse Milieumaatschappij - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/VMM/wms)
+* [WMS Vlaamse Milieumaatschappij - AIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/VMM/wms)
 
-* [WMS Vlaamse Milieumaatschappij - Watertoets - AGIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/VMMWatertoets/wms)
+* [WMS Vlaamse Milieumaatschappij - Watertoets - AIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/VMMWatertoets/wms)
 
 
 
