@@ -191,6 +191,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [NGA Geographic Grid WMS Server - NGA](http://geonames.nga.mil/grids/request.asp)
 
+* [OpenGeo Demo Web Map Service - demo.boundlessgeo.com](http://demo.boundlessgeo.com/geoserver/wms)
+
 * [OpenStreetMap WMS Deutschland - terrestris GmbH und Co. KG](http://ows.terrestris.de/osm-gray/service)
 
 * [OpenStreetMap WMS Deutschland - terrestris GmbH und Co. KG](http://ows.terrestris.de/osm/service)
