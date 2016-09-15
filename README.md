@@ -187,6 +187,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [GeoServer Web Map Service - CIESIN, Columbia University](https://sedac.ciesin.columbia.edu/geoserver/wms)
 
+* [GIS-LAB.info tWMS service - Gis-Lab.info](http://irs.gis-lab.info/)
+
 * [Metacarta WMS VMaplv0 - vmap0.tiles.osgeo.org](http://vmap0.tiles.osgeo.org/wms/vmap0)
 
 * [NGA Geographic Grid WMS Server - NGA](http://geonames.nga.mil/grids/request.asp)
