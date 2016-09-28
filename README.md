@@ -77,6 +77,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [GeoServer Web Map Service - Coördinatiecel E-government](http://ogc.magdageo.vlaanderen.be/magdageo/wms)
 
+* [GeoServer Web Map Service - RWO](https://ontwikkel.ruimtevlaanderen.be/drodsi-geoserverproxy/ServiceHandler/DSI_2013001103/PV/wms)
+
 * [Hoogte - AIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/Hoogte/wms)
 
 * [Hydrografie - AIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/Hydrografie/wms)
@@ -88,8 +90,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [Mercator Publieke View Service - Vlaamse Overheid - Mercator](https://www.mercator.vlaanderen.be/raadpleegdienstenmercatorpubliek/wms)
 
 * [Nutsdiensten en overheidsdiensten - AIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/Nutsdiensten_en_Overheidsdiensten/wms)
-
-* [OGC:WMS - RWO](https://ontwikkel.ruimtevlaanderen.be/drodsi-geoserverproxy/ServiceHandler/DSI_2013001103/PV/wms)
 
 * [OpenDataAntwerpen - geodata.antwerpen.be](http://geodata.antwerpen.be/arcgissql/services/P_Publiek/OpenDataAntwerpen/MapServer/WMSServer)
 
