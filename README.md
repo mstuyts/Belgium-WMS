@@ -63,6 +63,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [dataservices_RUPs - geoservices.vlaamsbrabant.be](https://geoservices.vlaamsbrabant.be/RUPs/MapServer/WMSServer)
 
+* [dataservices_TrageWegen - geoservices.vlaamsbrabant.be](https://geoservices.vlaamsbrabant.be/TrageWegen/MapServer/WMSServer)
+
 * [DOV Inspire View Service - Vlaamse Overheid - DOV](http://www.dov.vlaanderen.be/geoserver/wms)
 
 * [DSI WMS Services - Vlaamse Overheid - Departement Ruimte Vlaanderen](https://ro.ruimtevlaanderen.be/drodsi-geoserver/wms)
@@ -112,8 +114,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [Statistische_Eenheden - AIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/Statistische_Eenheden/wms)
 
 * [Wegenregister - AIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/Wegenregister/wms)
-
-* [WMS - geoservices.vlaamsbrabant.be](https://geoservices.vlaamsbrabant.be/TrageWegen/MapServer/WMSServer)
 
 * [WMS Agentschap voor Landbouw en Visserij - AIV](http://geoservices.informatievlaanderen.be/raadpleegdiensten/ALV/wms)
 
