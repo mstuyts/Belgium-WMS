@@ -81,8 +81,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [GeoServer Web Map Service - RWO](https://ontwikkel.ruimtevlaanderen.be/drodsi-geoserverproxy/ServiceHandler/DSI_2013001103/PV/wms) - [GetCapabilities](https://ontwikkel.ruimtevlaanderen.be/drodsi-geoserverproxy/ServiceHandler/DSI_2013001103/PV/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [Hoogte - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Hoogte/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Hoogte/wms?REQUEST=GetCapabilities&SERVICE=WMS)
-
 * [Hydrografie - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Hydrografie/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Hydrografie/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [IRENA Web Map Service - IRENA](https://irena.masdar.ac.ae/geoserver/belgium/wms) - [GetCapabilities](https://irena.masdar.ac.ae/geoserver/belgium/wms?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -94,8 +92,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [Nutsdiensten en overheidsdiensten - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Nutsdiensten_en_Overheidsdiensten/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Nutsdiensten_en_Overheidsdiensten/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [OpenDataAntwerpen - geodata.antwerpen.be](https://geodata.antwerpen.be/arcgissql/services/P_Publiek/OpenDataAntwerpen/MapServer/WMSServer) - [GetCapabilities](https://geodata.antwerpen.be/arcgissql/services/P_Publiek/OpenDataAntwerpen/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
-
-* [Orthobeeldvorming - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Orthobeeldvorming/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Orthobeeldvorming/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Orthofotomozaïek, grootschalig, winteropnamen - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/OGW/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/OGW/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
