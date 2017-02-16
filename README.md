@@ -21,7 +21,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Flanders Marine Institute (VLIZ) - Geoserver WMS Service - Flanders Marine Institute (VLIZ)](http://geo.vliz.be/geoserver/Scheldemonitor/ows) - [GetCapabilities](http://geo.vliz.be/geoserver/Scheldemonitor/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [IRCEL - CELINE - Web Map Service - Belgian Interregional Environment Agency](http://geo.irceline.be/wms) - [GetCapabilities](http://geo.irceline.be/wms?REQUEST=GetCapabilities&SERVICE=WMS)
+* [IRCEL - CELINE - Web Map Service - Belgian Interregional Environment Agency](http://geo.irceline.be/aqd/wms) - [GetCapabilities](http://geo.irceline.be/aqd/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [KMI-IRM - Web Map Service - Royal Meteorological Institute of Belgium](http://opendata.meteo.be/service/alaro/ows) - [GetCapabilities](http://opendata.meteo.be/service/alaro/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
