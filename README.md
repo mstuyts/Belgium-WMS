@@ -183,6 +183,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [data.fao.org Web Map Service - The ancient geographes INC](http://data.fao.org/geo/wms) - [GetCapabilities](http://data.fao.org/geo/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [GeoServer Web Map Service - Boundless](http://suite.opengeo.org/geoserver/ows) - [GetCapabilities](http://suite.opengeo.org/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [GeoServer Web Map Service - CIESIN, Columbia University](https://sedac.ciesin.columbia.edu/geoserver/wms) - [GetCapabilities](https://sedac.ciesin.columbia.edu/geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [GIS-LAB.info tWMS service - Gis-Lab.info](http://irs.gis-lab.info/) - [GetCapabilities](http://irs.gis-lab.info/?REQUEST=GetCapabilities&SERVICE=WMS)
