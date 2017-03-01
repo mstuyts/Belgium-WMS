@@ -79,8 +79,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [GeoServer Web Map Service - RWO](https://ro.ruimtevlaanderen.be/drodsi-geoserver/wms) - [GetCapabilities](https://ro.ruimtevlaanderen.be/drodsi-geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [GeoServer Web Map Service - RWO](https://ontwikkel.ruimtevlaanderen.be/drodsi-geoserverproxy/ServiceHandler/DSI_2013001103/PV/wms) - [GetCapabilities](https://ontwikkel.ruimtevlaanderen.be/drodsi-geoserverproxy/ServiceHandler/DSI_2013001103/PV/wms?REQUEST=GetCapabilities&SERVICE=WMS)
-
 * [Hydrografie - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Hydrografie/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Hydrografie/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [IRENA Web Map Service - IRENA](https://irena.masdar.ac.ae/geoserver/belgium/wms) - [GetCapabilities](https://irena.masdar.ac.ae/geoserver/belgium/wms?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -196,8 +194,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [NASA FIRMS WMS Service - NASA /GSFC](https://firms.modaps.eosdis.nasa.gov/wms/) - [GetCapabilities](https://firms.modaps.eosdis.nasa.gov/wms/?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [NGA Geographic Grid WMS Server - NGA](http://geonames.nga.mil/grids/request.asp) - [GetCapabilities](http://geonames.nga.mil/grids/request.asp?REQUEST=GetCapabilities&SERVICE=WMS)
-
-* [OpenGeo Demo Web Map Service - demo.boundlessgeo.com](http://demo.boundlessgeo.com/geoserver/wms) - [GetCapabilities](http://demo.boundlessgeo.com/geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [OpenStreetMap WMS Deutschland - terrestris GmbH und Co. KG](https://ows.terrestris.de/osm-gray/service) - [GetCapabilities](https://ows.terrestris.de/osm-gray/service?REQUEST=GetCapabilities&SERVICE=WMS)
 
