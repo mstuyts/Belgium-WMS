@@ -69,6 +69,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [EMODnet Biology - Flanders Marine Institute (VLIZ)](http://geo.vliz.be/geoserver/Emodnet/ows) - [GetCapabilities](http://geo.vliz.be/geoserver/Emodnet/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [Gebouwen in eigendom Vlaamse overheid - Facilitair Bedrijf](http://bzgis.vlaanderen.be/ArcGIS/services/DBZ/Vastgoed_gebouwen_update/MapServer/WMSServer) - [GetCapabilities](http://bzgis.vlaanderen.be/ArcGIS/services/DBZ/Vastgoed_gebouwen_update/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [Gebouwenregister - Informatie Vlaanderen](https://vbr-beta-geosrv.azurewebsites.net/geoserver/vbr/wms) - [GetCapabilities](https://vbr-beta-geosrv.azurewebsites.net/geoserver/vbr/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [GeoServer Web Map Service - OVAM](https://services.ovam.be/geoserver/wms) - [GetCapabilities](https://services.ovam.be/geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -118,6 +120,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [WMS Departement Ruimte Vlaanderen - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/DeptRWO/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/DeptRWO/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS Digitaal Hoogtemodel Vlaanderen - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/DHMV/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/DHMV/wms?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [WMS Gebouwen in eigendom Vlaamse overheid - Facilitair Bedrijf](http://bzgis.vlaanderen.be/ArcGIS/services/DBZ/Vastgoed_Gebouwen_Vlaamse_overheid/MapServer/WMSServer) - [GetCapabilities](http://bzgis.vlaanderen.be/ArcGIS/services/DBZ/Vastgoed_Gebouwen_Vlaamse_overheid/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS GIPOD Publieke Informatie - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/GIPODPubliek/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/GIPODPubliek/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
