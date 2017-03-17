@@ -211,4 +211,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [WMS for the GEBCO global bathymetric grid - British Oceanographic Data Centre (BODC)](https://www.gebco.net/data_and_products/gebco_web_services/web_map_service/mapserv) - [GetCapabilities](https://www.gebco.net/data_and_products/gebco_web_services/web_map_service/mapserv?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [WMS World Google Maps - gis-lab.info](https://gis-lab.info/cgi-bin/wmsworld) - [GetCapabilities](https://gis-lab.info/cgi-bin/wmsworld?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [World Map - www2.demis.nl](http://www2.demis.nl/worldmap/wms.asp) - [GetCapabilities](http://www2.demis.nl/worldmap/wms.asp?REQUEST=GetCapabilities&SERVICE=WMS)
