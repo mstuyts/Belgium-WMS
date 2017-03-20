@@ -9,7 +9,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 
 
-##Belgium
+## Belgium
 
 * [AU_AdministrativeUnits - FOD Financien](https://ccff02.minfin.fgov.be/cadgisWMS/AU_AdministrativeUnits/MapServer/WMSServer) - [GetCapabilities](https://ccff02.minfin.fgov.be/cadgisWMS/AU_AdministrativeUnits/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -27,7 +27,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 
 
-##Brussels
+## Brussels
 
 * [Bruenvi Bruenvi- WMS DATA NO INSPIRE - Bruxelles Environnement-IBGE](http://wms.ibgebim.be/ibgewms) - [GetCapabilities](http://wms.ibgebim.be/ibgewms?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -43,7 +43,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 
 
-##Flanders
+## Flanders
 
 * [3D GRB - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/3DGRB/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/3DGRB/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -157,7 +157,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 
 
-##Wallonia
+## Wallonia
 
 * [ALEA_2016 - Service Pubic de Wallonie](https://geoservices.wallonie.be/arcgis/services/EAU/ALEA_2016/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/ALEA_2016/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -181,7 +181,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 
 
-##World
+## World
 
 * [data.fao.org Web Map Service - The ancient geographes INC](http://data.fao.org/geo/wms) - [GetCapabilities](http://data.fao.org/geo/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -193,7 +193,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Metacarta WMS VMaplv0 - vmap0.tiles.osgeo.org](http://vmap0.tiles.osgeo.org/wms/vmap0) - [GetCapabilities](http://vmap0.tiles.osgeo.org/wms/vmap0?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [NASA Earth Observations (NEO) WMS - Science Systems and Applications, Inc./NASA](https://neowms.sci.gsfc.nasa.gov/wms/wms) - [GetCapabilities](https://neowms.sci.gsfc.nasa.gov/wms/wms?REQUEST=GetCapabilities&SERVICE=WMS)
+* [NASA Earth Observations (NEO) WMS - Science Systems and Applications, Inc./NASA](https://neo.sci.gsfc.nasa.gov/wms/wms) - [GetCapabilities](https://neo.sci.gsfc.nasa.gov/wms/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [NASA FIRMS WMS Service - NASA /GSFC](https://firms.modaps.eosdis.nasa.gov/wms/) - [GetCapabilities](https://firms.modaps.eosdis.nasa.gov/wms/?REQUEST=GetCapabilities&SERVICE=WMS)
 
