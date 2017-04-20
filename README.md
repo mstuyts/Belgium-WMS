@@ -11,11 +11,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 ## Belgium
 
-* [AU_AdministrativeUnits - FOD Financien](https://ccff02.minfin.fgov.be/cadgisWMS/AU_AdministrativeUnits/MapServer/WMSServer) - [GetCapabilities](https://ccff02.minfin.fgov.be/cadgisWMS/AU_AdministrativeUnits/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
-
 * [CadastralLayers - SPF Finances](https://ccff02.minfin.fgov.be/cadgisWMS/CadastralLayers/MapServer/WMSServer) - [GetCapabilities](https://ccff02.minfin.fgov.be/cadgisWMS/CadastralLayers/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
-
-* [CP_CadastralParcels - FOD Financien](https://ccff02.minfin.fgov.be/cadgisWMS/CP_CadastralParcels/MapServer/WMSServer) - [GetCapabilities](https://ccff02.minfin.fgov.be/cadgisWMS/CP_CadastralParcels/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Flanders Marine Institute (VLIZ) - Geoserver WMS Service - Flanders Marine Institute (VLIZ)](http://geo.vliz.be/geoserver/ows) - [GetCapabilities](http://geo.vliz.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -55,8 +51,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Bodemgebruik - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Bodemgebruik/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Bodemgebruik/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [CARIS Web Map Service - bathy.agentschapmdk.be](http://bathy.agentschapmdk.be/spatialfusionserver/services/ows/wms/WMS_ENC) - [GetCapabilities](http://bathy.agentschapmdk.be/spatialfusionserver/services/ows/wms/WMS_ENC?REQUEST=GetCapabilities&SERVICE=WMS)
-
 * [dataservices_AtlasBuurtwegen_wijzigingen - geoservices.vlaamsbrabant.be](https://geoservices.vlaamsbrabant.be/AtlasBuurtwegen_wijzigingen/MapServer/WMSServer) - [GetCapabilities](https://geoservices.vlaamsbrabant.be/AtlasBuurtwegen_wijzigingen/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [dataservices_AtlasWaterlopen - geoservices.vlaamsbrabant.be](https://geoservices.vlaamsbrabant.be/AtlasWaterlopen/MapServer/WMSServer) - [GetCapabilities](https://geoservices.vlaamsbrabant.be/AtlasWaterlopen/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -70,8 +64,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [EMODnet Biology - Flanders Marine Institute (VLIZ)](http://geo.vliz.be/geoserver/Emodnet/ows) - [GetCapabilities](http://geo.vliz.be/geoserver/Emodnet/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Gebouwen in eigendom Vlaamse overheid - Facilitair Bedrijf](http://bzgis.vlaanderen.be/ArcGIS/services/DBZ/Vastgoed_gebouwen_update/MapServer/WMSServer) - [GetCapabilities](http://bzgis.vlaanderen.be/ArcGIS/services/DBZ/Vastgoed_gebouwen_update/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
-
-* [Gebouwenregister - Informatie Vlaanderen](https://vbr-beta-geosrv.azurewebsites.net/geoserver/vbr/wms) - [GetCapabilities](https://vbr-beta-geosrv.azurewebsites.net/geoserver/vbr/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [GeoServer Web Map Service - OVAM](https://services.ovam.be/geoserver/wms) - [GetCapabilities](https://services.ovam.be/geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -112,6 +104,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [Statistische_Eenheden - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Statistische_Eenheden/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Statistische_Eenheden/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Wegenregister - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Wegenregister/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Wegenregister/wms?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [WMS Agentschap Innoveren en Ondernemen - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/vlaio/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/vlaio/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS Agentschap voor Landbouw en Visserij - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/ALV/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/ALV/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -191,8 +185,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [GeoServer Web Map Service - CIESIN, Columbia University](https://sedac.ciesin.columbia.edu/geoserver/wms) - [GetCapabilities](https://sedac.ciesin.columbia.edu/geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [GIS-LAB.info tWMS service - Gis-Lab.info](http://irs.gis-lab.info/) - [GetCapabilities](http://irs.gis-lab.info/?REQUEST=GetCapabilities&SERVICE=WMS)
-
 * [Metacarta WMS VMaplv0 - vmap0.tiles.osgeo.org](http://vmap0.tiles.osgeo.org/wms/vmap0) - [GetCapabilities](http://vmap0.tiles.osgeo.org/wms/vmap0?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [NASA Earth Observations (NEO) WMS - Science Systems and Applications, Inc./NASA](https://neo.sci.gsfc.nasa.gov/wms/wms) - [GetCapabilities](https://neo.sci.gsfc.nasa.gov/wms/wms?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -201,13 +193,11 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [NGA Geographic Grid WMS Server - NGA](http://geonames.nga.mil/grids/request.asp) - [GetCapabilities](http://geonames.nga.mil/grids/request.asp?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [OpenStreetMap WMS Deutschland - terrestris GmbH und Co. KG](https://ows.terrestris.de/osm-gray/service) - [GetCapabilities](https://ows.terrestris.de/osm-gray/service?REQUEST=GetCapabilities&SERVICE=WMS)
+* [OpenStreetMap WMS - terrestris GmbH und Co. KG](https://ows.terrestris.de/osm-gray/service) - [GetCapabilities](https://ows.terrestris.de/osm-gray/service?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [OpenStreetMap WMS Deutschland - terrestris GmbH und Co. KG](https://ows.terrestris.de/osm/service) - [GetCapabilities](https://ows.terrestris.de/osm/service?REQUEST=GetCapabilities&SERVICE=WMS)
+* [OpenStreetMap WMS - terrestris GmbH und Co. KG](https://ows.terrestris.de/osm/service) - [GetCapabilities](https://ows.terrestris.de/osm/service?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [OSM-WMS Uni Heidelberg - University of Heidelberg, Department of Geography, Chair of GIScience Prof. Zipf](http://129.206.228.72/cached/hillshade) - [GetCapabilities](http://129.206.228.72/cached/hillshade?REQUEST=GetCapabilities&SERVICE=WMS)
-
-* [SeaDataNet Map Server - GHER, ULg, Belgium](http://gher-diva.phys.ulg.ac.be/web-vis/Python/web/wms) - [GetCapabilities](http://gher-diva.phys.ulg.ac.be/web-vis/Python/web/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS for GEE - e-GEOS](http://213.215.135.196/reflector/open/service) - [GetCapabilities](http://213.215.135.196/reflector/open/service?REQUEST=GetCapabilities&SERVICE=WMS)
 
