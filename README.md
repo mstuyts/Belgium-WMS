@@ -59,8 +59,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [dataservices_TrageWegen - geoservices.vlaamsbrabant.be](https://geoservices.vlaamsbrabant.be/TrageWegen/MapServer/WMSServer) - [GetCapabilities](https://geoservices.vlaamsbrabant.be/TrageWegen/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [DOV Inspire View Service - Vlaamse Overheid - DOV](https://www.dov.vlaanderen.be/geoserver/wms) - [GetCapabilities](https://www.dov.vlaanderen.be/geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
-
 * [EMODnet Biology - Flanders Marine Institute (VLIZ)](http://geo.vliz.be/geoserver/Emodnet/ows) - [GetCapabilities](http://geo.vliz.be/geoserver/Emodnet/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Gebouwen in eigendom Vlaamse overheid - Facilitair Bedrijf](http://bzgis.vlaanderen.be/ArcGIS/services/DBZ/Vastgoed_gebouwen_update/MapServer/WMSServer) - [GetCapabilities](http://bzgis.vlaanderen.be/ArcGIS/services/DBZ/Vastgoed_gebouwen_update/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -75,7 +73,11 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [GeoServer Web Map Service - RWO](https://ro.ruimtevlaanderen.be/drodsi-geoserver/wms) - [GetCapabilities](https://ro.ruimtevlaanderen.be/drodsi-geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [GeoServer Web Map Service - Mediaraven Vzw](https://geoserver.mediaraven.be/geoserver/gisjeugd/ows) - [GetCapabilities](https://geoserver.mediaraven.be/geoserver/gisjeugd/ows?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [Hydrografie - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Hydrografie/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Hydrografie/wms?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [INSPIRE Raadpleegdienst Databank Ondergrond Vlaanderen - Vlaamse Overheid - DOV](https://www.dov.vlaanderen.be/geoserver/wms) - [GetCapabilities](https://www.dov.vlaanderen.be/geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [IRENA Web Map Service - IRENA](https://irena.masdar.ac.ae/geoserver/belgium/wms) - [GetCapabilities](https://irena.masdar.ac.ae/geoserver/belgium/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
