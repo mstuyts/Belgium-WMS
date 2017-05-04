@@ -21,6 +21,10 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [KMI-IRM - Web Map Service - Royal Meteorological Institute of Belgium](http://opendata.meteo.be/service/alaro/ows) - [GetCapabilities](http://opendata.meteo.be/service/alaro/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [MapProxy WMS Proxy - Some Company](http://mapproxy.dfc.be/mapproxy/service) - [GetCapabilities](http://mapproxy.dfc.be/mapproxy/service?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [MapProxy WMS Proxy - Speculoos SPRL](http://bmawms.specgis.be/service) - [GetCapabilities](http://bmawms.specgis.be/service?REQUEST=GetCapabilities&SERVICE=WMS)
+
 
 
 ## Brussels
