@@ -77,6 +77,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Hydrografie - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Hydrografie/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Hydrografie/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [INSPIRE Map View Service - BEDDK](https://bathy.agentschapmdk.be/spatialfusionserver/services/ows/view/map/Map_all) - [GetCapabilities](https://bathy.agentschapmdk.be/spatialfusionserver/services/ows/view/map/Map_all?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [INSPIRE Raadpleegdienst Databank Ondergrond Vlaanderen - Vlaamse Overheid - DOV](https://www.dov.vlaanderen.be/geoserver/wms) - [GetCapabilities](https://www.dov.vlaanderen.be/geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [IRENA Web Map Service - IRENA](https://irena.masdar.ac.ae/geoserver/belgium/wms) - [GetCapabilities](https://irena.masdar.ac.ae/geoserver/belgium/wms?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -120,6 +122,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [WMS Digitaal Hoogtemodel Vlaanderen - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/DHMV/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/DHMV/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS Gebouwen in eigendom Vlaamse overheid - Facilitair Bedrijf](http://bzgis.vlaanderen.be/ArcGIS/services/DBZ/Vastgoed_Gebouwen_Vlaamse_overheid/MapServer/WMSServer) - [GetCapabilities](http://bzgis.vlaanderen.be/ArcGIS/services/DBZ/Vastgoed_Gebouwen_Vlaamse_overheid/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [WMS Gebouwenregister - AIV](https://geoservices.beta.informatievlaanderen.be/raadpleegdiensten/gebouwenregister/wms) - [GetCapabilities](https://geoservices.beta.informatievlaanderen.be/raadpleegdiensten/gebouwenregister/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS GIPOD Publieke Informatie - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/GIPODPubliek/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/GIPODPubliek/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -186,6 +190,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [GeoServer Web Map Service - Boundless](http://suite.opengeo.org/geoserver/ows) - [GetCapabilities](http://suite.opengeo.org/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [GeoServer Web Map Service - CIESIN, Columbia University](https://sedac.ciesin.columbia.edu/geoserver/wms) - [GetCapabilities](https://sedac.ciesin.columbia.edu/geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [MapProxy WMS Proxy - Some Company](http://mapproxy.geosparc.com/mapproxy/service) - [GetCapabilities](http://mapproxy.geosparc.com/mapproxy/service?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Metacarta WMS VMaplv0 - vmap0.tiles.osgeo.org](http://vmap0.tiles.osgeo.org/wms/vmap0) - [GetCapabilities](http://vmap0.tiles.osgeo.org/wms/vmap0?REQUEST=GetCapabilities&SERVICE=WMS)
 
