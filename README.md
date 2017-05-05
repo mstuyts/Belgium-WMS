@@ -21,7 +21,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [KMI-IRM - Web Map Service - Royal Meteorological Institute of Belgium](http://opendata.meteo.be/service/alaro/ows) - [GetCapabilities](http://opendata.meteo.be/service/alaro/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [MapProxy WMS Proxy - Some Company](http://mapproxy.dfc.be/mapproxy/service) - [GetCapabilities](http://mapproxy.dfc.be/mapproxy/service?REQUEST=GetCapabilities&SERVICE=WMS)
+* [MapProxy WMS Proxy - mapproxy.dfc.be](http://mapproxy.dfc.be/mapproxy/service) - [GetCapabilities](http://mapproxy.dfc.be/mapproxy/service?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [MapProxy WMS Proxy - Speculoos SPRL](http://bmawms.specgis.be/service) - [GetCapabilities](http://bmawms.specgis.be/service?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -195,7 +195,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [GeoServer Web Map Service - CIESIN, Columbia University](https://sedac.ciesin.columbia.edu/geoserver/wms) - [GetCapabilities](https://sedac.ciesin.columbia.edu/geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [MapProxy WMS Proxy - Some Company](http://mapproxy.geosparc.com/mapproxy/service) - [GetCapabilities](http://mapproxy.geosparc.com/mapproxy/service?REQUEST=GetCapabilities&SERVICE=WMS)
+* [MapProxy WMS Proxy - mapproxy.geosparc.com](http://mapproxy.geosparc.com/mapproxy/service) - [GetCapabilities](http://mapproxy.geosparc.com/mapproxy/service?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Metacarta WMS VMaplv0 - vmap0.tiles.osgeo.org](http://vmap0.tiles.osgeo.org/wms/vmap0) - [GetCapabilities](http://vmap0.tiles.osgeo.org/wms/vmap0?REQUEST=GetCapabilities&SERVICE=WMS)
 
