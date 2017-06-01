@@ -53,6 +53,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Agentschap Onroerend Erfgoed Publieke View Service - Vlaamse Overheid - Onroerend Erfgoed](https://geo.onroerenderfgoed.be/geoserver/ows) - [GetCapabilities](https://geo.onroerenderfgoed.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [AM.SensitiveArea.Wrecks - Coastal Division - Flemish Hydrography](https://bathy.agentschapmdk.be/spatialfusionserver/services/ows/view/map/AM_wrecks) - [GetCapabilities](https://bathy.agentschapmdk.be/spatialfusionserver/services/ows/view/map/AM_wrecks?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [Atlas der Buurtwegen - Provincie Antwerpen](http://gis.provincieantwerpen.be/arcgis/services/Publiek/AtlasBuurtwegen/MapServer/WMSServer) - [GetCapabilities](http://gis.provincieantwerpen.be/arcgis/services/Publiek/AtlasBuurtwegen/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Bodemgebruik - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Bodemgebruik/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Bodemgebruik/wms?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -65,13 +67,11 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [dataservices_TrageWegen - geoservices.vlaamsbrabant.be](https://geoservices.vlaamsbrabant.be/TrageWegen/MapServer/WMSServer) - [GetCapabilities](https://geoservices.vlaamsbrabant.be/TrageWegen/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [DBZ/Vastgoed_Percelen_Lokale_besturen - bzgis.vlaanderen.be](http://bzgis.vlaanderen.be/ArcGIS/services/DBZ/Vastgoed_Percelen_Lokale_besturen/MapServer/WMSServer) - [GetCapabilities](http://bzgis.vlaanderen.be/ArcGIS/services/DBZ/Vastgoed_Percelen_Lokale_besturen/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [EMODnet Biology - Flanders Marine Institute (VLIZ)](http://geo.vliz.be/geoserver/Emodnet/ows) - [GetCapabilities](http://geo.vliz.be/geoserver/Emodnet/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [Gebouwen in eigendom Vlaamse overheid - Facilitair Bedrijf](http://bzgis.vlaanderen.be/ArcGIS/services/DBZ/Vastgoed_gebouwen_update/MapServer/WMSServer) - [GetCapabilities](http://bzgis.vlaanderen.be/ArcGIS/services/DBZ/Vastgoed_gebouwen_update/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
-
 * [GeoServer Web Map Service - OVAM](https://services.ovam.be/geoserver/wms) - [GetCapabilities](https://services.ovam.be/geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
-
-* [GeoServer Web Map Service - SADL KU Leuven](http://www.ruimtemonitor.be/geoserver/wms) - [GetCapabilities](http://www.ruimtemonitor.be/geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [GeoServer Web Map Service - AGIV](https://apps.energiesparen.be/proxy/gis/geoserver/VEA/wms) - [GetCapabilities](https://apps.energiesparen.be/proxy/gis/geoserver/VEA/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -85,7 +85,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Hydrografie - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Hydrografie/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Hydrografie/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [INSPIRE Map View Service - BEDDK](https://bathy.agentschapmdk.be/spatialfusionserver/services/ows/view/map/Map_all) - [GetCapabilities](https://bathy.agentschapmdk.be/spatialfusionserver/services/ows/view/map/Map_all?REQUEST=GetCapabilities&SERVICE=WMS)
+* [INSPIRE Map View Service - Coastal Division - Flemish Hydrography](https://bathy.agentschapmdk.be/spatialfusionserver/services/ows/view/map/Map_all) - [GetCapabilities](https://bathy.agentschapmdk.be/spatialfusionserver/services/ows/view/map/Map_all?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [INSPIRE Raadpleegdienst Databank Ondergrond Vlaanderen - Vlaamse Overheid - DOV](https://www.dov.vlaanderen.be/geoserver/wms) - [GetCapabilities](https://www.dov.vlaanderen.be/geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
