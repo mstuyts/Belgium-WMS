@@ -219,7 +219,9 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [OpenStreetMap WMS - terrestris GmbH und Co. KG](https://ows.terrestris.de/osm/service) - [GetCapabilities](https://ows.terrestris.de/osm/service?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [OSM-WMS Uni Heidelberg - University of Heidelberg, Department of Geography, Chair of GIScience Prof. Zipf](http://129.206.228.72/cached/hillshade) - [GetCapabilities](http://129.206.228.72/cached/hillshade?REQUEST=GetCapabilities&SERVICE=WMS)
+* [OSM-WMS Uni Heidelberg - University of Heidelberg, Department of Geography, Chair of GIScience Prof. Zipf](http://watzmann-geog.urz.uni-heidelberg.de/cached/hillshade) - [GetCapabilities](http://watzmann-geog.urz.uni-heidelberg.de/cached/hillshade?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [OSM-WMS Uni Heidelberg - University of Heidelberg, Department of Geography, Chair of GIScience Prof. Zipf](http://watzmann-geog.urz.uni-heidelberg.de/cached/osm) - [GetCapabilities](http://watzmann-geog.urz.uni-heidelberg.de/cached/osm?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS for GEE - e-GEOS](http://213.215.135.196/reflector/open/service) - [GetCapabilities](http://213.215.135.196/reflector/open/service?REQUEST=GetCapabilities&SERVICE=WMS)
 
