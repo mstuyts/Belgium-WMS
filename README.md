@@ -33,6 +33,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [CIRB WMS - CIRB](http://geoserver.gis.irisnet.be/urbis/wms) - [GetCapabilities](http://geoserver.gis.irisnet.be/urbis/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [CIRB WMS - CIRB / CIBG](http://geoservices-urbis.irisnet.be/geoserver/ows) - [GetCapabilities](http://geoservices-urbis.irisnet.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [GeoServer Web Map Service - BruGIS team - DAF - BDU](http://ws.brugis.irisnet.be/geoserver/INSPIRENL/ows) - [GetCapabilities](http://ws.brugis.irisnet.be/geoserver/INSPIRENL/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [GeoServer Web Map Service - BruGIS team - DAF - BDU](http://ws.brugis.irisnet.be/geoserver/INSPIREEN/ows) - [GetCapabilities](http://ws.brugis.irisnet.be/geoserver/INSPIREEN/ows?REQUEST=GetCapabilities&SERVICE=WMS)
