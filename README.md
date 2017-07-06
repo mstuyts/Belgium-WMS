@@ -127,6 +127,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Orthofotomozaïek, middenschalig, zomeropnamen - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/omz/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/omz/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [Orthofotowerkbestand - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/ofw/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/ofw/wms?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [Overstromingsgevoelige_gebieden_2014 - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/Overstromingsgevoelige_gebieden_2014/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/Overstromingsgevoelige_gebieden_2014/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [overstroombaargebied - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/overstroombaargebied_2013/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/overstroombaargebied_2013/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -166,8 +168,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [WMS - gis.provincieantwerpen.be](http://gis.provincieantwerpen.be/arcgis/services/Publiek/Ms_RuimtelijkeOrdening_publiek/MapServer/WMSServer) - [GetCapabilities](http://gis.provincieantwerpen.be/arcgis/services/Publiek/Ms_RuimtelijkeOrdening_publiek/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/GOG_GGG/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/GOG_GGG/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
-
-* [WMS - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/SampleWorldCities/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/SampleWorldCities/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS Agentschap Innoveren en Ondernemen - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/vlaio/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/vlaio/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -259,8 +259,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Meteorological Service of Canada OWS Data Server - WMS - Environment and Climate Change Canada](http://geo.weather.gc.ca/geomet/) - [GetCapabilities](http://geo.weather.gc.ca/geomet/?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [NASA Earth Observations (NEO) WMS - Science Systems and Applications, Inc./NASA](https://neo.sci.gsfc.nasa.gov/wms/wms) - [GetCapabilities](https://neo.sci.gsfc.nasa.gov/wms/wms?REQUEST=GetCapabilities&SERVICE=WMS)
-
 * [NASA FIRMS WMS Service - NASA /GSFC](https://firms.modaps.eosdis.nasa.gov/wms/) - [GetCapabilities](https://firms.modaps.eosdis.nasa.gov/wms/?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [NGA Geographic Grid WMS Server - NGA](http://geonames.nga.mil/grids/request.asp) - [GetCapabilities](http://geonames.nga.mil/grids/request.asp?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -280,5 +278,3 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [WMS for GEE - e-GEOS](http://213.215.135.196/reflector/open/service) - [GetCapabilities](http://213.215.135.196/reflector/open/service?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS for the GEBCO global bathymetric grid - British Oceanographic Data Centre (BODC)](https://www.gebco.net/data_and_products/gebco_web_services/web_map_service/mapserv) - [GetCapabilities](https://www.gebco.net/data_and_products/gebco_web_services/web_map_service/mapserv?REQUEST=GetCapabilities&SERVICE=WMS)
-
-* [WMS World Google Maps - gis-lab.info](https://gis-lab.info/cgi-bin/wmsworld) - [GetCapabilities](https://gis-lab.info/cgi-bin/wmsworld?REQUEST=GetCapabilities&SERVICE=WMS)
