@@ -13,6 +13,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [CadastralLayers - SPF Finances](https://ccff02.minfin.fgov.be/cadgisWMS/CadastralLayers/MapServer/WMSServer) - [GetCapabilities](https://ccff02.minfin.fgov.be/cadgisWMS/CadastralLayers/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [CartoWeb.be - wms.ngi.be](http://wms.ngi.be/cartoweb/service) - [GetCapabilities](http://wms.ngi.be/cartoweb/service?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [Flanders Marine Institute (VLIZ) - Geoserver WMS Service - Flanders Marine Institute (VLIZ)](http://geo.vliz.be/geoserver/ows) - [GetCapabilities](http://geo.vliz.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Flanders Marine Institute (VLIZ) - Geoserver WMS Service - Flanders Marine Institute (VLIZ)](http://geo.vliz.be/geoserver/Scheldemonitor/ows) - [GetCapabilities](http://geo.vliz.be/geoserver/Scheldemonitor/ows?REQUEST=GetCapabilities&SERVICE=WMS)
