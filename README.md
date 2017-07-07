@@ -13,7 +13,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [CadastralLayers - SPF Finances](https://ccff02.minfin.fgov.be/cadgisWMS/CadastralLayers/MapServer/WMSServer) - [GetCapabilities](https://ccff02.minfin.fgov.be/cadgisWMS/CadastralLayers/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [CartoWeb.be - wms.ngi.be](http://wms.ngi.be/cartoweb/service) - [GetCapabilities](http://wms.ngi.be/cartoweb/service?REQUEST=GetCapabilities&SERVICE=WMS)
+* [CartoWeb.be - wms.ngi.be](https://wms.ngi.be/cartoweb/service) - [GetCapabilities](https://wms.ngi.be/cartoweb/service?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Flanders Marine Institute (VLIZ) - Geoserver WMS Service - Flanders Marine Institute (VLIZ)](http://geo.vliz.be/geoserver/ows) - [GetCapabilities](http://geo.vliz.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -35,7 +35,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [CIRB WMS - CIRB](http://geoserver.gis.irisnet.be/urbis/wms) - [GetCapabilities](http://geoserver.gis.irisnet.be/urbis/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [CIRB WMS - CIRB / CIBG](http://geoservices-urbis.irisnet.be/geoserver/ows) - [GetCapabilities](http://geoservices-urbis.irisnet.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WMS)
+* [CIRB WMS - CIRB / CIBG](https://geoservices-urbis.irisnet.be/geoserver/ows) - [GetCapabilities](https://geoservices-urbis.irisnet.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [GeoServer Web Map Service - BruGIS team - DAF - BDU](http://ws.brugis.irisnet.be/geoserver/INSPIRENL/ows) - [GetCapabilities](http://ws.brugis.irisnet.be/geoserver/INSPIRENL/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
