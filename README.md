@@ -43,7 +43,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [GeoServer Web Map Service - BruGIS team - DAF - BDU](http://ws.brugis.irisnet.be/geoserver/INSPIREFR/ows) - [GetCapabilities](http://ws.brugis.irisnet.be/geoserver/INSPIREFR/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [GeoServer Web Map Service - Brussel Mobiliteit - Bruxelles Mobilite](https://data-mobility.irisnet.be/geoserver/bm_public_space/ows) - [GetCapabilities](https://data-mobility.irisnet.be/geoserver/bm_public_space/ows?REQUEST=GetCapabilities&SERVICE=WMS)
+* [WMS Brussels Mobility - Brussels Mobility](https://data-mobility.irisnet.be/geoserver/bm_public_space/ows) - [GetCapabilities](https://data-mobility.irisnet.be/geoserver/bm_public_space/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
 
 
@@ -278,6 +278,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [OSM-WMS Uni Heidelberg - University of Heidelberg, Department of Geography, Chair of GIScience Prof. Zipf](http://watzmann-geog.urz.uni-heidelberg.de/cached/osm) - [GetCapabilities](http://watzmann-geog.urz.uni-heidelberg.de/cached/osm?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Sample Map - www2.demis.nl](http://www2.demis.nl/wms/wms.ashx) - [GetCapabilities](http://www2.demis.nl/wms/wms.ashx?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [WMS - tiles.boundlessgeo.com](http://tiles.boundlessgeo.com) - [GetCapabilities](http://tiles.boundlessgeo.com?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS for GEE - e-GEOS](http://213.215.135.196/reflector/open/service) - [GetCapabilities](http://213.215.135.196/reflector/open/service?REQUEST=GetCapabilities&SERVICE=WMS)
 
