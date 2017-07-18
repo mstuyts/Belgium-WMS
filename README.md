@@ -71,6 +71,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [dataservices_AtlasWaterlopen - geoservices.vlaamsbrabant.be](https://geoservices.vlaamsbrabant.be/AtlasWaterlopen/MapServer/WMSServer) - [GetCapabilities](https://geoservices.vlaamsbrabant.be/AtlasWaterlopen/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [dataservices_BFF - geoservices.vlaamsbrabant.be](https://geoservices.vlaamsbrabant.be/BFF/MapServer/WMSServer) - [GetCapabilities](https://geoservices.vlaamsbrabant.be/BFF/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [dataservices_RUPs - geoservices.vlaamsbrabant.be](https://geoservices.vlaamsbrabant.be/RUPs/MapServer/WMSServer) - [GetCapabilities](https://geoservices.vlaamsbrabant.be/RUPs/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [dataservices_TrageWegen - geoservices.vlaamsbrabant.be](https://geoservices.vlaamsbrabant.be/TrageWegen/MapServer/WMSServer) - [GetCapabilities](https://geoservices.vlaamsbrabant.be/TrageWegen/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -164,6 +166,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [Watertoets - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/Watertoets/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/Watertoets/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Wegenregister - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Wegenregister/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Wegenregister/wms?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [WMS - geoservices.vlaamsbrabant.be](https://geoservices.vlaamsbrabant.be/RecreatieveNetwerken/MapServer/WMSServer) - [GetCapabilities](https://geoservices.vlaamsbrabant.be/RecreatieveNetwerken/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS - gis.provincieantwerpen.be](http://gis.provincieantwerpen.be/arcgis/services/Publiek/AtlasWaterlopen/MapServer/WMSServer) - [GetCapabilities](http://gis.provincieantwerpen.be/arcgis/services/Publiek/AtlasWaterlopen/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
