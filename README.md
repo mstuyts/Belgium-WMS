@@ -203,6 +203,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [WMS Instituut voor Natuur- en Bosonderzoek - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/INBO/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/INBO/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [WMS Jacht - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Jacht/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Jacht/wms?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [WMS Opnameposities 360°-beeldendatabank Vlaanderen - viewer.image-v.be](https://viewer.image-v.be/MM_Opnameposities) - [GetCapabilities](https://viewer.image-v.be/MM_Opnameposities?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS Percelen in eigendom Vlaamse overheid - Departement Bestuurszaken, Agentschap Facilitair Bedrijf ](http://bzgis.vlaanderen.be/ArcGIS/services/DBZ/Vastgoed_Percelen_Vlaamse_overheid/MapServer/WMSServer) - [GetCapabilities](http://bzgis.vlaanderen.be/ArcGIS/services/DBZ/Vastgoed_Percelen_Vlaamse_overheid/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -256,8 +258,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 ## World
 
 * [data.fao.org Web Map Service - The ancient geographes INC](http://data.fao.org/geo/wms) - [GetCapabilities](http://data.fao.org/geo/wms?REQUEST=GetCapabilities&SERVICE=WMS)
-
-* [GeoServer Web Map Service - Boundless](http://suite.opengeo.org/geoserver/ows) - [GetCapabilities](http://suite.opengeo.org/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [GeoServer Web Map Service - CIESIN, Columbia University](https://sedac.ciesin.columbia.edu/geoserver/wms) - [GetCapabilities](https://sedac.ciesin.columbia.edu/geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
