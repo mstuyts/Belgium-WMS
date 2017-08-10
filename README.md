@@ -57,8 +57,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Agentschap Onroerend Erfgoed Publieke View Service - Vlaamse Overheid - Onroerend Erfgoed](https://geo.onroerenderfgoed.be/geoserver/ows) - [GetCapabilities](https://geo.onroerenderfgoed.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [AM.SensitiveArea.Wrecks - Coastal Division - Flemish Hydrography](https://bathy.agentschapmdk.be/spatialfusionserver/services/ows/view/map/AM_wrecks) - [GetCapabilities](https://bathy.agentschapmdk.be/spatialfusionserver/services/ows/view/map/AM_wrecks?REQUEST=GetCapabilities&SERVICE=WMS)
-
 * [Atlas der Buurtwegen - Provincie Antwerpen](http://gis.provincieantwerpen.be/arcgis/services/Publiek/AtlasBuurtwegen/MapServer/WMSServer) - [GetCapabilities](http://gis.provincieantwerpen.be/arcgis/services/Publiek/AtlasBuurtwegen/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [basisdata - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/basisdata/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/basisdata/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -70,6 +68,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [dataservices_AtlasBuurtwegen_wijzigingen - geoservices.vlaamsbrabant.be](https://geoservices.vlaamsbrabant.be/AtlasBuurtwegen_wijzigingen/MapServer/WMSServer) - [GetCapabilities](https://geoservices.vlaamsbrabant.be/AtlasBuurtwegen_wijzigingen/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [dataservices_AtlasWaterlopen - geoservices.vlaamsbrabant.be](https://geoservices.vlaamsbrabant.be/AtlasWaterlopen/MapServer/WMSServer) - [GetCapabilities](https://geoservices.vlaamsbrabant.be/AtlasWaterlopen/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [dataservices_BFF - geoservices.vlaamsbrabant.be](https://geoservices.vlaamsbrabant.be/BFF/MapServer/WMSServer) - [GetCapabilities](https://geoservices.vlaamsbrabant.be/BFF/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [dataservices_RUPs - geoservices.vlaamsbrabant.be](https://geoservices.vlaamsbrabant.be/RUPs/MapServer/WMSServer) - [GetCapabilities](https://geoservices.vlaamsbrabant.be/RUPs/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -165,6 +165,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Wegenregister - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Wegenregister/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Wegenregister/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [WMS - geoservices.vlaamsbrabant.be](https://geoservices.vlaamsbrabant.be/RecreatieveNetwerken/MapServer/WMSServer) - [GetCapabilities](https://geoservices.vlaamsbrabant.be/RecreatieveNetwerken/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [WMS - gis.provincieantwerpen.be](http://gis.provincieantwerpen.be/arcgis/services/Publiek/AtlasWaterlopen/MapServer/WMSServer) - [GetCapabilities](http://gis.provincieantwerpen.be/arcgis/services/Publiek/AtlasWaterlopen/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS - gis.provincieantwerpen.be](http://gis.provincieantwerpen.be/arcgis/services/Publiek/Boswijzer_Groenkaart/MapServer/WMSServer) - [GetCapabilities](http://gis.provincieantwerpen.be/arcgis/services/Publiek/Boswijzer_Groenkaart/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -220,6 +222,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [WMS Vlaamse Milieumaatschappij - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/VMM/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/VMM/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS Vlaamse Milieumaatschappij - Watertoets - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/VMMWatertoets/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/VMMWatertoets/wms?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Wrecks in the Belgian Continental Shelf - Coastal Division - Flemish Hydrography](https://bathy.agentschapmdk.be/spatialfusionserver/services/ows/view/map/AM_wrecks) - [GetCapabilities](https://bathy.agentschapmdk.be/spatialfusionserver/services/ows/view/map/AM_wrecks?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [zones - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/zones/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/zones/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
