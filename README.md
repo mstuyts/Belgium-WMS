@@ -259,6 +259,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [data.fao.org Web Map Service - The ancient geographes INC](http://data.fao.org/geo/wms) - [GetCapabilities](http://data.fao.org/geo/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [GeoServer Web Map Service - ahocevar geospatial](https://ahocevar.com/geoserver/wms) - [GetCapabilities](https://ahocevar.com/geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [GeoServer Web Map Service - CIESIN, Columbia University](https://sedac.ciesin.columbia.edu/geoserver/wms) - [GetCapabilities](https://sedac.ciesin.columbia.edu/geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [MapProxy WMS Proxy - mapproxy.geosparc.com](http://mapproxy.geosparc.com/mapproxy/service) - [GetCapabilities](http://mapproxy.geosparc.com/mapproxy/service?REQUEST=GetCapabilities&SERVICE=WMS)
