@@ -149,6 +149,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Raadpleegdienst voor historische cartografie - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/histcart/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/histcart/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [Raadpleegdienst voor luchtvaart - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/luchtvaart/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/luchtvaart/wms?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [risicokaarten - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/risicokaarten/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/risicokaarten/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Risicozones_overstroming_2006 - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/Perimetergebieden_recht_van_voorverkoop/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/Perimetergebieden_recht_van_voorverkoop/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -217,6 +219,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [WMS Vervoersmaatschappij De Lijn - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/delijn/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/delijn/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [WMS Vlaams Agentschap Zorg en Gezondheid - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/VAZG/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/VAZG/wms?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [WMS Vlaamse Landmaatschappij - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/VLM/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/VLM/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS Vlaamse Maatschappij voor Sociaal Wonen - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/VMSW/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/VMSW/wms?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -224,6 +228,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [WMS Vlaamse Milieumaatschappij - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/VMM/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/VMM/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS Vlaamse Milieumaatschappij - Watertoets - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/VMMWatertoets/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/VMMWatertoets/wms?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [WMS Zorgatlas - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/zorgatlas/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/zorgatlas/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Wrecks in the Belgian Continental Shelf - Coastal Division - Flemish Hydrography](https://bathy.agentschapmdk.be/spatialfusionserver/services/ows/view/map/AM_wrecks) - [GetCapabilities](https://bathy.agentschapmdk.be/spatialfusionserver/services/ows/view/map/AM_wrecks?REQUEST=GetCapabilities&SERVICE=WMS)
 
