@@ -81,6 +81,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [GeoServer Web Map Service - OVAM](https://services.ovam.be/geoserver/wms) - [GetCapabilities](https://services.ovam.be/geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [GeoServer Web Map Service - SADL KU Leuven](http://geoserver.ruimtemonitor.be/geoserver/rm/wms) - [GetCapabilities](http://geoserver.ruimtemonitor.be/geoserver/rm/wms?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [GeoServer Web Map Service - AGIV](https://apps.energiesparen.be/proxy/gis/geoserver/VEA/wms) - [GetCapabilities](https://apps.energiesparen.be/proxy/gis/geoserver/VEA/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [GeoServer Web Map Service - Coördinatiecel E-government](http://ogc.magdageo.vlaanderen.be/magdageo/wms) - [GetCapabilities](http://ogc.magdageo.vlaanderen.be/magdageo/wms?REQUEST=GetCapabilities&SERVICE=WMS)
