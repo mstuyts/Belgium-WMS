@@ -79,6 +79,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [EMODnet Biology - Flanders Marine Institute (VLIZ)](http://geo.vliz.be/geoserver/Emodnet/ows) - [GetCapabilities](http://geo.vliz.be/geoserver/Emodnet/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [gdi_LF - Toerisme Vlaanderen](http://trip.toerismevlaanderen.be/arcgis/services/gdi/LF/MapServer/WMSServer) - [GetCapabilities](http://trip.toerismevlaanderen.be/arcgis/services/gdi/LF/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [GeoServer Web Map Service - OVAM](https://services.ovam.be/geoserver/wms) - [GetCapabilities](https://services.ovam.be/geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [GeoServer Web Map Service - SADL KU Leuven](http://geoserver.ruimtemonitor.be/geoserver/rm/wms) - [GetCapabilities](http://geoserver.ruimtemonitor.be/geoserver/rm/wms?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -96,6 +98,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [gevaarkaarten - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/gevaarkaarten/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/gevaarkaarten/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [gevaarkaarten_klimaatprojectie_hoog - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/gevaarkaarten_klimaatprojectie_hoog/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/gevaarkaarten_klimaatprojectie_hoog/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [grenzen_regios - trip.toerismevlaanderen.be](http://trip.toerismevlaanderen.be/arcgis/services/grenzen/regios/MapServer/WMSServer) - [GetCapabilities](http://trip.toerismevlaanderen.be/arcgis/services/grenzen/regios/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [HistorischeTopoOpen - gis.provincieantwerpen.be](http://gis.provincieantwerpen.be/arcgis/services/HistorischeTopoOpen/MapServer/WMSServer) - [GetCapabilities](http://gis.provincieantwerpen.be/arcgis/services/HistorischeTopoOpen/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -155,6 +159,10 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Risicozones_overstroming_2006 - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/Perimetergebieden_recht_van_voorverkoop/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/Perimetergebieden_recht_van_voorverkoop/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [routes_fietsnetwerk - trip.toerismevlaanderen.be](http://trip.toerismevlaanderen.be/arcgis/services/routes/fietsnetwerk/MapServer/WMSServer) - [GetCapabilities](http://trip.toerismevlaanderen.be/arcgis/services/routes/fietsnetwerk/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [routes_wandelnetwerk - trip.toerismevlaanderen.be](http://trip.toerismevlaanderen.be/arcgis/services/routes/wandelnetwerk/MapServer/WMSServer) - [GetCapabilities](http://trip.toerismevlaanderen.be/arcgis/services/routes/wandelnetwerk/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [RUPs West-Vlaanderen - Provincie West-Vlaanderen](https://www.geoloket.be/gwserver/services/WMS/AGS_SB_plannen_prup_WMS/MapServer/WMSServer) - [GetCapabilities](https://www.geoloket.be/gwserver/services/WMS/AGS_SB_plannen_prup_WMS/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Signaalgebieden - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/Signaalgebieden/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/Signaalgebieden/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -189,6 +197,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [WMS Digitaal Hoogtemodel Vlaanderen - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/DHMV/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/DHMV/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [WMS Fietsnetwerk - Toerisme Vlaanderen](http://trip.toerismevlaanderen.be/arcgis/services/gdi/Fietsnetwerk/MapServer/WMSServer) - [GetCapabilities](http://trip.toerismevlaanderen.be/arcgis/services/gdi/Fietsnetwerk/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [WMS Gebouwen in eigendom Vlaamse overheid - Facilitair Bedrijf](http://bzgis.vlaanderen.be/ArcGIS/services/DBZ/Vastgoed_Gebouwen_Vlaamse_overheid/MapServer/WMSServer) - [GetCapabilities](http://bzgis.vlaanderen.be/ArcGIS/services/DBZ/Vastgoed_Gebouwen_Vlaamse_overheid/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS Gebouwenregister - AIV](https://geoservices.beta.informatievlaanderen.be/raadpleegdiensten/gebouwenregister/wms) - [GetCapabilities](https://geoservices.beta.informatievlaanderen.be/raadpleegdiensten/gebouwenregister/wms?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -211,6 +221,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [WMS Percelen in eigendom Vlaamse overheid - Departement Bestuurszaken, Agentschap Facilitair Bedrijf ](http://bzgis.vlaanderen.be/ArcGIS/services/DBZ/Vastgoed_Percelen_Vlaamse_overheid/MapServer/WMSServer) - [GetCapabilities](http://bzgis.vlaanderen.be/ArcGIS/services/DBZ/Vastgoed_Percelen_Vlaamse_overheid/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [WMS Ruiternetwerk - Toerisme Vlaanderen](http://trip.toerismevlaanderen.be/arcgis/services/gdi/ruiternetwerk/MapServer/WMSServer) - [GetCapabilities](http://trip.toerismevlaanderen.be/arcgis/services/gdi/ruiternetwerk/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [WMS RVV Afbakeningen - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/RVVAfbak/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/RVVAfbak/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS Stroomgebiedbeheerplannen - Vlaamse Milieumaatschappij](https://geoserver.vmm.be/geoserver/HDGIS/wms) - [GetCapabilities](https://geoserver.vmm.be/geoserver/HDGIS/wms?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -228,6 +240,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [WMS Vlaamse Milieumaatschappij - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/VMM/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/VMM/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS Vlaamse Milieumaatschappij - Watertoets - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/VMMWatertoets/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/VMMWatertoets/wms?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [WMS Wandelnetwerk - Toerisme Vlaanderen](http://trip.toerismevlaanderen.be/arcgis/services/gdi/wandelnetwerk/MapServer/WMSServer) - [GetCapabilities](http://trip.toerismevlaanderen.be/arcgis/services/gdi/wandelnetwerk/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS Zorgatlas - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/zorgatlas/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/zorgatlas/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
