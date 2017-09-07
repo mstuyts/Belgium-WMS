@@ -287,6 +287,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Meteorological Service of Canada OWS Data Server - WMS - Environment and Climate Change Canada](http://geo.weather.gc.ca/geomet/) - [GetCapabilities](http://geo.weather.gc.ca/geomet/?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [NASA Earth Observations (NEO) WMS - Science Systems and Applications, Inc./NASA](https://neo.sci.gsfc.nasa.gov/wms/wms) - [GetCapabilities](https://neo.sci.gsfc.nasa.gov/wms/wms?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [NASA FIRMS WMS Service - NASA /GSFC](https://firms.modaps.eosdis.nasa.gov/wms/) - [GetCapabilities](https://firms.modaps.eosdis.nasa.gov/wms/?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [NGA Geographic Grid WMS Server - NGA](http://geonames.nga.mil/grids/request.asp) - [GetCapabilities](http://geonames.nga.mil/grids/request.asp?REQUEST=GetCapabilities&SERVICE=WMS)
