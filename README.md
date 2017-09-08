@@ -307,6 +307,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [SeaDataNet Map Server - GHER, ULg, Belgium](http://sdn.oceanbrowser.net/web-vis/Python/web/wms) - [GetCapabilities](http://sdn.oceanbrowser.net/web-vis/Python/web/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [WMS - geo.limburg.be](https://geo.limburg.be/arcgis/services/SampleWorldCities/MapServer/WMSServer) - [GetCapabilities](https://geo.limburg.be/arcgis/services/SampleWorldCities/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [WMS - tiles.boundlessgeo.com](http://tiles.boundlessgeo.com) - [GetCapabilities](http://tiles.boundlessgeo.com?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS for GEE - e-GEOS](http://213.215.135.196/reflector/open/service) - [GetCapabilities](http://213.215.135.196/reflector/open/service?REQUEST=GetCapabilities&SERVICE=WMS)
