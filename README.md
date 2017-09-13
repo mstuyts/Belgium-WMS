@@ -23,6 +23,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [KMI-IRM - Web Map Service - Royal Meteorological Institute of Belgium](http://opendata.meteo.be/service/alaro/ows) - [GetCapabilities](http://opendata.meteo.be/service/alaro/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [Limites des régions agricoles belges - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/LIMITES/LIMITES_REGIONSAGRICOLES/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/LIMITES/LIMITES_REGIONSAGRICOLES/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [MapProxy WMS Proxy - mapproxy.dfc.be](http://mapproxy.dfc.be/mapproxy/service) - [GetCapabilities](http://mapproxy.dfc.be/mapproxy/service?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [MapProxy WMS Proxy - Speculoos SPRL](http://bmawms.specgis.be/service) - [GetCapabilities](http://bmawms.specgis.be/service?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -251,25 +253,193 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 ## Wallonia
 
+* [ADL - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/INDUSTRIES_SERVICES/ADL/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/INDUSTRIES_SERVICES/ADL/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [AGRICULTURE_SIGEC_PARC_AGRI_ANON - geoservices.wallonie.be](https://geoservices.wallonie.be/arcgis/services/AGRICULTURE/SIGEC_PARC_AGRI_ANON/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/AGRICULTURE/SIGEC_PARC_AGRI_ANON/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [AGRICULTURE_SIGEC_PARC_AGRI_ANON__2016 - geoservices.wallonie.be](https://geoservices.wallonie.be/arcgis/services/AGRICULTURE/SIGEC_PARC_AGRI_ANON__2016/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/AGRICULTURE/SIGEC_PARC_AGRI_ANON__2016/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [ALEA_2016 - Service Pubic de Wallonie](https://geoservices.wallonie.be/arcgis/services/EAU/ALEA_2016/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/ALEA_2016/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Aménagement foncier - Service de visualisation - Service Public de Wallonie](https://geoservices.wallonie.be/arcgis/services/AGRICULTURE/AMGT_FONC/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/AGRICULTURE/AMGT_FONC/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Atlas des cours d'eau non navigables (Vue avancée) - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/EAU/ATLAS_HYDRO/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/ATLAS_HYDRO/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Atlas des voiries vicinales - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/PLAN_REGLEMENT/ATLAS_VV_MODIF/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/PLAN_REGLEMENT/ATLAS_VV_MODIF/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [ATLAS HYDRO RESEAU - Service Public de Wallonie](https://geoservices.wallonie.be/arcgis/services/EAU/ATLAS_HYDRO__RESEAU/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/ATLAS_HYDRO__RESEAU/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [BASSINS - Service Public de Wallonie](https://geoservices.wallonie.be/arcgis/services/EAU/BASSINS/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/BASSINS/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [BIOCLIM - Service publique de Wallonie](https://geoservices.wallonie.be/arcgis/services/FAUNE_FLORE/BIOCLIM/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/FAUNE_FLORE/BIOCLIM/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [BRUIT_2006_ROAD - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/INDUSTRIES_SERVICES/BRUIT_2006_ROAD/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/INDUSTRIES_SERVICES/BRUIT_2006_ROAD/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [BRUIT_AGGLO_2011_IND - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/INDUSTRIES_SERVICES/BRUIT_AGGLO_2011_IND/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/INDUSTRIES_SERVICES/BRUIT_AGGLO_2011_IND/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [BRUIT_AGGLO_2011_RAIL - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/INDUSTRIES_SERVICES/BRUIT_AGGLO_2011_RAIL/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/INDUSTRIES_SERVICES/BRUIT_AGGLO_2011_RAIL/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [BRUIT_AGGLO_2011_ROAD - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/INDUSTRIES_SERVICES/BRUIT_AGGLO_2011_ROAD/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/INDUSTRIES_SERVICES/BRUIT_AGGLO_2011_ROAD/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Cadastre des antennes - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/INDUSTRIES_SERVICES/ANTENNES/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/INDUSTRIES_SERVICES/ANTENNES/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [CAPTAGES - SPW](https://geoservices.wallonie.be/arcgis/services/EAU/CAPTAGES/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/CAPTAGES/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Carte d&apos;occupation du sol de Wallonie version 2_07 - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/OCCUPATION_SOL/COSW2_07/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/OCCUPATION_SOL/COSW2_07/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Circulation des poissons - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/EAU/CIRC_POISSONS/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/CIRC_POISSONS/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [CNSW - Service Public de Wallonie](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/CNSW/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/CNSW/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [CNSW__PRINC_TYPES_SOLS - Service Public de Wallonie](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/CNSW__PRINC_TYPES_SOLS/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/CNSW__PRINC_TYPES_SOLS/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [CONCESSIONS_MINES_SITUATION - Service Public de Wallonie](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/CONCESSIONS_MINES_SITUATION_ADMIN/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/CONCESSIONS_MINES_SITUATION_ADMIN/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [CONCESSIONS_MINES_SUBSATNCES - Service Public de Wallonie](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/CONCESSIONS_MINES_SUBSTANCES/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/CONCESSIONS_MINES_SUBSTANCES/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [CONSULT_SSOL - Service Public de Wallonie](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/CONSULT_SSOL/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/CONSULT_SSOL/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [CONS_CYN - Service Public de Wallonie](https://geoservices.wallonie.be/arcgis/services/FAUNE_FLORE/CONS_CYN/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/FAUNE_FLORE/CONS_CYN/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Contrats de rivière - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/EAU/CONT_RIV/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/CONT_RIV/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [DECHETS_MINIERS - Service Public de Wallonie](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/DECHETS_MINIERS/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/DECHETS_MINIERS/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [DGO4_AGRO_GEO - webgisdgo4.spw.wallonie.be](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/AGRO_GEO/MapServer/WMSServer) - [GetCapabilities](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/AGRO_GEO/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [DGO4_ART_127 - webgisdgo4.spw.wallonie.be](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/ART_127/MapServer/WMSServer) - [GetCapabilities](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/ART_127/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [DGO4_BC_PAT - webgisdgo4.spw.wallonie.be](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/BC_PAT/MapServer/WMSServer) - [GetCapabilities](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/BC_PAT/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [DGO4_CAMPING - webgisdgo4.spw.wallonie.be](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/CAMPING/MapServer/WMSServer) - [GetCapabilities](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/CAMPING/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [DGO4_CCATM - webgisdgo4.spw.wallonie.be](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/CCATM/MapServer/WMSServer) - [GetCapabilities](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/CCATM/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [DGO4_CCUE - webgisdgo4.spw.wallonie.be](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/CCUE/MapServer/WMSServer) - [GetCapabilities](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/CCUE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [DGO4_COMDEC - webgisdgo4.spw.wallonie.be](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/COMDEC/MapServer/WMSServer) - [GetCapabilities](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/COMDEC/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [DGO4_IPIC - webgisdgo4.spw.wallonie.be](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/IPIC/MapServer/WMSServer) - [GetCapabilities](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/IPIC/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [DGO4_PAT_EXC - webgisdgo4.spw.wallonie.be](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/PAT_EXC/MapServer/WMSServer) - [GetCapabilities](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/PAT_EXC/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [DGO4_PAT_LSTSAV - webgisdgo4.spw.wallonie.be](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/PAT_LSTSAV/MapServer/WMSServer) - [GetCapabilities](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/PAT_LSTSAV/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [DGO4_PAT_MND - webgisdgo4.spw.wallonie.be](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/PAT_MND/MapServer/WMSServer) - [GetCapabilities](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/PAT_MND/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [DGO4_PCAML14_16 - webgisdgo4.spw.wallonie.be](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/PCAML14_16/MapServer/WMSServer) - [GetCapabilities](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/PCAML14_16/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [DGO4_PLANHP - webgisdgo4.spw.wallonie.be](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/PLANHP/MapServer/WMSServer) - [GetCapabilities](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/PLANHP/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [DGO4_PRWE - webgisdgo4.spw.wallonie.be](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/PRWE/MapServer/WMSServer) - [GetCapabilities](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/PRWE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [DGO4_RCU - webgisdgo4.spw.wallonie.be](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/RCU/MapServer/WMSServer) - [GetCapabilities](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/RCU/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [DGO4_RGBSR - webgisdgo4.spw.wallonie.be](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/RGBSR/MapServer/WMSServer) - [GetCapabilities](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/RGBSR/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [DGO4_RMBMT_URB - webgisdgo4.spw.wallonie.be](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/RMBMT_URB/MapServer/WMSServer) - [GetCapabilities](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/RMBMT_URB/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [DGO4_RUE - webgisdgo4.spw.wallonie.be](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/RUE/MapServer/WMSServer) - [GetCapabilities](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/RUE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [EAU_LIM_ADMIN_DCENN - Service Public de Wallonie](https://geoservices.wallonie.be/arcgis/services/EAU/LIM_ADMIN_DCENN/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/LIM_ADMIN_DCENN/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [ERRUISSOL - Risque d&apos;érosion hydrique diffuse - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/ERRUISSOL__EROSION_DIFFUSE/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/ERRUISSOL__EROSION_DIFFUSE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [ERRUISSOL - Risque de ruissellement concentré - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/ERRUISSOL__RUISSELLEMENT_CONCENTRE/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/ERRUISSOL__RUISSELLEMENT_CONCENTRE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [ERRUISSOL - Risque de ruissellement diffus - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/ERRUISSOL__RUISSELLEMENT_DIFFUS/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/ERRUISSOL__RUISSELLEMENT_DIFFUS/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [FAUNE_FLORE_AHREM - Service Public de Wallonie](https://geoservices.wallonie.be/arcgis/services/FAUNE_FLORE/AHREM/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/FAUNE_FLORE/AHREM/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [FAUNE_FLORE_CONSNAT - Service Public de Wallonie](https://geoservices.wallonie.be/arcgis/services/FAUNE_FLORE/CONSNAT/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/FAUNE_FLORE/CONSNAT/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [FAUNE_FLORE_LIMITES_DNF - SPW](https://geoservices.wallonie.be/arcgis/services/FAUNE_FLORE/LIMITES_DNF/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/FAUNE_FLORE/LIMITES_DNF/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [GEOLOGIE - Service Public de Wallonie](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/GEOLOGIE/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/GEOLOGIE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [IMAGERIE_ORTHO_2009_2010 - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2009_2010/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2009_2010/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [IMAGERIE_ORTHO_2012_2013 - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2012_2013/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2012_2013/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Les bassins hydrographiques - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/EAU/BASSINS__BASSINS_PG/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/BASSINS__BASSINS_PG/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [LIMITES_QS_STATBEL - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/LIMITES/LIMITES_QS_STATBEL/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/LIMITES/LIMITES_QS_STATBEL/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [LIM_ADMIN_DEE - Service Public de Wallonie](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/LIM_ADMIN_DEE/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/LIM_ADMIN_DEE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [LW_Belgium_ecotopes - maps.elie.ucl.ac.be](https://maps.elie.ucl.ac.be/cgi-bin/mapserv72?map=/maps_server/lifewatch/mapfiles/LW_Belgium_ecotopes_lc_raster.map) - [GetCapabilities](https://maps.elie.ucl.ac.be/cgi-bin/mapserv72?map=/maps_server/lifewatch/mapfiles/LW_Belgium_ecotopes_lc_raster.map?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Masses d'eau souterraine - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/EAU/MASSES_EAU_SOUT/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/MASSES_EAU_SOUT/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [MOBILITE_LIGNES_SNCB_SNCV_DESAFFECT - geoservices.wallonie.be](https://geoservices.wallonie.be/arcgis/services/MOBILITE/LIGNES_SNCB_SNCV_DESAFFECT/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/MOBILITE/LIGNES_SNCB_SNCV_DESAFFECT/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [MOULINS_HYDRO - Service Public de Wallonie](https://geoservices.wallonie.be/arcgis/services/EAU/MOULINS_HYDRO/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/MOULINS_HYDRO/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [NITRATES - SPW](https://geoservices.wallonie.be/arcgis/services/EAU/NITRATES/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/NITRATES/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Orthophotos du Service public de Wallonie : Maillage et tuilage - Service de visualisation - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_MAILLAGE_TUILAGE/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_MAILLAGE_TUILAGE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Orthophotos_1994_2000 - Service Public de Wallonie](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_1994_2000/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_1994_2000/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [ORTHO_2006_2007 - SPW](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2006_2007/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2006_2007/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [ORTHO_2015 - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2015/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2015/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [ORTHO_2015_IR - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2015_IR/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2015_IR/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [ORTHO_LAST - Service Public de Wallonie](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_LAST/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_LAST/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [ORTHO_LAST_IR - Service Public de Wallonie](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_LAST_IR/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_LAST_IR/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Plans communaux d&apos;aménagement (PCA) - Service Public de Wallonie](https://geoservices.wallonie.be/arcgis/services/AMENAGEMENT_TERRITOIRE/PCA/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/AMENAGEMENT_TERRITOIRE/PCA/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [PLANS_TRAVAUXPUBLICS_1950_1973 - SPW](https://geoservices.wallonie.be/arcgis/services/TOPOGRAPHIE/PLANS_TRAVAUXPUBLICS_1950_1973/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/TOPOGRAPHIE/PLANS_TRAVAUXPUBLICS_1950_1973/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [PROTEC_CAPT - SPW](https://geoservices.wallonie.be/arcgis/services/EAU/PROTECT_CAPT/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/PROTECT_CAPT/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Réseau routier régional - Service publique de Wallonie](https://geoservices.wallonie.be/arcgis/services/MOBILITE/RES_ROUTIER_REGIONAL/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/MOBILITE/RES_ROUTIER_REGIONAL/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Relief de la Wallonie - Modèle Numérique de Surface (MNS) 2013-2014 (Service de visualisation) - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/RELIEF/WALLONIE_MNS_2013_2014/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/RELIEF/WALLONIE_MNS_2013_2014/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Relief de la Wallonie - Modèle Numérique de Surface (MNS) 2013-2014 - Densité des mesures (Service de visualisation) - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/RELIEF/WALLONIE_MNS_2013_2014_DENSITE/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/RELIEF/WALLONIE_MNS_2013_2014_DENSITE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Relief de la Wallonie - Modèle Numérique de Terrain (MNT) 2013-2014 (Service de visualisation) - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/RELIEF/WALLONIE_MNT_2013_2014/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/RELIEF/WALLONIE_MNT_2013_2014/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [Relief de la Wallonie - Modèle Numérique de Terrain (MNT) 2013-2014 - Hillshade (Service de visualisation) - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/RELIEF/WALLONIE_MNT_2013_2014_HILLSHADE/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/RELIEF/WALLONIE_MNT_2013_2014_HILLSHADE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [Relief de la Wallonie 2013-2014 - Vue simple (Service de visualisation) - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/RELIEF/WALLONIE_2013_2014_VUE_SIMPLE/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/RELIEF/WALLONIE_2013_2014_VUE_SIMPLE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [Secteurs PARIS et bassins versant contributifs des secteurs PARIS - Service publique de Wallonie](https://geoservices.wallonie.be/arcgis/services/EAU/SECTEURS_PARIS_1621/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/SECTEURS_PARIS_1621/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [SEVESO - SPW - DGO3](https://geoservices.wallonie.be/arcgis/services/INDUSTRIES_SERVICES/SEVESO/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/INDUSTRIES_SERVICES/SEVESO/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [SIGEC_PARC_AGRI_ANON__CULTURES - Service Public de Wallonie](https://geoservices.wallonie.be/arcgis/services/AGRICULTURE/SIGEC_PARC_AGRI_ANON__CULTURES/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/AGRICULTURE/SIGEC_PARC_AGRI_ANON__CULTURES/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [SOL_SOUS_SOL_ERRUISSOL__CLASSES_PENTE - Service Public de Wallonie](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/ERRUISSOL__CLASSES_PENTE/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/ERRUISSOL__CLASSES_PENTE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Stations du réseau limnimétrique de la DGO3 - Service publique de Wallonie](https://geoservices.wallonie.be/arcgis/services/EAU/RES_LIMNI_DGARNE/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/RES_LIMNI_DGARNE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [TERRILS - Service Public de Wallonie](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/TERRILS/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/TERRILS/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [TNU_InZH - IWEPS](https://geoservices.wallonie.be/arcgis/services/HABITAT/TNU_INZH/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/HABITAT/TNU_INZH/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Wateringues - Service publique de Wallonie](https://geoservices.wallonie.be/arcgis/services/EAU/WATERINGUES/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/WATERINGUES/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Web Map Service grid_only - cartopro1.wallonie.be](http://cartopro1.wallonie.be/WMS/com.esri.wms.Esrimap/grid_only) - [GetCapabilities](http://cartopro1.wallonie.be/WMS/com.esri.wms.Esrimap/grid_only?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Web Map Service portail - cartopro1.wallonie.be](http://cartopro1.wallonie.be/WMS/com.esri.wms.Esrimap/portail) - [GetCapabilities](http://cartopro1.wallonie.be/WMS/com.esri.wms.Esrimap/portail?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [WMS - geoservices.wallonie.be](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2012_2013_IR/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2012_2013_IR/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [WMS de la Carte géologique de Wallonie - Cellule Sous-sol/Géologie (SPW - DGO3)](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/CARTE_GEOLOGIQUE_SIMPLE/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/CARTE_GEOLOGIQUE_SIMPLE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [WMS Natura 2000 - Enquêtes publiques 2012-2013 - SPW - DGO3 - DEMNA - DCD](https://geoservices.wallonie.be/arcgis/services/NATURA2000/NATURA2000_EP/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/NATURA2000/NATURA2000_EP/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [WMS Orthophotos 2009-2010 Infrarouge - Direction de la Géométrologie (SPW - SG - Département de la Géomatique)](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2009_2010_IR/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2009_2010_IR/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [ZI_2016 - Service Public de Wallonie](https://geoservices.wallonie.be/arcgis/services/EAU/ZI_2016/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/ZI_2016/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Zones de baignade et zones amonts - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/EAU/BAIGNADE/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/BAIGNADE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 
 
