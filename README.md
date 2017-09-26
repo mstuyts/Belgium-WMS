@@ -25,6 +25,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Flanders Marine Institute (VLIZ) - Geoserver WMS Service - Flanders Marine Institute (VLIZ)](http://geo.vliz.be/geoserver/Scheldemonitor/ows) - [GetCapabilities](http://geo.vliz.be/geoserver/Scheldemonitor/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [GeoServer Web Map Service - Biodiversity and Ecosystems Data and Information Centre (BEDIC)](http://geoserver.bmdc.be/ows) - [GetCapabilities](http://geoserver.bmdc.be/ows?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [hrl - Institut Géographique National](http://inspire.ngi.be/wms/hrl/MapServer/WMSServer) - [GetCapabilities](http://inspire.ngi.be/wms/hrl/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [hydrography - Institut Géographique National](http://inspire.ngi.be/wms/hydrography/MapServer/WMSServer) - [GetCapabilities](http://inspire.ngi.be/wms/hydrography/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -109,6 +111,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Agentschap Onroerend Erfgoed Publieke View Service - Vlaamse Overheid - Onroerend Erfgoed](https://geo.onroerenderfgoed.be/geoserver/ows) - [GetCapabilities](https://geo.onroerenderfgoed.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [Agentschap Onroerend Erfgoed Publieke View Service - Vlaamse Overheid - Onroerend Erfgoed](https://geo.onroerenderfgoed.be/geoserver/wms) - [GetCapabilities](https://geo.onroerenderfgoed.be/geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [Atlas der Buurtwegen - Provincie Antwerpen](http://gis.provincieantwerpen.be/arcgis/services/Publiek/AtlasBuurtwegen/MapServer/WMSServer) - [GetCapabilities](http://gis.provincieantwerpen.be/arcgis/services/Publiek/AtlasBuurtwegen/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [basisdata - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/basisdata/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/basisdata/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -146,6 +150,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [GeoServer Web Map Service - RWO](https://ro.ruimtevlaanderen.be/drodsi-geoserver/wms) - [GetCapabilities](https://ro.ruimtevlaanderen.be/drodsi-geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [GeoServer Web Map Service - Mediaraven Vzw](https://geoserver.mediaraven.be/geoserver/gisjeugd/ows) - [GetCapabilities](https://geoserver.mediaraven.be/geoserver/gisjeugd/ows?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [GeoServer Web Map Service - Stad Gent](http://extragisqa.gent.be/geoserver/Gent/ows) - [GetCapabilities](http://extragisqa.gent.be/geoserver/Gent/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [gevaarkaarten - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/gevaarkaarten_2013/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/gevaarkaarten_2013/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -431,6 +437,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [MOULINS_HYDRO - Service Public de Wallonie](https://geoservices.wallonie.be/arcgis/services/EAU/MOULINS_HYDRO/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/MOULINS_HYDRO/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [My GeoServer WMS - geonode.imio.be](http://geonode.imio.be/geoserver/ows) - [GetCapabilities](http://geonode.imio.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [NITRATES - SPW](https://geoservices.wallonie.be/arcgis/services/EAU/NITRATES/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/NITRATES/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Orthophotos du Service public de Wallonie : Maillage et tuilage - Service de visualisation - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_MAILLAGE_TUILAGE/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_MAILLAGE_TUILAGE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -515,7 +523,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [GeoServer Web Map Service - ahocevar geospatial](https://ahocevar.com/geoserver/wms) - [GetCapabilities](https://ahocevar.com/geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [GeoServer Web Map Service - CIESIN, Columbia University](https://sedac.ciesin.columbia.edu/geoserver/wms) - [GetCapabilities](https://sedac.ciesin.columbia.edu/geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
+* [GeoServer Web Map Service - OBIS](http://iobis.org/geoserver/ows) - [GetCapabilities](http://iobis.org/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [MapProxy WMS Proxy - mapproxy.geosparc.com](http://mapproxy.geosparc.com/mapproxy/service) - [GetCapabilities](http://mapproxy.geosparc.com/mapproxy/service?REQUEST=GetCapabilities&SERVICE=WMS)
 
