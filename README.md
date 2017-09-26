@@ -309,10 +309,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 ## Wallonia
 
-* [ - geoservices2.wallonie.be](https://geoservices2.wallonie.be/arcgis/services/APP_PICC/PICC/MapServer/WMSServer) - [GetCapabilities](https://geoservices2.wallonie.be/arcgis/services/APP_PICC/PICC/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
-
-* [ - geoservices2.wallonie.be](https://geoservices2.wallonie.be/arcgis/services/APP_MOBILITE/BREVETCYCLISTE/MapServer/WMSServer) - [GetCapabilities](https://geoservices2.wallonie.be/arcgis/services/APP_MOBILITE/BREVETCYCLISTE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
-
 * [ADL - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/INDUSTRIES_SERVICES/ADL/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/INDUSTRIES_SERVICES/ADL/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [AGRICULTURE_SIGEC_PARC_AGRI_ANON - geoservices.wallonie.be](https://geoservices.wallonie.be/arcgis/services/AGRICULTURE/SIGEC_PARC_AGRI_ANON/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/AGRICULTURE/SIGEC_PARC_AGRI_ANON/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -494,6 +490,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [Web Map Service portail - cartopro1.wallonie.be](http://cartopro1.wallonie.be/WMS/com.esri.wms.Esrimap/portail) - [GetCapabilities](http://cartopro1.wallonie.be/WMS/com.esri.wms.Esrimap/portail?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2012_2013_IR/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2012_2013_IR/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [WMS - geoservices2.wallonie.be](https://geoservices2.wallonie.be/arcgis/services/APP_MOBILITE/BREVETCYCLISTE/MapServer/WMSServer) - [GetCapabilities](https://geoservices2.wallonie.be/arcgis/services/APP_MOBILITE/BREVETCYCLISTE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS - sig.issep.be](http://sig.issep.be/arcgis/services/Air/AIR/MapServer/WMSServer) - [GetCapabilities](http://sig.issep.be/arcgis/services/Air/AIR/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
