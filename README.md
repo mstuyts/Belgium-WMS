@@ -25,7 +25,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Flanders Marine Institute (VLIZ) - Geoserver WMS Service - Flanders Marine Institute (VLIZ)](http://geo.vliz.be/geoserver/Scheldemonitor/ows) - [GetCapabilities](http://geo.vliz.be/geoserver/Scheldemonitor/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [GeoServer Web Map Service - Biodiversity and Ecosystems Data and Information Centre (BEDIC)](http://geoserver.bmdc.be/ows) - [GetCapabilities](http://geoserver.bmdc.be/ows?REQUEST=GetCapabilities&SERVICE=WMS)
+* [GeoServer Web Map Service - Biodiversity and Ecosystems Data and Information Centre (BEDIC)](https://geoserver.bmdc.be/ows) - [GetCapabilities](https://geoserver.bmdc.be/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [hrl - Institut Géographique National](http://inspire.ngi.be/wms/hrl/MapServer/WMSServer) - [GetCapabilities](http://inspire.ngi.be/wms/hrl/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -151,7 +151,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [GeoServer Web Map Service - Mediaraven Vzw](https://geoserver.mediaraven.be/geoserver/gisjeugd/ows) - [GetCapabilities](https://geoserver.mediaraven.be/geoserver/gisjeugd/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [GeoServer Web Map Service - Stad Gent](http://extragisqa.gent.be/geoserver/Gent/ows) - [GetCapabilities](http://extragisqa.gent.be/geoserver/Gent/ows?REQUEST=GetCapabilities&SERVICE=WMS)
+* [GeoServer Web Map Service - Stad Gent](https://extragisqa.gent.be/geoserver/Gent/ows) - [GetCapabilities](https://extragisqa.gent.be/geoserver/Gent/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [gevaarkaarten - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/gevaarkaarten_2013/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/gevaarkaarten_2013/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -315,9 +315,11 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 ## Wallonia
 
+* [ - geoservices.wallonie.be](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/ERRUISSOL__RUISSELLEMENT_CONCENTRE/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/ERRUISSOL__RUISSELLEMENT_CONCENTRE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [ADL - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/INDUSTRIES_SERVICES/ADL/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/INDUSTRIES_SERVICES/ADL/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [AGRICULTURE_SIGEC_PARC_AGRI_ANON - geoservices.wallonie.be](https://geoservices.wallonie.be/arcgis/services/AGRICULTURE/SIGEC_PARC_AGRI_ANON/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/AGRICULTURE/SIGEC_PARC_AGRI_ANON/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+* [AGRICULTURE_SIGEC_PARC_AGRI_ANON - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/AGRICULTURE/SIGEC_PARC_AGRI_ANON/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/AGRICULTURE/SIGEC_PARC_AGRI_ANON/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [AGRICULTURE_SIGEC_PARC_AGRI_ANON__2016 - geoservices.wallonie.be](https://geoservices.wallonie.be/arcgis/services/AGRICULTURE/SIGEC_PARC_AGRI_ANON__2016/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/AGRICULTURE/SIGEC_PARC_AGRI_ANON__2016/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -407,9 +409,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [ERRUISSOL - Risque d´érosion hydrique diffuse - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/ERRUISSOL__EROSION_DIFFUSE/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/ERRUISSOL__EROSION_DIFFUSE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [ERRUISSOL - Risque de ruissellement concentré - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/ERRUISSOL__RUISSELLEMENT_CONCENTRE/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/ERRUISSOL__RUISSELLEMENT_CONCENTRE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
-
-* [ERRUISSOL - Risque de ruissellement diffus - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/ERRUISSOL__RUISSELLEMENT_DIFFUS/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/ERRUISSOL__RUISSELLEMENT_DIFFUS/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+* [ERRUISSOL - Risque de ruissellement diffus - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/ERRUISSOL__RUISSELLEMENT_DIFFUS/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/ERRUISSOL__RUISSELLEMENT_DIFFUS/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [FAUNE_FLORE_AHREM - Service Public de Wallonie](https://geoservices.wallonie.be/arcgis/services/FAUNE_FLORE/AHREM/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/FAUNE_FLORE/AHREM/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -431,13 +431,13 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [LW_Belgium_ecotopes - maps.elie.ucl.ac.be](https://maps.elie.ucl.ac.be/cgi-bin/mapserv72?map=/maps_server/lifewatch/mapfiles/LW_Belgium_ecotopes_lc_raster.map) - [GetCapabilities](https://maps.elie.ucl.ac.be/cgi-bin/mapserv72?map=/maps_server/lifewatch/mapfiles/LW_Belgium_ecotopes_lc_raster.map?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [Masses d'eau souterraine - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/EAU/MASSES_EAU_SOUT/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/MASSES_EAU_SOUT/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+* [Masses d'eau souterraine - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/EAU/MASSES_EAU_SOUT/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/MASSES_EAU_SOUT/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [MOBILITE_LIGNES_SNCB_SNCV_DESAFFECT - geoservices.wallonie.be](https://geoservices.wallonie.be/arcgis/services/MOBILITE/LIGNES_SNCB_SNCV_DESAFFECT/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/MOBILITE/LIGNES_SNCB_SNCV_DESAFFECT/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [MOULINS_HYDRO - Service Public de Wallonie](https://geoservices.wallonie.be/arcgis/services/EAU/MOULINS_HYDRO/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/MOULINS_HYDRO/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [My GeoServer WMS - geonode.imio.be](http://geonode.imio.be/geoserver/ows) - [GetCapabilities](http://geonode.imio.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WMS)
+* [My GeoServer WMS - geonode.imio.be](https://geonode.imio.be/geoserver/ows) - [GetCapabilities](https://geonode.imio.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [NITRATES - SPW](https://geoservices.wallonie.be/arcgis/services/EAU/NITRATES/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/NITRATES/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
