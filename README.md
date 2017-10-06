@@ -337,6 +337,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [WMS Zorgatlas - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/zorgatlas/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/zorgatlas/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [Wrecks in the Belgian Continental Shelf - Coastal Division - Flemish Hydrography](https://bathy.agentschapmdk.be/spatialfusionserver/services/ows/view/map/AM_wrecks) - [GetCapabilities](https://bathy.agentschapmdk.be/spatialfusionserver/services/ows/view/map/AM_wrecks?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [zones - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/zones/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/zones/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 
@@ -548,6 +550,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [data.fao.org Web Map Service - The ancient geographes INC](http://data.fao.org/geo/wms) - [GetCapabilities](http://data.fao.org/geo/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [GeoServer Web Map Service - ahocevar geospatial](https://ahocevar.com/geoserver/wms) - [GetCapabilities](https://ahocevar.com/geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [GeoServer Web Map Service - CIESIN, Columbia University](https://sedac.ciesin.columbia.edu/geoserver/wms) - [GetCapabilities](https://sedac.ciesin.columbia.edu/geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [GeoServer Web Map Service - OBIS](http://iobis.org/geoserver/ows) - [GetCapabilities](http://iobis.org/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
