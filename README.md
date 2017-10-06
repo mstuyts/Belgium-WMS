@@ -315,8 +315,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 ## Wallonia
 
-* [ - geoservices.wallonie.be](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/ERRUISSOL__RUISSELLEMENT_CONCENTRE/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/ERRUISSOL__RUISSELLEMENT_CONCENTRE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
-
 * [ADL - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/INDUSTRIES_SERVICES/ADL/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/INDUSTRIES_SERVICES/ADL/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [AGRICULTURE_SIGEC_PARC_AGRI_ANON - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/AGRICULTURE/SIGEC_PARC_AGRI_ANON/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/AGRICULTURE/SIGEC_PARC_AGRI_ANON/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -439,7 +437,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [My GeoServer WMS - geonode.imio.be](https://geonode.imio.be/geoserver/ows) - [GetCapabilities](https://geonode.imio.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [NITRATES - SPW](https://geoservices.wallonie.be/arcgis/services/EAU/NITRATES/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/NITRATES/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+* [NITRATES - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/EAU/NITRATES/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/NITRATES/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Orthophotos du Service public de Wallonie : Maillage et tuilage - Service de visualisation - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_MAILLAGE_TUILAGE/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_MAILLAGE_TUILAGE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -479,7 +477,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Secteurs PARIS et bassins versant contributifs des secteurs PARIS - Service publique de Wallonie](https://geoservices.wallonie.be/arcgis/services/EAU/SECTEURS_PARIS_1621/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/SECTEURS_PARIS_1621/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [SEVESO - SPW - DGO3](https://geoservices.wallonie.be/arcgis/services/INDUSTRIES_SERVICES/SEVESO/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/INDUSTRIES_SERVICES/SEVESO/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+* [SEVESO - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/INDUSTRIES_SERVICES/SEVESO/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/INDUSTRIES_SERVICES/SEVESO/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [SIGEC_PARC_AGRI_ANON__CULTURES - Service Public de Wallonie](https://geoservices.wallonie.be/arcgis/services/AGRICULTURE/SIGEC_PARC_AGRI_ANON__CULTURES/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/AGRICULTURE/SIGEC_PARC_AGRI_ANON__CULTURES/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
