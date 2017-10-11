@@ -381,17 +381,15 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Carte d´occupation du sol de Wallonie version 2_07 - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/OCCUPATION_SOL/COSW2_07/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/OCCUPATION_SOL/COSW2_07/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [Circulation des poissons - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/EAU/CIRC_POISSONS/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/CIRC_POISSONS/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+* [Circulation des poissons - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/EAU/CIRC_POISSONS/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/CIRC_POISSONS/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [CNSW - Service Public de Wallonie](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/CNSW/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/CNSW/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+* [CNSW - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/CNSW/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/CNSW/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [CNSW__PRINC_TYPES_SOLS - Service Public de Wallonie](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/CNSW__PRINC_TYPES_SOLS/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/CNSW__PRINC_TYPES_SOLS/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [CONCESSIONS_MINES_SITUATION - Service Public de Wallonie](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/CONCESSIONS_MINES_SITUATION_ADMIN/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/CONCESSIONS_MINES_SITUATION_ADMIN/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+* [CONCESSIONS_MINES_SITUATION - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/CONCESSIONS_MINES_SITUATION_ADMIN/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/CONCESSIONS_MINES_SITUATION_ADMIN/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [CONCESSIONS_MINES_SUBSATNCES - Service Public de Wallonie](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/CONCESSIONS_MINES_SUBSTANCES/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/CONCESSIONS_MINES_SUBSTANCES/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
-
-* [CONSULT_SSOL - Service Public de Wallonie](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/CONSULT_SSOL/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/CONSULT_SSOL/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+* [CONCESSIONS_MINES_SUBSATNCES - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/CONCESSIONS_MINES_SUBSTANCES/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/CONCESSIONS_MINES_SUBSTANCES/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [CONS_CYN - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/FAUNE_FLORE/CONS_CYN/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/FAUNE_FLORE/CONS_CYN/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -533,7 +531,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [WMS - sig.issep.be](http://sig.issep.be/arcgis/services/Eau/BassinVersant/MapServer/WMSServer) - [GetCapabilities](http://sig.issep.be/arcgis/services/Eau/BassinVersant/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [WMS de la Carte géologique de Wallonie - Cellule Sous-sol/Géologie (SPW - DGO3)](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/CARTE_GEOLOGIQUE_SIMPLE/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/CARTE_GEOLOGIQUE_SIMPLE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+* [WMS de la Carte géologique de Wallonie - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/CARTE_GEOLOGIQUE_SIMPLE/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/CARTE_GEOLOGIQUE_SIMPLE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS Natura 2000 - Enquêtes publiques 2012-2013 - SPW - DGO3 - DEMNA - DCD](https://geoservices.wallonie.be/arcgis/services/NATURA2000/NATURA2000_EP/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/NATURA2000/NATURA2000_EP/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -542,6 +540,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [ZI_2016 - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/EAU/ZI_2016/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/ZI_2016/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Zones de baignade et zones amonts - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/EAU/BAIGNADE/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/BAIGNADE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Zones de consultation de la DRIGM - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/CONSULT_SSOL/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/CONSULT_SSOL/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 
 
