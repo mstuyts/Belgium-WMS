@@ -567,11 +567,15 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [NGA Geographic Grid WMS Server - NGA](http://geonames.nga.mil/grids/request.asp) - [GetCapabilities](http://geonames.nga.mil/grids/request.asp?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [Open Transport Map - traffic volumes on the road segments of OTN pilot regions (WMS-T) - gis.lesprojekt.cz](http://gis.lesprojekt.cz/wms/transport/traffic_volumes) - [GetCapabilities](http://gis.lesprojekt.cz/wms/transport/traffic_volumes?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [OpenStreetMap WMS - terrestris GmbH und Co. KG](https://ows.terrestris.de/osm-gray/service) - [GetCapabilities](https://ows.terrestris.de/osm-gray/service?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [OpenStreetMap WMS - terrestris GmbH und Co. KG](https://ows.terrestris.de/osm/service) - [GetCapabilities](https://ows.terrestris.de/osm/service?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [OpenStreetMap WMS - terrestris GmbH und Co. KG](https://ows.mundialis.de/services/service) - [GetCapabilities](https://ows.mundialis.de/services/service?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [OpenTransportMap - gis.lesprojekt.cz](http://gis.lesprojekt.cz/wms/transport/open_transport_map) - [GetCapabilities](http://gis.lesprojekt.cz/wms/transport/open_transport_map?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [OSM-WMS Uni Heidelberg - University of Heidelberg, Department of Geography, Chair of GIScience Prof. Zipf](http://watzmann-geog.urz.uni-heidelberg.de/cached/hillshade) - [GetCapabilities](http://watzmann-geog.urz.uni-heidelberg.de/cached/hillshade?REQUEST=GetCapabilities&SERVICE=WMS)
 
