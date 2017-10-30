@@ -277,6 +277,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [WMS - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/GOG_GGG/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/GOG_GGG/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [WMS - indicatoren.verkeerscentrum.be](http://indicatoren.verkeerscentrum.be/geoserver/ows) - [GetCapabilities](http://indicatoren.verkeerscentrum.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [WMS Agentschap Innoveren en Ondernemen - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/vlaio/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/vlaio/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS Agentschap voor Landbouw en Visserij - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/ALV/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/ALV/wms?REQUEST=GetCapabilities&SERVICE=WMS)
