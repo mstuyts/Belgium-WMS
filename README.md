@@ -435,8 +435,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [DGO4_RUE - webgisdgo4.spw.wallonie.be](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/RUE/MapServer/WMSServer) - [GetCapabilities](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/RUE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [EAU_LIM_ADMIN_DCENN - Service Public de Wallonie](https://geoservices.wallonie.be/arcgis/services/EAU/LIM_ADMIN_DCENN/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/LIM_ADMIN_DCENN/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
-
 * [ERRUISSOL - Risque d´érosion hydrique diffuse - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/ERRUISSOL__EROSION_DIFFUSE/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/ERRUISSOL__EROSION_DIFFUSE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [ERRUISSOL - Risque de ruissellement diffus - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/ERRUISSOL__RUISSELLEMENT_DIFFUS/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/ERRUISSOL__RUISSELLEMENT_DIFFUS/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
