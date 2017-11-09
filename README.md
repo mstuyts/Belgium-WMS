@@ -177,7 +177,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [GeoServer Web Map Service - RWO](https://ro.ruimtevlaanderen.be/drodsi-geoserver/wms) - [GetCapabilities](https://ro.ruimtevlaanderen.be/drodsi-geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [GeoServer Web Map Service - The ancient geographes INC](https://geoserver.rwo.be/geoserver/wms) - [GetCapabilities](https://geoserver.rwo.be/geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
+* [GeoServer Web Map Service - geoserver.rwo.be](https://geoserver.rwo.be/geoserver/wms) - [GetCapabilities](https://geoserver.rwo.be/geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [GeoServer Web Map Service - RWO](https://ro-publiek.ruimtevlaanderen.be/drodsi-geoserver/wms) - [GetCapabilities](https://ro-publiek.ruimtevlaanderen.be/drodsi-geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -605,7 +605,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 ## World
 
-* [data.fao.org Web Map Service - The ancient geographes INC](http://data.fao.org/geo/wms) - [GetCapabilities](http://data.fao.org/geo/wms?REQUEST=GetCapabilities&SERVICE=WMS)
+* [data.fao.org Web Map Service - data.fao.org](http://data.fao.org/geo/wms) - [GetCapabilities](http://data.fao.org/geo/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [GeoServer Web Map Service - ahocevar geospatial](https://ahocevar.com/geoserver/wms) - [GetCapabilities](https://ahocevar.com/geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
