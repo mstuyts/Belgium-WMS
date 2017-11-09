@@ -177,6 +177,10 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [GeoServer Web Map Service - RWO](https://ro.ruimtevlaanderen.be/drodsi-geoserver/wms) - [GetCapabilities](https://ro.ruimtevlaanderen.be/drodsi-geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [GeoServer Web Map Service - The ancient geographes INC](https://geoserver.rwo.be/geoserver/wms) - [GetCapabilities](https://geoserver.rwo.be/geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [GeoServer Web Map Service - RWO](https://ro-publiek.ruimtevlaanderen.be/drodsi-geoserver/wms) - [GetCapabilities](https://ro-publiek.ruimtevlaanderen.be/drodsi-geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [GeoServer Web Map Service - Mediaraven Vzw](https://geoserver.mediaraven.be/geoserver/gisjeugd/ows) - [GetCapabilities](https://geoserver.mediaraven.be/geoserver/gisjeugd/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [GeoServer Web Map Service - Stad Gent](https://extragisqa.gent.be/geoserver/Gent/ows) - [GetCapabilities](https://extragisqa.gent.be/geoserver/Gent/ows?REQUEST=GetCapabilities&SERVICE=WMS)
