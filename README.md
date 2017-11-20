@@ -643,6 +643,14 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [SeaDataNet Map Server - GHER, ULg, Belgium](http://sdn.oceanbrowser.net/web-vis/Python/web/wms) - [GetCapabilities](http://sdn.oceanbrowser.net/web-vis/Python/web/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [WMS - rmgsc.cr.usgs.gov](https://rmgsc.cr.usgs.gov/arcgis/services/globalelus/MapServer/WMSServer) - [GetCapabilities](https://rmgsc.cr.usgs.gov/arcgis/services/globalelus/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [WMS - rmgsc.cr.usgs.gov](https://rmgsc.cr.usgs.gov/arcgis/services/gmek1/MapServer/WMSServer) - [GetCapabilities](https://rmgsc.cr.usgs.gov/arcgis/services/gmek1/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [WMS - rmgsc.cr.usgs.gov](https://rmgsc.cr.usgs.gov/arcgis/services/gmek2/MapServer/WMSServer) - [GetCapabilities](https://rmgsc.cr.usgs.gov/arcgis/services/gmek2/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [WMS - rmgsc.cr.usgs.gov](https://rmgsc.cr.usgs.gov/arcgis/services/gmek3/MapServer/WMSServer) - [GetCapabilities](https://rmgsc.cr.usgs.gov/arcgis/services/gmek3/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [WMS - geo.limburg.be](https://geo.limburg.be/arcgis/services/SampleWorldCities/MapServer/WMSServer) - [GetCapabilities](https://geo.limburg.be/arcgis/services/SampleWorldCities/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS - tiles.boundlessgeo.com](http://tiles.boundlessgeo.com) - [GetCapabilities](http://tiles.boundlessgeo.com?REQUEST=GetCapabilities&SERVICE=WMS)
