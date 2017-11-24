@@ -1,3 +1,4 @@
+
 # WMS List Belgium
 **A list of WMS services with data for Belgium**
 
@@ -161,6 +162,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [DBZ/Vastgoed_Percelen_Lokale_besturen - bzgis.vlaanderen.be](http://bzgis.vlaanderen.be/ArcGIS/services/DBZ/Vastgoed_Percelen_Lokale_besturen/MapServer/WMSServer) - [GetCapabilities](http://bzgis.vlaanderen.be/ArcGIS/services/DBZ/Vastgoed_Percelen_Lokale_besturen/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [DOV View Service - Vlaamse Overheid - DOV](https://www.dov.vlaanderen.be/geoserver/wms) - [GetCapabilities](https://www.dov.vlaanderen.be/geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [EMODnet Biology - Flanders Marine Institute (VLIZ)](http://geo.vliz.be/geoserver/Emodnet/ows) - [GetCapabilities](http://geo.vliz.be/geoserver/Emodnet/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [gdi_LF - Toerisme Vlaanderen](http://trip.toerismevlaanderen.be/arcgis/services/gdi/LF/MapServer/WMSServer) - [GetCapabilities](http://trip.toerismevlaanderen.be/arcgis/services/gdi/LF/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -198,8 +201,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [Hydrografie - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Hydrografie/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Hydrografie/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [INSPIRE Map View Service - Coastal Division - Flemish Hydrography](https://bathy.agentschapmdk.be/spatialfusionserver/services/ows/view/map/Map_all) - [GetCapabilities](https://bathy.agentschapmdk.be/spatialfusionserver/services/ows/view/map/Map_all?REQUEST=GetCapabilities&SERVICE=WMS)
-
-* [INSPIRE Raadpleegdienst Databank Ondergrond Vlaanderen - Vlaamse Overheid - DOV](https://www.dov.vlaanderen.be/geoserver/wms) - [GetCapabilities](https://www.dov.vlaanderen.be/geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [IRENA Web Map Service - IRENA](https://irena.masdar.ac.ae/geoserver/belgium/wms) - [GetCapabilities](https://irena.masdar.ac.ae/geoserver/belgium/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -363,8 +364,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [AMENAGEMENT_TERRITOIRE_LOT - SPW](https://geoservices.wallonie.be/arcgis/services/AMENAGEMENT_TERRITOIRE/LOT/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/AMENAGEMENT_TERRITOIRE/LOT/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [APP_DSWEB_ORTHO_LAST_IR - SPW](https://geoservices2.wallonie.be/arcgis/services/APP_DSWEB/ORTHO_LAST_IR/MapServer/WMSServer) - [GetCapabilities](https://geoservices2.wallonie.be/arcgis/services/APP_DSWEB/ORTHO_LAST_IR/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
-
 * [Arrets - geodata.tec-wl.be](https://geodata.tec-wl.be/arcgis/services/Arrets/MapServer/WMSServer) - [GetCapabilities](https://geodata.tec-wl.be/arcgis/services/Arrets/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Atlas des cours d'eau non navigables (Vue avancée) - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/EAU/ATLAS_HYDRO/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/ATLAS_HYDRO/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -505,6 +504,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [ORTHO_2015_IR - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2015_IR/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2015_IR/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [ORTHO_INFRA - SPW](https://geoservices2.wallonie.be/arcgis/services/APP_DSWEB/ORTHO_LAST_IR/MapServer/WMSServer) - [GetCapabilities](https://geoservices2.wallonie.be/arcgis/services/APP_DSWEB/ORTHO_LAST_IR/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [ORTHO_LAST - SPW ](https://geoservices2.wallonie.be/arcgis/services/APP_DSWEB/ORTHO_LAST/MapServer/WMSServer) - [GetCapabilities](https://geoservices2.wallonie.be/arcgis/services/APP_DSWEB/ORTHO_LAST/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [ORTHO_LAST - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_LAST/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_LAST/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -643,6 +644,14 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [SeaDataNet Map Server - GHER, ULg, Belgium](http://sdn.oceanbrowser.net/web-vis/Python/web/wms) - [GetCapabilities](http://sdn.oceanbrowser.net/web-vis/Python/web/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [WMS - rmgsc.cr.usgs.gov](https://rmgsc.cr.usgs.gov/arcgis/services/globalelus/MapServer/WMSServer) - [GetCapabilities](https://rmgsc.cr.usgs.gov/arcgis/services/globalelus/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [WMS - rmgsc.cr.usgs.gov](https://rmgsc.cr.usgs.gov/arcgis/services/gmek1/MapServer/WMSServer) - [GetCapabilities](https://rmgsc.cr.usgs.gov/arcgis/services/gmek1/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [WMS - rmgsc.cr.usgs.gov](https://rmgsc.cr.usgs.gov/arcgis/services/gmek2/MapServer/WMSServer) - [GetCapabilities](https://rmgsc.cr.usgs.gov/arcgis/services/gmek2/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [WMS - rmgsc.cr.usgs.gov](https://rmgsc.cr.usgs.gov/arcgis/services/gmek3/MapServer/WMSServer) - [GetCapabilities](https://rmgsc.cr.usgs.gov/arcgis/services/gmek3/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [WMS - geo.limburg.be](https://geo.limburg.be/arcgis/services/SampleWorldCities/MapServer/WMSServer) - [GetCapabilities](https://geo.limburg.be/arcgis/services/SampleWorldCities/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS - tiles.boundlessgeo.com](http://tiles.boundlessgeo.com) - [GetCapabilities](http://tiles.boundlessgeo.com?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -650,3 +659,4 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [WMS for GEE - e-GEOS](http://213.215.135.196/reflector/open/service) - [GetCapabilities](http://213.215.135.196/reflector/open/service?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS for the GEBCO global bathymetric grid - British Oceanographic Data Centre (BODC)](https://www.gebco.net/data_and_products/gebco_web_services/web_map_service/mapserv) - [GetCapabilities](https://www.gebco.net/data_and_products/gebco_web_services/web_map_service/mapserv?REQUEST=GetCapabilities&SERVICE=WMS)
+
