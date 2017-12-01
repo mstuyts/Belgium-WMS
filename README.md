@@ -12,17 +12,11 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 ## Belgium
 
-* [admin - Institut Géographique National](http://inspire.ngi.be/wms/admin/MapServer/WMSServer) - [GetCapabilities](http://inspire.ngi.be/wms/admin/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
-
-* [buildings - Institut Géographique National](http://inspire.ngi.be/wms/buildings/MapServer/WMSServer) - [GetCapabilities](http://inspire.ngi.be/wms/buildings/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
-
 * [CadastralLayers - SPF Finances](https://ccff02.minfin.fgov.be/cadgisWMS/CadastralLayers/MapServer/WMSServer) - [GetCapabilities](https://ccff02.minfin.fgov.be/cadgisWMS/CadastralLayers/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [CartoWeb.be - wms.ngi.be](https://wms.ngi.be/cartoweb/service) - [GetCapabilities](https://wms.ngi.be/cartoweb/service?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [CartoWeb.be - wms.ngi.be](https://wms.ngi.be/cartoweb/service) - [GetCapabilities](https://wms.ngi.be/cartoweb/service?REQUEST=GetCapabilities&SERVICE=WMS)
-
-* [clc - Institut Géographique National](http://inspire.ngi.be/wms/clc/MapServer/WMSServer) - [GetCapabilities](http://inspire.ngi.be/wms/clc/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Constructions WMS - National Geographic Institute](http://wms.ngi.be/inspire/buildings/service) - [GetCapabilities](http://wms.ngi.be/inspire/buildings/service?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -33,10 +27,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [GeoServer Web Map Service - Biodiversity and Ecosystems Data and Information Centre (BEDIC)](https://geoserver.bmdc.be/ows) - [GetCapabilities](https://geoserver.bmdc.be/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [High-Tension Network WMS - National Geographic Institute](http://wms.ngi.be/inspire/hightension/service) - [GetCapabilities](http://wms.ngi.be/inspire/hightension/service?REQUEST=GetCapabilities&SERVICE=WMS)
-
-* [hrl - Institut Géographique National](http://inspire.ngi.be/wms/hrl/MapServer/WMSServer) - [GetCapabilities](http://inspire.ngi.be/wms/hrl/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
-
-* [hydrography - Institut Géographique National](http://inspire.ngi.be/wms/hydrography/MapServer/WMSServer) - [GetCapabilities](http://inspire.ngi.be/wms/hydrography/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Hydrography WMS - National Geographic Institute](http://wms.ngi.be/inspire/hydrography/service) - [GetCapabilities](http://wms.ngi.be/inspire/hydrography/service?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -60,23 +50,15 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [KNMI WMS Server - geoservices.knmi.nl](https://geoservices.knmi.nl/cgi-bin/worldmaps.cgi) - [GetCapabilities](https://geoservices.knmi.nl/cgi-bin/worldmaps.cgi?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [landcover - Institut Géographique National](http://inspire.ngi.be/wms/landcover/MapServer/WMSServer) - [GetCapabilities](http://inspire.ngi.be/wms/landcover/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
-
 * [Limites des régions agricoles belges - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/LIMITES/LIMITES_REGIONSAGRICOLES/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/LIMITES/LIMITES_REGIONSAGRICOLES/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Local Relief WMS - National Geographic Institute](http://wms.ngi.be/inspire/localrelief/service) - [GetCapabilities](http://wms.ngi.be/inspire/localrelief/service?REQUEST=GetCapabilities&SERVICE=WMS)
-
-* [localrelief - Institut Géographique National](http://inspire.ngi.be/wms/localrelief/MapServer/WMSServer) - [GetCapabilities](http://inspire.ngi.be/wms/localrelief/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [MapProxy WMS Proxy - mapproxy.dfc.be](http://mapproxy.dfc.be/mapproxy/service) - [GetCapabilities](http://mapproxy.dfc.be/mapproxy/service?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [MapProxy WMS Proxy - Speculoos SPRL](http://bmawms.specgis.be/service) - [GetCapabilities](http://bmawms.specgis.be/service?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [particularzone - Institut Géographique National](http://inspire.ngi.be/wms/particularzone/MapServer/WMSServer) - [GetCapabilities](http://inspire.ngi.be/wms/particularzone/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
-
 * [Soil cover and vegetation WMS - National Geographic Institute](http://wms.ngi.be/inspire/soilcover/service) - [GetCapabilities](http://wms.ngi.be/inspire/soilcover/service?REQUEST=GetCapabilities&SERVICE=WMS)
-
-* [transports - Institut Géographique National](http://inspire.ngi.be/wms/transports/MapServer/WMSServer) - [GetCapabilities](http://inspire.ngi.be/wms/transports/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 
 
@@ -246,6 +228,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [overstroombaargebied - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/waterdieptekaart_middelgrotekans_2017/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/waterdieptekaart_middelgrotekans_2017/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [Publiek_DIW_buffer_waterlopen - gis.provincieantwerpen.be](http://gis.provincieantwerpen.be/arcgis/services/Publiek/DIW_buffer_waterlopen/MapServer/WMSServer) - [GetCapabilities](http://gis.provincieantwerpen.be/arcgis/services/Publiek/DIW_buffer_waterlopen/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [Raadpleegdienst voor historische cartografie - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/histcart/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/histcart/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Raadpleegdienst voor luchtvaart - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/luchtvaart/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/luchtvaart/wms?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -284,6 +268,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [WMS - indicatoren.verkeerscentrum.be](http://indicatoren.verkeerscentrum.be/geoserver/ows) - [GetCapabilities](http://indicatoren.verkeerscentrum.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [WMS - gis.provincieantwerpen.be](http://gis.provincieantwerpen.be/arcgis/services/Publiek/Provinciegrens_L72/MapServer/WMSServer) - [GetCapabilities](http://gis.provincieantwerpen.be/arcgis/services/Publiek/Provinciegrens_L72/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [WMS Agentschap Innoveren en Ondernemen - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/vlaio/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/vlaio/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS Agentschap voor Landbouw en Visserij - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/ALV/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/ALV/wms?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -295,8 +281,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [WMS Departement Ruimte Vlaanderen - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/DeptRWO/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/DeptRWO/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS Digitaal Hoogtemodel Vlaanderen - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/DHMV/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/DHMV/wms?REQUEST=GetCapabilities&SERVICE=WMS)
-
-* [WMS Fietsnetwerk - Toerisme Vlaanderen](http://trip.toerismevlaanderen.be/arcgis/services/gdi/Fietsnetwerk/MapServer/WMSServer) - [GetCapabilities](http://trip.toerismevlaanderen.be/arcgis/services/gdi/Fietsnetwerk/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS Gebouwen in eigendom Vlaamse overheid - Facilitair Bedrijf](http://bzgis.vlaanderen.be/ArcGIS/services/DBZ/Vastgoed_Gebouwen_Vlaamse_overheid/MapServer/WMSServer) - [GetCapabilities](http://bzgis.vlaanderen.be/ArcGIS/services/DBZ/Vastgoed_Gebouwen_Vlaamse_overheid/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -342,8 +326,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [WMS Vlaamse Milieumaatschappij - Watertoets - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/VMMWatertoets/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/VMMWatertoets/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [WMS Wandelnetwerk - Toerisme Vlaanderen](http://trip.toerismevlaanderen.be/arcgis/services/gdi/wandelnetwerk/MapServer/WMSServer) - [GetCapabilities](http://trip.toerismevlaanderen.be/arcgis/services/gdi/wandelnetwerk/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
-
 * [WMS Zorgatlas - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/zorgatlas/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/zorgatlas/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Wrecks in the Belgian Continental Shelf - Coastal Division - Flemish Hydrography](https://bathy.agentschapmdk.be/spatialfusionserver/services/ows/view/map/AM_wrecks) - [GetCapabilities](https://bathy.agentschapmdk.be/spatialfusionserver/services/ows/view/map/AM_wrecks?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -355,8 +337,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 ## Wallonia
 
 * [ADL - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/INDUSTRIES_SERVICES/ADL/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/INDUSTRIES_SERVICES/ADL/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
-
-* [AGRICULTURE_SIGEC_PARC_AGRI_ANON - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/AGRICULTURE/SIGEC_PARC_AGRI_ANON/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/AGRICULTURE/SIGEC_PARC_AGRI_ANON/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [AGRICULTURE_SIGEC_PARC_AGRI_ANON__2016 - geoservices.wallonie.be](https://geoservices.wallonie.be/arcgis/services/AGRICULTURE/SIGEC_PARC_AGRI_ANON__2016/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/AGRICULTURE/SIGEC_PARC_AGRI_ANON__2016/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -553,8 +533,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [Secteurs PARIS et bassins versant contributifs des secteurs PARIS - Service publique de Wallonie](https://geoservices.wallonie.be/arcgis/services/EAU/SECTEURS_PARIS_1621/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/SECTEURS_PARIS_1621/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [SEVESO - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/INDUSTRIES_SERVICES/SEVESO/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/INDUSTRIES_SERVICES/SEVESO/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
-
-* [SIGEC_PARC_AGRI_ANON__CULTURES - Service Public de Wallonie](https://geoservices.wallonie.be/arcgis/services/AGRICULTURE/SIGEC_PARC_AGRI_ANON__CULTURES/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/AGRICULTURE/SIGEC_PARC_AGRI_ANON__CULTURES/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [SOL_SOUS_SOL_ERRUISSOL__CLASSES_PENTE - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/ERRUISSOL__CLASSES_PENTE/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/ERRUISSOL__CLASSES_PENTE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
