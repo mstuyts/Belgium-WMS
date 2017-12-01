@@ -300,6 +300,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [WMS Gebouwen in eigendom Vlaamse overheid - Facilitair Bedrijf](http://bzgis.vlaanderen.be/ArcGIS/services/DBZ/Vastgoed_Gebouwen_Vlaamse_overheid/MapServer/WMSServer) - [GetCapabilities](http://bzgis.vlaanderen.be/ArcGIS/services/DBZ/Vastgoed_Gebouwen_Vlaamse_overheid/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [WMS Gebouwenregister - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/gebouwenregister/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/gebouwenregister/wms?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [WMS Gebouwenregister - AIV](https://geoservices.beta.informatievlaanderen.be/raadpleegdiensten/gebouwenregister/wms) - [GetCapabilities](https://geoservices.beta.informatievlaanderen.be/raadpleegdiensten/gebouwenregister/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS GIPOD Publieke Informatie - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/GIPODPubliek/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/GIPODPubliek/wms?REQUEST=GetCapabilities&SERVICE=WMS)
