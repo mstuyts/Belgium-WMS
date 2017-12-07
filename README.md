@@ -598,7 +598,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Metacarta WMS VMaplv0 - vmap0.tiles.osgeo.org](http://vmap0.tiles.osgeo.org/wms/vmap0) - [GetCapabilities](http://vmap0.tiles.osgeo.org/wms/vmap0?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [Meteorological Service of Canada OWS Data Server - WMS - Environment and Climate Change Canada](http://geo.weather.gc.ca/geomet/) - [GetCapabilities](http://geo.weather.gc.ca/geomet/?REQUEST=GetCapabilities&SERVICE=WMS)
+* [Meteorological Service of Canada OWS Data Server - WMS - Environment and Climate Change Canada](https://geo.weather.gc.ca/geomet/) - [GetCapabilities](https://geo.weather.gc.ca/geomet/?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [NASA Earth Observations (NEO) WMS - Science Systems and Applications, Inc./NASA](https://neo.sci.gsfc.nasa.gov/wms/wms) - [GetCapabilities](https://neo.sci.gsfc.nasa.gov/wms/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -623,6 +623,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [Sample Map - www2.demis.nl](http://www2.demis.nl/wms/wms.ashx) - [GetCapabilities](http://www2.demis.nl/wms/wms.ashx?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [SeaDataNet Map Server - GHER, ULg, Belgium](http://sdn.oceanbrowser.net/web-vis/Python/web/wms) - [GetCapabilities](http://sdn.oceanbrowser.net/web-vis/Python/web/wms?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Sentinel Playground - services.sentinel-hub.com](http://services.sentinel-hub.com/ogc/wms/b7b5e3ef-5a40-4e2a-9fd3-75ca2b81cb32) - [GetCapabilities](http://services.sentinel-hub.com/ogc/wms/b7b5e3ef-5a40-4e2a-9fd3-75ca2b81cb32?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS - rmgsc.cr.usgs.gov](https://rmgsc.cr.usgs.gov/arcgis/services/globalelus/MapServer/WMSServer) - [GetCapabilities](https://rmgsc.cr.usgs.gov/arcgis/services/globalelus/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
