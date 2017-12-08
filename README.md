@@ -474,9 +474,9 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [NITRATES - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/EAU/NITRATES/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/NITRATES/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [Orthophotos 2016 - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2016_IR/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2016_IR/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
-
 * [Orthophotos 2016 - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2016/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2016/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Orthophotos 2016 - IR - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2016_IR/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2016_IR/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Orthophotos du Service public de Wallonie : Maillage et tuilage - Service de visualisation - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_MAILLAGE_TUILAGE/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_MAILLAGE_TUILAGE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -624,7 +624,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [SeaDataNet Map Server - GHER, ULg, Belgium](http://sdn.oceanbrowser.net/web-vis/Python/web/wms) - [GetCapabilities](http://sdn.oceanbrowser.net/web-vis/Python/web/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [Sentinel Playground - services.sentinel-hub.com](http://services.sentinel-hub.com/ogc/wms/b7b5e3ef-5a40-4e2a-9fd3-75ca2b81cb32) - [GetCapabilities](http://services.sentinel-hub.com/ogc/wms/b7b5e3ef-5a40-4e2a-9fd3-75ca2b81cb32?REQUEST=GetCapabilities&SERVICE=WMS)
+* [Sentinel Playground - services.sentinel-hub.com](https://services.sentinel-hub.com/ogc/wms/b7b5e3ef-5a40-4e2a-9fd3-75ca2b81cb32) - [GetCapabilities](https://services.sentinel-hub.com/ogc/wms/b7b5e3ef-5a40-4e2a-9fd3-75ca2b81cb32?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS - rmgsc.cr.usgs.gov](https://rmgsc.cr.usgs.gov/arcgis/services/globalelus/MapServer/WMSServer) - [GetCapabilities](https://rmgsc.cr.usgs.gov/arcgis/services/globalelus/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
