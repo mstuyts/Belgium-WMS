@@ -306,8 +306,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [WMS Percelen in eigendom Vlaamse overheid - Departement Bestuurszaken, Agentschap Facilitair Bedrijf ](http://bzgis.vlaanderen.be/ArcGIS/services/DBZ/Vastgoed_Percelen_Vlaamse_overheid/MapServer/WMSServer) - [GetCapabilities](http://bzgis.vlaanderen.be/ArcGIS/services/DBZ/Vastgoed_Percelen_Vlaamse_overheid/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [WMS Ruiternetwerk - Toerisme Vlaanderen](http://trip.toerismevlaanderen.be/arcgis/services/gdi/ruiternetwerk/MapServer/WMSServer) - [GetCapabilities](http://trip.toerismevlaanderen.be/arcgis/services/gdi/ruiternetwerk/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
-
 * [WMS RVV Afbakeningen - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/RVVAfbak/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/RVVAfbak/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS Stroomgebiedbeheerplannen - Vlaamse Milieumaatschappij](https://geoserver.vmm.be/geoserver/HDGIS/wms) - [GetCapabilities](https://geoserver.vmm.be/geoserver/HDGIS/wms?REQUEST=GetCapabilities&SERVICE=WMS)
