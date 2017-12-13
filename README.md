@@ -148,6 +148,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [EMODnet Biology - Flanders Marine Institute (VLIZ)](http://geo.vliz.be/geoserver/Emodnet/ows) - [GetCapabilities](http://geo.vliz.be/geoserver/Emodnet/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [gdi_LF - Toerisme Vlaanderen](http://trip.toerismevlaanderen.be/gdi/lf/WMSServer) - [GetCapabilities](http://trip.toerismevlaanderen.be/gdi/lf/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [gdi_LF - Toerisme Vlaanderen](http://trip.toerismevlaanderen.be/arcgis/services/gdi/LF/MapServer/WMSServer) - [GetCapabilities](http://trip.toerismevlaanderen.be/arcgis/services/gdi/LF/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [GeoServer Web Map Service - OVAM](https://services.ovam.be/geoserver/wms) - [GetCapabilities](https://services.ovam.be/geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -239,6 +241,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [Risicozones_overstroming_2006 - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/Perimetergebieden_recht_van_voorverkoop/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/Perimetergebieden_recht_van_voorverkoop/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [routes_fietsnetwerk - trip.toerismevlaanderen.be](http://trip.toerismevlaanderen.be/arcgis/services/routes/fietsnetwerk/MapServer/WMSServer) - [GetCapabilities](http://trip.toerismevlaanderen.be/arcgis/services/routes/fietsnetwerk/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [routes_ruiternetwerk - trip.toerismevlaanderen.be](http://trip.toerismevlaanderen.be/arcgis/services/routes/ruiternetwerk/MapServer/WMSServer) - [GetCapabilities](http://trip.toerismevlaanderen.be/arcgis/services/routes/ruiternetwerk/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [routes_wandelnetwerk - trip.toerismevlaanderen.be](http://trip.toerismevlaanderen.be/arcgis/services/routes/wandelnetwerk/MapServer/WMSServer) - [GetCapabilities](http://trip.toerismevlaanderen.be/arcgis/services/routes/wandelnetwerk/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
