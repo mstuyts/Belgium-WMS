@@ -196,6 +196,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [NA2015 - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/NA2015/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/NA2015/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [NA2015 - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/achtergrond_KP/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/achtergrond_KP/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [Nutsdiensten en overheidsdiensten - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Nutsdiensten_en_Overheidsdiensten/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Nutsdiensten_en_Overheidsdiensten/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [OpenDataAntwerpen - geodata.antwerpen.be](https://geodata.antwerpen.be/arcgissql/services/P_Publiek/OpenDataAntwerpen/MapServer/WMSServer) - [GetCapabilities](https://geodata.antwerpen.be/arcgissql/services/P_Publiek/OpenDataAntwerpen/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -241,6 +243,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [Risicozones_overstroming_2006 - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/Perimetergebieden_recht_van_voorverkoop/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/Perimetergebieden_recht_van_voorverkoop/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Risicozones_overstroming_2006 - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/Risicozones_overstroming_2017/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/Risicozones_overstroming_2017/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Rivierbekkens - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/Rivierbekkens/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/Rivierbekkens/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [routes_fietsnetwerk - trip.toerismevlaanderen.be](http://trip.toerismevlaanderen.be/arcgis/services/routes/fietsnetwerk/MapServer/WMSServer) - [GetCapabilities](http://trip.toerismevlaanderen.be/arcgis/services/routes/fietsnetwerk/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
