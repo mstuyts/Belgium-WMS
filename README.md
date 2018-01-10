@@ -128,8 +128,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [basisdata - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/basisdata/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/basisdata/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [Beschermingszones_grondwater - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/Beschermingszones_grondwater/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/Beschermingszones_grondwater/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
-
 * [Bodemgebruik - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Bodemgebruik/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Bodemgebruik/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [dataservices_AtlasBuurtwegen_wijzigingen - geoservices.vlaamsbrabant.be](https://geoservices.vlaamsbrabant.be/AtlasBuurtwegen_wijzigingen/MapServer/WMSServer) - [GetCapabilities](https://geoservices.vlaamsbrabant.be/AtlasBuurtwegen_wijzigingen/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -195,8 +193,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [MIL_atlaswaterlopen - geodiensten.gisoost.be](http://geodiensten.gisoost.be/arcgis/services/MIL/atlaswaterlopen/Mapserver/WMSServer) - [GetCapabilities](http://geodiensten.gisoost.be/arcgis/services/MIL/atlaswaterlopen/Mapserver/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [NA2015 - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/NA2015/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/NA2015/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
-
-* [NA2015 - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/achtergrond_KP/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/achtergrond_KP/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Nutsdiensten en overheidsdiensten - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Nutsdiensten_en_Overheidsdiensten/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Nutsdiensten_en_Overheidsdiensten/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
