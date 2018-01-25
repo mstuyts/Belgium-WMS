@@ -12,8 +12,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 ## Belgium
 
-* [CadastralLayers - SPF Finances](https://ccff02.minfin.fgov.be/cadgisWMS/CadastralLayers/MapServer/WMSServer) - [GetCapabilities](https://ccff02.minfin.fgov.be/cadgisWMS/CadastralLayers/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
-
 * [CartoWeb.be - wms.ngi.be](https://wms.ngi.be/cartoweb/service) - [GetCapabilities](https://wms.ngi.be/cartoweb/service?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [CartoWeb.be - wms.ngi.be](https://wms.ngi.be/cartoweb/service) - [GetCapabilities](https://wms.ngi.be/cartoweb/service?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -350,8 +348,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [AMENAGEMENT_TERRITOIRE_LOT - SPW](https://geoservices.wallonie.be/arcgis/services/AMENAGEMENT_TERRITOIRE/LOT/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/AMENAGEMENT_TERRITOIRE/LOT/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [APP_DSWEB_ORTHO_LAST_IR - SPW](https://geoservices2.wallonie.be/arcgis/services/APP_DSWEB/ORTHO_LAST_IR/MapServer/WMSServer) - [GetCapabilities](https://geoservices2.wallonie.be/arcgis/services/APP_DSWEB/ORTHO_LAST_IR/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
-
 * [Arrets - geodata.tec-wl.be](https://geodata.tec-wl.be/arcgis/services/Arrets/MapServer/WMSServer) - [GetCapabilities](https://geodata.tec-wl.be/arcgis/services/Arrets/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Atlas des cours d'eau non navigables (Vue avancée) - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/EAU/ATLAS_HYDRO/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/ATLAS_HYDRO/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -489,6 +485,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [ORTHO_2015 - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2015/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2015/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [ORTHO_2015_IR - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2015_IR/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2015_IR/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [ORTHO_INFRA - SPW](https://geoservices2.wallonie.be/arcgis/services/APP_DSWEB/ORTHO_LAST_IR/MapServer/WMSServer) - [GetCapabilities](https://geoservices2.wallonie.be/arcgis/services/APP_DSWEB/ORTHO_LAST_IR/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [ORTHO_LAST - SPW ](https://geoservices2.wallonie.be/arcgis/services/APP_DSWEB/ORTHO_LAST/MapServer/WMSServer) - [GetCapabilities](https://geoservices2.wallonie.be/arcgis/services/APP_DSWEB/ORTHO_LAST/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
