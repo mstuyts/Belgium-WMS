@@ -348,6 +348,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [AMENAGEMENT_TERRITOIRE_LOT - SPW](https://geoservices.wallonie.be/arcgis/services/AMENAGEMENT_TERRITOIRE/LOT/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/AMENAGEMENT_TERRITOIRE/LOT/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [APP_DSWEB_ORTHO_LAST_IR - SPW](https://geoservices2.wallonie.be/arcgis/services/APP_DSWEB/ORTHO_LAST_IR/MapServer/WMSServer) - [GetCapabilities](https://geoservices2.wallonie.be/arcgis/services/APP_DSWEB/ORTHO_LAST_IR/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [Arrets - geodata.tec-wl.be](https://geodata.tec-wl.be/arcgis/services/Arrets/MapServer/WMSServer) - [GetCapabilities](https://geodata.tec-wl.be/arcgis/services/Arrets/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Atlas des cours d'eau non navigables (Vue avancée) - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/EAU/ATLAS_HYDRO/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/ATLAS_HYDRO/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -486,8 +488,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [ORTHO_2015_IR - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2015_IR/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2015_IR/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [ORTHO_INFRA - SPW](https://geoservices2.wallonie.be/arcgis/services/APP_DSWEB/ORTHO_LAST_IR/MapServer/WMSServer) - [GetCapabilities](https://geoservices2.wallonie.be/arcgis/services/APP_DSWEB/ORTHO_LAST_IR/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
-
 * [ORTHO_LAST - SPW ](https://geoservices2.wallonie.be/arcgis/services/APP_DSWEB/ORTHO_LAST/MapServer/WMSServer) - [GetCapabilities](https://geoservices2.wallonie.be/arcgis/services/APP_DSWEB/ORTHO_LAST/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [ORTHO_LAST - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_LAST/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_LAST/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -576,7 +576,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [WMS Orthophotos 2009-2010 Infrarouge - Direction de la Géométrologie (SPW - SG - Département de la Géomatique)](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2009_2010_IR/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2009_2010_IR/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [ZI_2016 - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/EAU/ZI_2016/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/ZI_2016/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+* [ZI_2016 - Service Public de Wallonie](https://geoservices.wallonie.be/arcgis/services/EAU/ZI_2016/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/ZI_2016/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Zones de baignade et zones amonts - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/EAU/BAIGNADE/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/BAIGNADE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
