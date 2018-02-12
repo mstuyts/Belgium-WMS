@@ -220,6 +220,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [overstroombaargebied - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/waterdieptekaart_middelgrotekans_2017/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/waterdieptekaart_middelgrotekans_2017/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [Publiek_AtlasBuurtwegen - Provincie Antwerpen](https://gis.provincieantwerpen.be/arcgis/services/Publiek/AtlasBuurtwegen/MapServer/WMSServer) - [GetCapabilities](https://gis.provincieantwerpen.be/arcgis/services/Publiek/AtlasBuurtwegen/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [Raadpleegdienst voor historische cartografie - agentschap Informatie Vlaanderen](https://geoservices.informatievlaanderen.be/raadpleegdiensten/histcart/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/histcart/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Raadpleegdienst voor luchtvaart - agentschap Informatie Vlaanderen](https://geoservices.informatievlaanderen.be/raadpleegdiensten/luchtvaart/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/luchtvaart/wms?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -255,6 +257,10 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [WMS - geodiensten.gisoost.be](http://geodiensten.gisoost.be/arcgis/services/atlasbuurtwegen/Mapserver/WMSServer) - [GetCapabilities](http://geodiensten.gisoost.be/arcgis/services/atlasbuurtwegen/Mapserver/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS - geoservices.vlaamsbrabant.be](https://geoservices.vlaamsbrabant.be/RecreatieveNetwerken/MapServer/WMSServer) - [GetCapabilities](https://geoservices.vlaamsbrabant.be/RecreatieveNetwerken/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [WMS - gis.provincieantwerpen.be](https://gis.provincieantwerpen.be/arcgis/services/Publiek/ProvincialeLandschapskaart/MapServer/WMSServer) - [GetCapabilities](https://gis.provincieantwerpen.be/arcgis/services/Publiek/ProvincialeLandschapskaart/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [WMS - gis.provincieantwerpen.be](https://gis.provincieantwerpen.be/arcgis/services/Publiek/AtlasWaterlopen/MapServer/WMSServer) - [GetCapabilities](https://gis.provincieantwerpen.be/arcgis/services/Publiek/AtlasWaterlopen/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/GOG_GGG/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/GOG_GGG/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
