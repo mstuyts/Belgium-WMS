@@ -222,6 +222,12 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Publiek_AtlasBuurtwegen - Provincie Antwerpen](https://gis.provincieantwerpen.be/arcgis/services/Publiek/AtlasBuurtwegen/MapServer/WMSServer) - [GetCapabilities](https://gis.provincieantwerpen.be/arcgis/services/Publiek/AtlasBuurtwegen/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [Publiek_Ms_AtlasWaterlopen - gis.provincieantwerpen.be](https://gis.provincieantwerpen.be/arcgis/services/Publiek/Ms_AtlasWaterlopen/MapServer/WMSServer) - [GetCapabilities](https://gis.provincieantwerpen.be/arcgis/services/Publiek/Ms_AtlasWaterlopen/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Publiek_Ms_BFF - gis.provincieantwerpen.be](https://gis.provincieantwerpen.be/arcgis/services/Publiek/Ms_BFF/MapServer/WMSServer) - [GetCapabilities](https://gis.provincieantwerpen.be/arcgis/services/Publiek/Ms_BFF/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Publiek_Ms_Landschapsatlas - gis.provincieantwerpen.be](https://gis.provincieantwerpen.be/arcgis/services/Publiek/Ms_Landschapsatlas/MapServer/WMSServer) - [GetCapabilities](https://gis.provincieantwerpen.be/arcgis/services/Publiek/Ms_Landschapsatlas/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [Raadpleegdienst voor historische cartografie - agentschap Informatie Vlaanderen](https://geoservices.informatievlaanderen.be/raadpleegdiensten/histcart/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/histcart/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Raadpleegdienst voor luchtvaart - agentschap Informatie Vlaanderen](https://geoservices.informatievlaanderen.be/raadpleegdiensten/luchtvaart/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/luchtvaart/wms?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -257,10 +263,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [WMS - geodiensten.gisoost.be](http://geodiensten.gisoost.be/arcgis/services/atlasbuurtwegen/Mapserver/WMSServer) - [GetCapabilities](http://geodiensten.gisoost.be/arcgis/services/atlasbuurtwegen/Mapserver/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS - geoservices.vlaamsbrabant.be](https://geoservices.vlaamsbrabant.be/RecreatieveNetwerken/MapServer/WMSServer) - [GetCapabilities](https://geoservices.vlaamsbrabant.be/RecreatieveNetwerken/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
-
-* [WMS - gis.provincieantwerpen.be](https://gis.provincieantwerpen.be/arcgis/services/Publiek/ProvincialeLandschapskaart/MapServer/WMSServer) - [GetCapabilities](https://gis.provincieantwerpen.be/arcgis/services/Publiek/ProvincialeLandschapskaart/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
-
-* [WMS - gis.provincieantwerpen.be](https://gis.provincieantwerpen.be/arcgis/services/Publiek/AtlasWaterlopen/MapServer/WMSServer) - [GetCapabilities](https://gis.provincieantwerpen.be/arcgis/services/Publiek/AtlasWaterlopen/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/GOG_GGG/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/GOG_GGG/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -404,6 +406,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [DGO4_COMDEC - webgisdgo4.spw.wallonie.be](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/COMDEC/MapServer/WMSServer) - [GetCapabilities](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/COMDEC/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [DGO4_FERRARIS - webgisdgo4.spw.wallonie.be](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/FERRARIS/MapServer/WMSServer) - [GetCapabilities](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/FERRARIS/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [DGO4_IPIC - webgisdgo4.spw.wallonie.be](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/IPIC/MapServer/WMSServer) - [GetCapabilities](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/IPIC/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [DGO4_PAT_EXC - webgisdgo4.spw.wallonie.be](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/PAT_EXC/MapServer/WMSServer) - [GetCapabilities](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/PAT_EXC/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -425,6 +429,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [DGO4_RMBMT_URB - webgisdgo4.spw.wallonie.be](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/RMBMT_URB/MapServer/WMSServer) - [GetCapabilities](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/RMBMT_URB/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [DGO4_RUE - webgisdgo4.spw.wallonie.be](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/RUE/MapServer/WMSServer) - [GetCapabilities](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/RUE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [DGO4_VDML - webgisdgo4.spw.wallonie.be](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/VDML/MapServer/WMSServer) - [GetCapabilities](http://webgisdgo4.spw.wallonie.be/ArcGIS/services/DGO4/VDML/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Districts et secteurs administratifs de gestion de l'eau - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/EAU/LIM_ADMIN_DCENN/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/LIM_ADMIN_DCENN/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -449,6 +455,42 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [IMAGERIE_ORTHO_2009_2010 - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2009_2010/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2009_2010/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [IMAGERIE_ORTHO_2012_2013 - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2012_2013/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2012_2013/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Intergraph OGC Web Map Service - siggwm.hainaut.be](https://siggwm.hainaut.be/WMS_Data/service.svc/get) - [GetCapabilities](https://siggwm.hainaut.be/WMS_Data/service.svc/get?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Intergraph OGC Web Map Service - siggwm.hainaut.be](https://siggwm.hainaut.be/WMS_Mobil_alerte/service.svc/get) - [GetCapabilities](https://siggwm.hainaut.be/WMS_Mobil_alerte/service.svc/get?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Intergraph OGC Web Map Service - siggwm.hainaut.be](https://siggwm.hainaut.be/WMS_Hydrographie/service.svc/get) - [GetCapabilities](https://siggwm.hainaut.be/WMS_Hydrographie/service.svc/get?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Intergraph OGC Web Map Service - siggwm.hainaut.be](https://siggwm.hainaut.be/WMS_Carte_Occupation_Sol/service.svc/get) - [GetCapabilities](https://siggwm.hainaut.be/WMS_Carte_Occupation_Sol/service.svc/get?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Intergraph OGC Web Map Service - siggwm.hainaut.be](https://siggwm.hainaut.be/WMS_Voies_Lentes/service.svc/get) - [GetCapabilities](https://siggwm.hainaut.be/WMS_Voies_Lentes/service.svc/get?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Intergraph OGC Web Map Service - siggwm.hainaut.be](https://siggwm.hainaut.be/WMS_Plan_secteur/service.svc/get) - [GetCapabilities](https://siggwm.hainaut.be/WMS_Plan_secteur/service.svc/get?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Intergraph OGC Web Map Service - siggwm.hainaut.be](https://siggwm.hainaut.be/WMS_Bus_TEC/service.svc/get) - [GetCapabilities](https://siggwm.hainaut.be/WMS_Bus_TEC/service.svc/get?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Intergraph OGC Web Map Service - siggwm.hainaut.be](https://siggwm.hainaut.be/WMS_Bio_Ecolo/service.svc/get) - [GetCapabilities](https://siggwm.hainaut.be/WMS_Bio_Ecolo/service.svc/get?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Intergraph OGC Web Map Service - siggwm.hainaut.be](https://siggwm.hainaut.be/WMS_Naquia/service.svc/get) - [GetCapabilities](https://siggwm.hainaut.be/WMS_Naquia/service.svc/get?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Intergraph OGC Web Map Service - siggwm.hainaut.be](https://siggwm.hainaut.be/WMS_PICC_Bati/service.svc/get) - [GetCapabilities](https://siggwm.hainaut.be/WMS_PICC_Bati/service.svc/get?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Intergraph OGC Web Map Service - siggwm.hainaut.be](https://siggwm.hainaut.be/WMS_Site_Sevezo/service.svc/get) - [GetCapabilities](https://siggwm.hainaut.be/WMS_Site_Sevezo/service.svc/get?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Intergraph OGC Web Map Service - siggwm.hainaut.be](https://siggwm.hainaut.be/WMS_Point_Gaz/service.svc/get) - [GetCapabilities](https://siggwm.hainaut.be/WMS_Point_Gaz/service.svc/get?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Intergraph OGC Web Map Service - siggwm.hainaut.be](https://siggwm.hainaut.be/WMS_Mines_terrils/service.svc/get) - [GetCapabilities](https://siggwm.hainaut.be/WMS_Mines_terrils/service.svc/get?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Intergraph OGC Web Map Service - siggwm.hainaut.be](https://siggwm.hainaut.be/WMS_Autres/service.svc/get) - [GetCapabilities](https://siggwm.hainaut.be/WMS_Autres/service.svc/get?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Intergraph OGC Web Map Service - siggwm.hainaut.be](https://siggwm.hainaut.be/WMS_Remembrement/service.svc/get) - [GetCapabilities](https://siggwm.hainaut.be/WMS_Remembrement/service.svc/get?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Intergraph OGC Web Map Service - siggwm.hainaut.be](https://siggwm.hainaut.be/WMS_Analyses/service.svc/get) - [GetCapabilities](https://siggwm.hainaut.be/WMS_Analyses/service.svc/get?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Intergraph OGC Web Map Service - siggwm.hainaut.be](https://siggwm.hainaut.be/WMST_Modification/service.svc/get) - [GetCapabilities](https://siggwm.hainaut.be/WMST_Modification/service.svc/get?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Intergraph OGC Web Map Service - siggwm.hainaut.be](https://siggwm.hainaut.be/WMS_Essais_Geotechnique/service.svc/get) - [GetCapabilities](https://siggwm.hainaut.be/WMS_Essais_Geotechnique/service.svc/get?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [KARST - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/KARST/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/KARST/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -568,9 +610,15 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [WMS - geodata.tec-wl.be](https://geodata.tec-wl.be/arcgis/services/Zones/MapServer/WMSServer) - [GetCapabilities](https://geodata.tec-wl.be/arcgis/services/Zones/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [WMS Annexes - siggwm.hainaut.be](https://siggwm.hainaut.be/WMS_Annexes/service.svc/get) - [GetCapabilities](https://siggwm.hainaut.be/WMS_Annexes/service.svc/get?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [WMS Atlas Terrain - siggwm.hainaut.be](https://siggwm.hainaut.be/WMS_Atlas_Terrain/service.svc/get) - [GetCapabilities](https://siggwm.hainaut.be/WMS_Atlas_Terrain/service.svc/get?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [WMS de la Carte géologique de Wallonie - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/CARTE_GEOLOGIQUE_SIMPLE/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/CARTE_GEOLOGIQUE_SIMPLE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS Orthophotos 2009-2010 Infrarouge - Direction de la Géométrologie (SPW - SG - Département de la Géomatique)](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2009_2010_IR/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2009_2010_IR/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [WMS PASH - siggwm.hainaut.be](https://siggwm.hainaut.be/WMS_Pash/service.svc/get) - [GetCapabilities](https://siggwm.hainaut.be/WMS_Pash/service.svc/get?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [ZI_2016 - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/EAU/ZI_2016/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/ZI_2016/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
