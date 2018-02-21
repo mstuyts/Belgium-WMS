@@ -150,8 +150,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [GeoServer Web Map Service - Gent](https://geo.gent.be/geoserver/ows) - [GetCapabilities](https://geo.gent.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [GeoServer Web Map Service - SADL KU Leuven](http://geoserver.ruimtemonitor.be/geoserver/rm/wms) - [GetCapabilities](http://geoserver.ruimtemonitor.be/geoserver/rm/wms?REQUEST=GetCapabilities&SERVICE=WMS)
-
 * [GeoServer Web Map Service - AGIV](https://apps.energiesparen.be/proxy/gis/geoserver/VEA/wms) - [GetCapabilities](https://apps.energiesparen.be/proxy/gis/geoserver/VEA/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [GeoServer Web Map Service - RWO](https://ro.ruimtevlaanderen.be/drodsi-geoserver/wms) - [GetCapabilities](https://ro.ruimtevlaanderen.be/drodsi-geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -327,8 +325,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [WMS Zorgatlas - agentschap Informatie Vlaanderen](https://geoservices.informatievlaanderen.be/raadpleegdiensten/zorgatlas/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/zorgatlas/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Wrecks in the Belgian Continental Shelf - Coastal Division - Flemish Hydrography](https://bathy.agentschapmdk.be/spatialfusionserver/services/ows/view/map/AM_wrecks) - [GetCapabilities](https://bathy.agentschapmdk.be/spatialfusionserver/services/ows/view/map/AM_wrecks?REQUEST=GetCapabilities&SERVICE=WMS)
-
-* [zones - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/zones/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/zones/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [zones - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/ANB/zones/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/ANB/zones/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
