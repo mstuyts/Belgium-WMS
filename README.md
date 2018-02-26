@@ -14,23 +14,21 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [CartoWeb.be - wms.ngi.be](https://wms.ngi.be/cartoweb/service) - [GetCapabilities](https://wms.ngi.be/cartoweb/service?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [CartoWeb.be - wms.ngi.be](https://wms.ngi.be/cartoweb/service) - [GetCapabilities](https://wms.ngi.be/cartoweb/service?REQUEST=GetCapabilities&SERVICE=WMS)
+* [Constructions WMS - National Geographic Institute](https://wms.ngi.be/inspire/buildings/service) - [GetCapabilities](https://wms.ngi.be/inspire/buildings/service?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [Constructions WMS - National Geographic Institute](http://wms.ngi.be/inspire/buildings/service) - [GetCapabilities](http://wms.ngi.be/inspire/buildings/service?REQUEST=GetCapabilities&SERVICE=WMS)
+* [Flanders Marine Institute (VLIZ) - Geoserver WMS Service - VLIZ](http://geo.vliz.be/geoserver/ows) - [GetCapabilities](http://geo.vliz.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [Flanders Marine Institute (VLIZ) - Geoserver WMS Service - Flanders Marine Institute (VLIZ)](http://geo.vliz.be/geoserver/ows) - [GetCapabilities](http://geo.vliz.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WMS)
-
-* [Flanders Marine Institute (VLIZ) - Geoserver WMS Service - Flanders Marine Institute (VLIZ)](http://geo.vliz.be/geoserver/Scheldemonitor/ows) - [GetCapabilities](http://geo.vliz.be/geoserver/Scheldemonitor/ows?REQUEST=GetCapabilities&SERVICE=WMS)
+* [Flanders Marine Institute (VLIZ) - Geoserver WMS Service - VLIZ](http://geo.vliz.be/geoserver/Scheldemonitor/ows) - [GetCapabilities](http://geo.vliz.be/geoserver/Scheldemonitor/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [GeoServer Web Map Service - Biodiversity and Ecosystems Data and Information Centre (BEDIC)](https://geoserver.bmdc.be/ows) - [GetCapabilities](https://geoserver.bmdc.be/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [High-Tension Network WMS - National Geographic Institute](http://wms.ngi.be/inspire/hightension/service) - [GetCapabilities](http://wms.ngi.be/inspire/hightension/service?REQUEST=GetCapabilities&SERVICE=WMS)
+* [High-Tension Network WMS - National Geographic Institute](https://wms.ngi.be/inspire/hightension/service) - [GetCapabilities](https://wms.ngi.be/inspire/hightension/service?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [Hydrography WMS - National Geographic Institute](http://wms.ngi.be/inspire/hydrography/service) - [GetCapabilities](http://wms.ngi.be/inspire/hydrography/service?REQUEST=GetCapabilities&SERVICE=WMS)
+* [Hydrography WMS - National Geographic Institute](https://wms.ngi.be/inspire/hydrography/service) - [GetCapabilities](https://wms.ngi.be/inspire/hydrography/service?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [Inspire Elevation - National Geographic Institute](http://wms.ngi.be/inspire/el/service) - [GetCapabilities](http://wms.ngi.be/inspire/el/service?REQUEST=GetCapabilities&SERVICE=WMS)
+* [Inspire Elevation - National Geographic Institute](https://wms.ngi.be/inspire/el/service) - [GetCapabilities](https://wms.ngi.be/inspire/el/service?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [Inspire Geographical Names - National Geographic Institute](http://wms.ngi.be/inspire/gn/service) - [GetCapabilities](http://wms.ngi.be/inspire/gn/service?REQUEST=GetCapabilities&SERVICE=WMS)
+* [Inspire Geographical Names - National Geographic Institute](https://wms.ngi.be/inspire/gn/service) - [GetCapabilities](https://wms.ngi.be/inspire/gn/service?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [INSPIRE View Service - FPS Finances - General Administration of Patrimonial Documentation (GAPD)](https://ccff02.minfin.fgov.be/geoservices/arcgis/rest/services/INSPIRE/AdministrativeUnits/MapServer/exts/InspireView/ENG/service) - [GetCapabilities](https://ccff02.minfin.fgov.be/geoservices/arcgis/rest/services/INSPIRE/AdministrativeUnits/MapServer/exts/InspireView/ENG/service?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -50,13 +48,13 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Limites des régions agricoles belges - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/LIMITES/LIMITES_REGIONSAGRICOLES/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/LIMITES/LIMITES_REGIONSAGRICOLES/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [Local Relief WMS - National Geographic Institute](http://wms.ngi.be/inspire/localrelief/service) - [GetCapabilities](http://wms.ngi.be/inspire/localrelief/service?REQUEST=GetCapabilities&SERVICE=WMS)
+* [Local Relief WMS - National Geographic Institute](https://wms.ngi.be/inspire/localrelief/service) - [GetCapabilities](https://wms.ngi.be/inspire/localrelief/service?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [MapProxy WMS Proxy - mapproxy.dfc.be](http://mapproxy.dfc.be/mapproxy/service) - [GetCapabilities](http://mapproxy.dfc.be/mapproxy/service?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [MapProxy WMS Proxy - Speculoos SPRL](http://bmawms.specgis.be/service) - [GetCapabilities](http://bmawms.specgis.be/service?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [Soil cover and vegetation WMS - National Geographic Institute](http://wms.ngi.be/inspire/soilcover/service) - [GetCapabilities](http://wms.ngi.be/inspire/soilcover/service?REQUEST=GetCapabilities&SERVICE=WMS)
+* [Soil cover and vegetation WMS - National Geographic Institute](https://wms.ngi.be/inspire/soilcover/service) - [GetCapabilities](https://wms.ngi.be/inspire/soilcover/service?REQUEST=GetCapabilities&SERVICE=WMS)
 
 
 
