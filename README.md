@@ -54,7 +54,11 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [MapProxy WMS Proxy - Speculoos SPRL](http://bmawms.specgis.be/service) - [GetCapabilities](http://bmawms.specgis.be/service?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [Orthophoto WMS - National Geographic Institute](https://wms.ngi.be/inspire/ortho/service) - [GetCapabilities](https://wms.ngi.be/inspire/ortho/service?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [Soil cover and vegetation WMS - National Geographic Institute](https://wms.ngi.be/inspire/soilcover/service) - [GetCapabilities](https://wms.ngi.be/inspire/soilcover/service?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Transport Network WMS - National Geographic Institute](https://wms.ngi.be/inspire/transports/service) - [GetCapabilities](https://wms.ngi.be/inspire/transports/service?REQUEST=GetCapabilities&SERVICE=WMS)
 
 
 
