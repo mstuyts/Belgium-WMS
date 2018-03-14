@@ -236,7 +236,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Risicozones_overstroming_2006 - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/Perimetergebieden_recht_van_voorverkoop/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/Perimetergebieden_recht_van_voorverkoop/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [Risicozones_overstroming_2006 - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/Risicozones_overstroming_2017/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/Risicozones_overstroming_2017/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+* [Risicozones_overstroming_2017 - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/Risicozones_overstroming_2017/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/Risicozones_overstroming_2017/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Rivierbekkens - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/Rivierbekkens/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/Rivierbekkens/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
