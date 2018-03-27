@@ -92,8 +92,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Bruenvi Bruenvi- WMS DATA NO INSPIRE - Bruxelles Environnement-IBGE](http://wms.ibgebim.be/ibgewms) - [GetCapabilities](http://wms.ibgebim.be/ibgewms?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [Brugis WMS - DAF - BDU - SPRB](http://www.mybrugis.irisnet.be/geoserver/ows) - [GetCapabilities](http://www.mybrugis.irisnet.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WMS)
-
 * [CIRB WMS - CIRB](http://geoserver.gis.irisnet.be/urbis/wms) - [GetCapabilities](http://geoserver.gis.irisnet.be/urbis/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [CIRB WMS - CIRB / CIBG](https://geoservices-urbis.irisnet.be/geoserver/ows) - [GetCapabilities](https://geoservices-urbis.irisnet.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -224,8 +222,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Publiek_Ms_AtlasWaterlopen - gis.provincieantwerpen.be](https://gis.provincieantwerpen.be/arcgis/services/Publiek/Ms_AtlasWaterlopen/MapServer/WMSServer) - [GetCapabilities](https://gis.provincieantwerpen.be/arcgis/services/Publiek/Ms_AtlasWaterlopen/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [Publiek_Ms_BFF - gis.provincieantwerpen.be](https://gis.provincieantwerpen.be/arcgis/services/Publiek/Ms_BFF/MapServer/WMSServer) - [GetCapabilities](https://gis.provincieantwerpen.be/arcgis/services/Publiek/Ms_BFF/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
-
 * [Publiek_Ms_Landschapsatlas - gis.provincieantwerpen.be](https://gis.provincieantwerpen.be/arcgis/services/Publiek/Ms_Landschapsatlas/MapServer/WMSServer) - [GetCapabilities](https://gis.provincieantwerpen.be/arcgis/services/Publiek/Ms_Landschapsatlas/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Raadpleegdienst voor historische cartografie - agentschap Informatie Vlaanderen](https://geoservices.informatievlaanderen.be/raadpleegdiensten/histcart/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/histcart/wms?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -275,8 +271,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [WMS Agentschap voor Natuur en Bos - agentschap Informatie Vlaanderen](https://geoservices.informatievlaanderen.be/raadpleegdiensten/ANB/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/ANB/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS Bodemgebruik en Bodembedekking - agentschap Informatie Vlaanderen](https://geoservices.informatievlaanderen.be/raadpleegdiensten/BodemgebruikBodembedekking/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/BodemgebruikBodembedekking/wms?REQUEST=GetCapabilities&SERVICE=WMS)
-
-* [WMS Departement Ruimte Vlaanderen - AIV](https://geoservices.informatievlaanderen.be/raadpleegdiensten/DeptRWO/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/DeptRWO/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS Digitaal Hoogtemodel Vlaanderen - agentschap Informatie Vlaanderen](https://geoservices.informatievlaanderen.be/raadpleegdiensten/DHMV/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/DHMV/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -595,10 +589,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [WMS - geoservices.wallonie.be](https://geoservices.wallonie.be/arcgis/services/FAUNE_FLORE/NATURA2000/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/FAUNE_FLORE/NATURA2000/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS - geoservices2.wallonie.be](https://geoservices2.wallonie.be/arcgis/services/APP_MOBILITE/BREVETCYCLISTE/MapServer/WMSServer) - [GetCapabilities](https://geoservices2.wallonie.be/arcgis/services/APP_MOBILITE/BREVETCYCLISTE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
-
-* [WMS - sig.issep.be](http://sig.issep.be/arcgis/services/Air/AIR/MapServer/WMSServer) - [GetCapabilities](http://sig.issep.be/arcgis/services/Air/AIR/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
-
-* [WMS - sig.issep.be](http://sig.issep.be/arcgis/services/Eau/BassinVersant/MapServer/WMSServer) - [GetCapabilities](http://sig.issep.be/arcgis/services/Eau/BassinVersant/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS - geoservices.wallonie.be](https://geoservices.wallonie.be/arcgis/services/IGN/TOP10s_NB/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/IGN/TOP10s_NB/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
