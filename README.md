@@ -620,6 +620,22 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [data.fao.org Web Map Service - data.fao.org](http://data.fao.org/geo/wms) - [GetCapabilities](http://data.fao.org/geo/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [Geofabrik Tools: OSM Inspector (Addresses) - Geofabrik GmbH](https://tools.geofabrik.de/osmi/views/addresses/wxs) - [GetCapabilities](https://tools.geofabrik.de/osmi/views/addresses/wxs?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Geofabrik Tools: OSM Inspector (Areas) - Geofabrik GmbH](https://tools.geofabrik.de/osmi/views/areas/wxs) - [GetCapabilities](https://tools.geofabrik.de/osmi/views/areas/wxs?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Geofabrik Tools: OSM Inspector (Highways) - Geofabrik GmbH](https://tools.geofabrik.de/osmi/views/highways/wxs) - [GetCapabilities](https://tools.geofabrik.de/osmi/views/highways/wxs?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Geofabrik Tools: OSM Inspector (Places) - Geofabrik GmbH](https://tools.geofabrik.de/osmi/views/places/wxs) - [GetCapabilities](https://tools.geofabrik.de/osmi/views/places/wxs?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Geofabrik Tools: OSM Inspector (Public Transport - Stops) - Geofabrik GmbH](https://tools.geofabrik.de/osmi/views/pubtrans_stops/wxs) - [GetCapabilities](https://tools.geofabrik.de/osmi/views/pubtrans_stops/wxs?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Geofabrik Tools: OSM Inspector (Public Transport Routes) - Geofabrik GmbH](https://tools.geofabrik.de/osmi/views/pubtrans_routes/wxs) - [GetCapabilities](https://tools.geofabrik.de/osmi/views/pubtrans_routes/wxs?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Geofabrik Tools: OSM Inspector (Routing) - Geofabrik GmbH](https://tools.geofabrik.de/osmi/views/routing/wxs) - [GetCapabilities](https://tools.geofabrik.de/osmi/views/routing/wxs?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Geofabrik Tools: OSM Inspector (Water2) - Geofabrik GmbH](http://tools.geofabrik.de/osmi/view/water/wxs) - [GetCapabilities](http://tools.geofabrik.de/osmi/view/water/wxs?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [GeoServer Web Map Service - ahocevar geospatial](https://ahocevar.com/geoserver/wms) - [GetCapabilities](https://ahocevar.com/geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [GeoServer Web Map Service - CIESIN, Columbia University](https://sedac.ciesin.columbia.edu/geoserver/wms) - [GetCapabilities](https://sedac.ciesin.columbia.edu/geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
