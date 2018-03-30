@@ -634,7 +634,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Geofabrik Tools: OSM Inspector (Routing) - Geofabrik GmbH](https://tools.geofabrik.de/osmi/views/routing/wxs) - [GetCapabilities](https://tools.geofabrik.de/osmi/views/routing/wxs?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [Geofabrik Tools: OSM Inspector (Water2) - Geofabrik GmbH](http://tools.geofabrik.de/osmi/view/water/wxs) - [GetCapabilities](http://tools.geofabrik.de/osmi/view/water/wxs?REQUEST=GetCapabilities&SERVICE=WMS)
+* [Geofabrik Tools: OSM Inspector (Water2) - Geofabrik GmbH](https://tools.geofabrik.de/osmi/view/water/wxs) - [GetCapabilities](https://tools.geofabrik.de/osmi/view/water/wxs?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [GeoServer Web Map Service - ahocevar geospatial](https://ahocevar.com/geoserver/wms) - [GetCapabilities](https://ahocevar.com/geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
