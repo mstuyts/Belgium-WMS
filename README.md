@@ -122,6 +122,10 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Agentschap Onroerend Erfgoed Publieke View Service - Vlaamse Overheid - Onroerend Erfgoed](https://geo.onroerenderfgoed.be/geoserver/wms) - [GetCapabilities](https://geo.onroerenderfgoed.be/geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [Atlas der buurtwegen - Provincie West-Vlaanderen](https://www.geoloket.be/gwserver/services/WMS/AGS_Atlas_bw_plan_WMS/MapServer/WMSServer) - [GetCapabilities](https://www.geoloket.be/gwserver/services/WMS/AGS_Atlas_bw_plan_WMS/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Atlas der Buurtwegen zwart/wit - Provincie West-Vlaanderen](https://www.geoloket.be/gwserver/services/WMS/AGS_Atlas_bw_plan_zw_WMS/MapServer/WMSServer) - [GetCapabilities](https://www.geoloket.be/gwserver/services/WMS/AGS_Atlas_bw_plan_zw_WMS/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [basisdata - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/basisdata/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/basisdata/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Bodemgebruik - agentschap Informatie Vlaanderen](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Bodemgebruik/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Bodemgebruik/wms?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -137,6 +141,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [dataservices_TrageWegen - geoservices.vlaamsbrabant.be](https://geoservices.vlaamsbrabant.be/TrageWegen/MapServer/WMSServer) - [GetCapabilities](https://geoservices.vlaamsbrabant.be/TrageWegen/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [DBZ/Vastgoed_Percelen_Lokale_besturen - bzgis.vlaanderen.be](http://bzgis.vlaanderen.be/ArcGIS/services/DBZ/Vastgoed_Percelen_Lokale_besturen/MapServer/WMSServer) - [GetCapabilities](http://bzgis.vlaanderen.be/ArcGIS/services/DBZ/Vastgoed_Percelen_Lokale_besturen/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [DEK Vestigingen - Provincie West-Vlaanderen](https://www.geoloket.be/gwserver/services/WMS/AGS_DEK_Vestigingen_WMS/MapServer/WMSServer) - [GetCapabilities](https://www.geoloket.be/gwserver/services/WMS/AGS_DEK_Vestigingen_WMS/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [DOV View Service - Vlaamse Overheid - DOV](https://www.dov.vlaanderen.be/geoserver/wms) - [GetCapabilities](https://www.dov.vlaanderen.be/geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -166,6 +172,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [gevaarkaarten_klimaatprojectie_hoog - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/gevaarkaarten_klimaatprojectie_hoog/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/gevaarkaarten_klimaatprojectie_hoog/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [Gewestplan - Provincie West-Vlaanderen](https://www.geoloket.be/gwserver/services/WMS/AGS_SB_plannen_gewestplan_WMS/MapServer/WMSServer) - [GetCapabilities](https://www.geoloket.be/gwserver/services/WMS/AGS_SB_plannen_gewestplan_WMS/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [grenzen_regios - trip.toerismevlaanderen.be](http://trip.toerismevlaanderen.be/arcgis/services/grenzen/regios/MapServer/WMSServer) - [GetCapabilities](http://trip.toerismevlaanderen.be/arcgis/services/grenzen/regios/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Hydrografie - agentschap Informatie Vlaanderen](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Hydrografie/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Hydrografie/wms?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -189,6 +197,18 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [Nutsdiensten en overheidsdiensten - agentschap Informatie Vlaanderen](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Nutsdiensten_en_Overheidsdiensten/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Nutsdiensten_en_Overheidsdiensten/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [OpenDataAntwerpen - geodata.antwerpen.be](https://geodata.antwerpen.be/arcgissql/services/P_Publiek/OpenDataAntwerpen/MapServer/WMSServer) - [GetCapabilities](https://geodata.antwerpen.be/arcgissql/services/P_Publiek/OpenDataAntwerpen/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Orthofoto 2012 - Provincie West-Vlaanderen](https://www.geoloket.be/gwserver/services/WMS/AGS_Orthofoto_2012_WMS/MapServer/WMSServer) - [GetCapabilities](https://www.geoloket.be/gwserver/services/WMS/AGS_Orthofoto_2012_WMS/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Orthofoto 2013 - Provincie West-Vlaanderen](https://www.geoloket.be/gwserver/services/WMS/AGS_Orthofoto_2013_WMS/MapServer/WMSServer) - [GetCapabilities](https://www.geoloket.be/gwserver/services/WMS/AGS_Orthofoto_2013_WMS/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Orthofoto 2014 - Provincie West-Vlaanderen](https://www.geoloket.be/gwserver/services/WMS/AGS_Orthofoto_2014_WMS/MapServer/WMSServer) - [GetCapabilities](https://www.geoloket.be/gwserver/services/WMS/AGS_Orthofoto_2014_WMS/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Orthofoto 2015 - Provincie West-Vlaanderen](https://www.geoloket.be/gwserver/services/WMS/AGS_Orthofoto_2015_WMS/MapServer/WMSServer) - [GetCapabilities](https://www.geoloket.be/gwserver/services/WMS/AGS_Orthofoto_2015_WMS/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Orthofoto 2016 - Provincie West-Vlaanderen](https://www.geoloket.be/gwserver/services/WMS/AGS_Orthofoto_2016_WMS/MapServer/WMSServer) - [GetCapabilities](https://www.geoloket.be/gwserver/services/WMS/AGS_Orthofoto_2016_WMS/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Orthofoto 2017 - Provincie West-Vlaanderen](https://www.geoloket.be/gwserver/services/WMS/AGS_Orthofoto_2017_WMS/MapServer/WMSServer) - [GetCapabilities](https://www.geoloket.be/gwserver/services/WMS/AGS_Orthofoto_2017_WMS/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Orthofotomozaïek, grootschalig, winteropnamen - agentschap Informatie Vlaanderen](https://geoservices.informatievlaanderen.be/raadpleegdiensten/OGW/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/OGW/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -249,6 +269,12 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [Signaalgebieden - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/Signaalgebieden/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/Signaalgebieden/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Statistische_Eenheden - agentschap Informatie Vlaanderen](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Statistische_Eenheden/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Statistische_Eenheden/wms?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [TopoNgiKleur - Provincie West-Vlaanderen](https://www.geoloket.be/gwserver/services/WMS/AGS_TopoNgiKleur_WMS/MapServer/WMSServer) - [GetCapabilities](https://www.geoloket.be/gwserver/services/WMS/AGS_TopoNgiKleur_WMS/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [TopoNgiZW - Provincie West-Vlaanderen](https://www.geoloket.be/gwserver/services/WMS/AGS_TopoNgiZW_WMS/MapServer/WMSServer) - [GetCapabilities](https://www.geoloket.be/gwserver/services/WMS/AGS_TopoNgiZW_WMS/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [TopoNgiZW_classic - Provincie West-Vlaanderen](https://www.geoloket.be/gwserver/services/WMS/AGS_TopoNgiZW_classic_WMS/MapServer/WMSServer) - [GetCapabilities](https://www.geoloket.be/gwserver/services/WMS/AGS_TopoNgiZW_classic_WMS/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [VHA_waterlopen - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/VHA_waterlopen/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/VHA_waterlopen/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
