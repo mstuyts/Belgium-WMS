@@ -36,6 +36,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [IRCEL - CELINE - Web Map Service - Belgian Interregional Environment Agency](http://geo.irceline.be/aqd/wms) - [GetCapabilities](http://geo.irceline.be/aqd/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [IRCEL - CELINE - Web Map Service - Belgian Interregional Environment Agency](http://geo.irceline.be/aqd/air_quality_assessment_zones/wms) - [GetCapabilities](http://geo.irceline.be/aqd/air_quality_assessment_zones/wms?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [IRCEL - CELINE - Web Map Service - Belgian Interregional Environment Agency](https://geo.irceline.be/wms) - [GetCapabilities](https://geo.irceline.be/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [KMI-IRM - Web Map Service - Royal Meteorological Institute of Belgium](http://opendata.meteo.be/service/alaro/ows) - [GetCapabilities](http://opendata.meteo.be/service/alaro/ows?REQUEST=GetCapabilities&SERVICE=WMS)
