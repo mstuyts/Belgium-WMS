@@ -296,7 +296,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [WMS - gis.provincieantwerpen.be](https://gis.provincieantwerpen.be/arcgis/services/Publiek/Landschapsatlas/MapServer/WMSServer) - [GetCapabilities](https://gis.provincieantwerpen.be/arcgis/services/Publiek/Landschapsatlas/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [WMS Agentschap Innoveren en Ondernemen - agentschap Informatie Vlaanderen](https://geoservices.informatievlaanderen.be/raadpleegdiensten/vlaio/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/vlaio/wms?REQUEST=GetCapabilities&SERVICE=WMS)
+* [WMS Agentschap Innoveren en Ondernemen - agentschap Informatie Vlaanderen](https://geoservices.informatievlaanderen.be/raadpleegdiensten/VLAIO/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/VLAIO/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS Agentschap voor Landbouw en Visserij - agentschap Informatie Vlaanderen](https://geoservices.informatievlaanderen.be/raadpleegdiensten/ALV/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/ALV/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
