@@ -310,7 +310,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [WMS Gebouwenregister - agentschap Informatie Vlaanderen](https://geoservices.informatievlaanderen.be/raadpleegdiensten/gebouwenregister/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/gebouwenregister/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [WMS Gebouwenregister - AIV](https://geoservices.beta.informatievlaanderen.be/raadpleegdiensten/gebouwenregister/wms) - [GetCapabilities](https://geoservices.beta.informatievlaanderen.be/raadpleegdiensten/gebouwenregister/wms?REQUEST=GetCapabilities&SERVICE=WMS)
+* [WMS Gebouwenregister - agentschap Informatie Vlaanderen](https://geoservices.beta.informatievlaanderen.be/raadpleegdiensten/gebouwenregister/wms) - [GetCapabilities](https://geoservices.beta.informatievlaanderen.be/raadpleegdiensten/gebouwenregister/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [WMS GIPOD Publieke Informatie - agentschap Informatie Vlaanderen](https://geoservices.informatievlaanderen.be/raadpleegdiensten/GIPODPubliek/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/GIPODPubliek/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
