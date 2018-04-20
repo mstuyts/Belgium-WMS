@@ -548,6 +548,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [MOULINS_HYDRO - Service Public de Wallonie](https://geoservices.wallonie.be/arcgis/services/EAU/MOULINS_HYDRO/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/MOULINS_HYDRO/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [My GeoServer WMS - geonode.imio.be](https://geonode.imio.be/geoserver/ows) - [GetCapabilities](https://geonode.imio.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [NITRATES - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/EAU/NITRATES/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/NITRATES/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Orthophotos 1994-2000 - Maillage - Service de visualisation - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_MAILLAGE_1994_2000/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_MAILLAGE_1994_2000/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
