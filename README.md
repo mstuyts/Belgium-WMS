@@ -48,8 +48,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [KNMI WMS Server - geoservices.knmi.nl](https://geoservices.knmi.nl/cgi-bin/worldmaps.cgi) - [GetCapabilities](https://geoservices.knmi.nl/cgi-bin/worldmaps.cgi?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [Limites des régions agricoles belges - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/LIMITES/LIMITES_REGIONSAGRICOLES/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/LIMITES/LIMITES_REGIONSAGRICOLES/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
-
 * [Local Relief WMS - National Geographic Institute](https://wms.ngi.be/inspire/localrelief/service) - [GetCapabilities](https://wms.ngi.be/inspire/localrelief/service?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [MapProxy WMS Proxy - mapproxy.dfc.be](http://mapproxy.dfc.be/mapproxy/service) - [GetCapabilities](http://mapproxy.dfc.be/mapproxy/service?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -527,6 +525,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [KARST - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/KARST/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/KARST/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Les bassins hydrographiques - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/EAU/BASSINS__BASSINS_PG/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/BASSINS__BASSINS_PG/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Limites des régions agricoles belges - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/LIMITES/LIMITES_REGIONSAGRICOLES/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/LIMITES/LIMITES_REGIONSAGRICOLES/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [LIMITES_QS_STATBEL - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/LIMITES/LIMITES_QS_STATBEL/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/LIMITES/LIMITES_QS_STATBEL/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
