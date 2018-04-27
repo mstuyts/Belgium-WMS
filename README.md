@@ -534,8 +534,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [LW_Belgium_ecotopes - maps.elie.ucl.ac.be](https://maps.elie.ucl.ac.be/cgi-bin/mapserv72?map=/maps_server/lifewatch/mapfiles/LW_Belgium_ecotopes_lc_raster.map) - [GetCapabilities](https://maps.elie.ucl.ac.be/cgi-bin/mapserv72?map=/maps_server/lifewatch/mapfiles/LW_Belgium_ecotopes_lc_raster.map?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [Masses d'eau de surface - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/EAU/MASSES_EAU_SURF/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/MASSES_EAU_SURF/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
-
 * [Masses d'eau souterraine - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/EAU/MASSES_EAU_SOUT/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/MASSES_EAU_SOUT/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [MESU - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/EAU/MESU/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/MESU/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -738,7 +736,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Metacarta WMS VMaplv0 - vmap0.tiles.osgeo.org](http://vmap0.tiles.osgeo.org/wms/vmap0) - [GetCapabilities](http://vmap0.tiles.osgeo.org/wms/vmap0?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [Meteorological Service of Canada OWS Data Server - WMS - Environment and Climate Change Canada](https://geo.weather.gc.ca/geomet/) - [GetCapabilities](https://geo.weather.gc.ca/geomet/?REQUEST=GetCapabilities&SERVICE=WMS)
+* [Meteorological Service of Canada Geospatial Web Services - Government of Canada, Environment and Climate Change Canada, Meteorological Service of Canada](https://geo.weather.gc.ca/geomet/) - [GetCapabilities](https://geo.weather.gc.ca/geomet/?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [NASA Earth Observations (NEO) WMS - Science Systems and Applications, Inc./NASA](https://neo.sci.gsfc.nasa.gov/wms/wms) - [GetCapabilities](https://neo.sci.gsfc.nasa.gov/wms/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
