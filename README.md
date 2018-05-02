@@ -148,10 +148,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [EMODnet Biology - Flanders Marine Institute (VLIZ)](http://geo.vliz.be/geoserver/Emodnet/ows) - [GetCapabilities](http://geo.vliz.be/geoserver/Emodnet/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [gdi_LF - Toerisme Vlaanderen](http://trip.toerismevlaanderen.be/gdi/lf/WMSServer) - [GetCapabilities](http://trip.toerismevlaanderen.be/gdi/lf/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
-
-* [gdi_LF - Toerisme Vlaanderen](http://trip.toerismevlaanderen.be/arcgis/services/gdi/LF/MapServer/WMSServer) - [GetCapabilities](http://trip.toerismevlaanderen.be/arcgis/services/gdi/LF/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
-
 * [GeoServer Web Map Service - OVAM](https://services.ovam.be/geoserver/wms) - [GetCapabilities](https://services.ovam.be/geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [GeoServer Web Map Service - Gent](https://geo.gent.be/geoserver/ows) - [GetCapabilities](https://geo.gent.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -174,8 +170,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Gewestplan - Provincie West-Vlaanderen](https://www.geoloket.be/gwserver/services/WMS/AGS_SB_plannen_gewestplan_WMS/MapServer/WMSServer) - [GetCapabilities](https://www.geoloket.be/gwserver/services/WMS/AGS_SB_plannen_gewestplan_WMS/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [grenzen_regios - trip.toerismevlaanderen.be](http://trip.toerismevlaanderen.be/arcgis/services/grenzen/regios/MapServer/WMSServer) - [GetCapabilities](http://trip.toerismevlaanderen.be/arcgis/services/grenzen/regios/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
-
 * [Hydrografie - agentschap Informatie Vlaanderen](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Hydrografie/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Hydrografie/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [INSPIRE Map View Service - Coastal Division - Flemish Hydrography](https://bathy.agentschapmdk.be/spatialfusionserver/services/ows/view/map/Map_all) - [GetCapabilities](https://bathy.agentschapmdk.be/spatialfusionserver/services/ows/view/map/Map_all?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -197,6 +191,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [Nutsdiensten en overheidsdiensten - agentschap Informatie Vlaanderen](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Nutsdiensten_en_Overheidsdiensten/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Nutsdiensten_en_Overheidsdiensten/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [OpenDataAntwerpen - geodata.antwerpen.be](https://geodata.antwerpen.be/arcgissql/services/P_Publiek/OpenDataAntwerpen/MapServer/WMSServer) - [GetCapabilities](https://geodata.antwerpen.be/arcgissql/services/P_Publiek/OpenDataAntwerpen/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [opendata_opendata - trip.toerismevlaanderen.be](https://trip.toerismevlaanderen.be/arcgis/services/opendata/opendata/MapServer/WMSServer) - [GetCapabilities](https://trip.toerismevlaanderen.be/arcgis/services/opendata/opendata/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Orthofoto 2012 - Provincie West-Vlaanderen](https://www.geoloket.be/gwserver/services/WMS/AGS_Orthofoto_2012_WMS/MapServer/WMSServer) - [GetCapabilities](https://www.geoloket.be/gwserver/services/WMS/AGS_Orthofoto_2012_WMS/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -258,11 +254,11 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Rivierbekkens - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/Rivierbekkens/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/Rivierbekkens/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [routes_fietsnetwerk - trip.toerismevlaanderen.be](http://trip.toerismevlaanderen.be/arcgis/services/routes/fietsnetwerk/MapServer/WMSServer) - [GetCapabilities](http://trip.toerismevlaanderen.be/arcgis/services/routes/fietsnetwerk/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+* [routes_fietsnetwerk - trip.toerismevlaanderen.be](https://trip.toerismevlaanderen.be/arcgis/services/routes/fietsnetwerk/MapServer/WMSServer) - [GetCapabilities](https://trip.toerismevlaanderen.be/arcgis/services/routes/fietsnetwerk/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [routes_ruiternetwerk - trip.toerismevlaanderen.be](http://trip.toerismevlaanderen.be/arcgis/services/routes/ruiternetwerk/MapServer/WMSServer) - [GetCapabilities](http://trip.toerismevlaanderen.be/arcgis/services/routes/ruiternetwerk/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+* [routes_ruiternetwerk - trip.toerismevlaanderen.be](https://trip.toerismevlaanderen.be/arcgis/services/routes/ruiternetwerk/MapServer/WMSServer) - [GetCapabilities](https://trip.toerismevlaanderen.be/arcgis/services/routes/ruiternetwerk/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [routes_wandelnetwerk - trip.toerismevlaanderen.be](http://trip.toerismevlaanderen.be/arcgis/services/routes/wandelnetwerk/MapServer/WMSServer) - [GetCapabilities](http://trip.toerismevlaanderen.be/arcgis/services/routes/wandelnetwerk/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+* [routes_wandelnetwerk - trip.toerismevlaanderen.be](https://trip.toerismevlaanderen.be/arcgis/services/routes/wandelnetwerk/MapServer/WMSServer) - [GetCapabilities](https://trip.toerismevlaanderen.be/arcgis/services/routes/wandelnetwerk/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Signaalgebieden - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/Signaalgebieden/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/Signaalgebieden/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -757,8 +753,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [OSM-WMS Uni Heidelberg - University of Heidelberg, Department of Geography, Chair of GIScience Prof. Zipf](http://watzmann-geog.urz.uni-heidelberg.de/cached/hillshade) - [GetCapabilities](http://watzmann-geog.urz.uni-heidelberg.de/cached/hillshade?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [OSM-WMS Uni Heidelberg - University of Heidelberg, Department of Geography, Chair of GIScience Prof. Zipf](http://watzmann-geog.urz.uni-heidelberg.de/cached/osm) - [GetCapabilities](http://watzmann-geog.urz.uni-heidelberg.de/cached/osm?REQUEST=GetCapabilities&SERVICE=WMS)
-
-* [Sample Map - www2.demis.nl](http://www2.demis.nl/wms/wms.ashx) - [GetCapabilities](http://www2.demis.nl/wms/wms.ashx?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [SeaDataNet Map Server - GHER, ULg, Belgium](http://sdn.oceanbrowser.net/web-vis/Python/web/wms) - [GetCapabilities](http://sdn.oceanbrowser.net/web-vis/Python/web/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
