@@ -476,6 +476,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [FERRARIS - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/CARTES_ANCIENNES/FERRARIS/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/CARTES_ANCIENNES/FERRARIS/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [FERRARIS - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/CARTES_ANCIENNES/VDML/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/CARTES_ANCIENNES/VDML/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [GEOLOGIE - Service Public de Wallonie](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/GEOLOGIE/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/GEOLOGIE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [IMAGERIE_ORTHO_2009_2010 - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2009_2010/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/IMAGERIE/ORTHO_2009_2010/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -622,7 +624,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [RHW - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/EAU/RHW/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/RHW/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [RHW_SIMPLE - Service public de WAllonie](https://geoservices.wallonie.be/arcgis/services/EAU/RHW_SIMPLE/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/RHW_SIMPLE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+* [RHW_SIMPLE - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/EAU/RHW_SIMPLE/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/RHW_SIMPLE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [SAPINS_DE_NOEL_2015 - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/AGRICULTURE/SAPINS_DE_NOEL_2015/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/AGRICULTURE/SAPINS_DE_NOEL_2015/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -645,8 +647,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [TISSU_URBANISE - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/HABITAT/TISSU_URBANISE/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/HABITAT/TISSU_URBANISE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [TNU_InZH - IWEPS](https://geoservices.wallonie.be/arcgis/services/HABITAT/TNU_INZH/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/HABITAT/TNU_INZH/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
-
-* [VDML - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/CARTES_ANCIENNES/VDML/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/CARTES_ANCIENNES/VDML/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Wateringues - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/EAU/WATERINGUES/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/WATERINGUES/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -753,6 +753,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [OSM-WMS Uni Heidelberg - University of Heidelberg, Department of Geography, Chair of GIScience Prof. Zipf](http://watzmann-geog.urz.uni-heidelberg.de/cached/hillshade) - [GetCapabilities](http://watzmann-geog.urz.uni-heidelberg.de/cached/hillshade?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [OSM-WMS Uni Heidelberg - University of Heidelberg, Department of Geography, Chair of GIScience Prof. Zipf](http://watzmann-geog.urz.uni-heidelberg.de/cached/osm) - [GetCapabilities](http://watzmann-geog.urz.uni-heidelberg.de/cached/osm?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Sample Map - www2.demis.nl](http://www2.demis.nl/wms/wms.ashx) - [GetCapabilities](http://www2.demis.nl/wms/wms.ashx?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [SeaDataNet Map Server - GHER, ULg, Belgium](http://sdn.oceanbrowser.net/web-vis/Python/web/wms) - [GetCapabilities](http://sdn.oceanbrowser.net/web-vis/Python/web/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
