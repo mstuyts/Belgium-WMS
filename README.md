@@ -16,6 +16,12 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Constructions WMS - National Geographic Institute](https://wms.ngi.be/inspire/buildings/service) - [GetCapabilities](https://wms.ngi.be/inspire/buildings/service?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [Core01Cov2_2012 - EEA](https://image.discomap.eea.europa.eu/arcgis/services/Airbase/O3_interpolated_WM/MapServer/WMSServer) - [GetCapabilities](https://image.discomap.eea.europa.eu/arcgis/services/Airbase/O3_interpolated_WM/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Core01Cov2_2012 - EEA](https://image.discomap.eea.europa.eu/arcgis/services/Airbase/PM10_interpolated_WM/MapServer/WMSServer) - [GetCapabilities](https://image.discomap.eea.europa.eu/arcgis/services/Airbase/PM10_interpolated_WM/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [Core01Cov2_2012 - EEA](https://image.discomap.eea.europa.eu/arcgis/services/Airbase/PM2_5_interpolated_WM/MapServer/WMSServer) - [GetCapabilities](https://image.discomap.eea.europa.eu/arcgis/services/Airbase/PM2_5_interpolated_WM/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [Flanders Marine Institute (VLIZ) - Geoserver WMS Service - VLIZ](http://geo.vliz.be/geoserver/ows) - [GetCapabilities](http://geo.vliz.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Flanders Marine Institute (VLIZ) - Geoserver WMS Service - VLIZ](http://geo.vliz.be/geoserver/Scheldemonitor/ows) - [GetCapabilities](http://geo.vliz.be/geoserver/Scheldemonitor/ows?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -385,6 +391,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [BERCE_CAUCASE - geoservices.wallonie.be](https://geoservices.wallonie.be/arcgis/services/FAUNE_FLORE/BERCE_CAUCASE/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/FAUNE_FLORE/BERCE_CAUCASE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [BIOCLIM - Service publique de Wallonie](https://geoservices.wallonie.be/arcgis/services/FAUNE_FLORE/BIOCLIM/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/FAUNE_FLORE/BIOCLIM/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [BRUIT_2006_RAIL - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/INDUSTRIES_SERVICES/BRUIT_2006_RAIL/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/INDUSTRIES_SERVICES/BRUIT_2006_RAIL/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [BRUIT_2006_ROAD - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/INDUSTRIES_SERVICES/BRUIT_2006_ROAD/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/INDUSTRIES_SERVICES/BRUIT_2006_ROAD/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
