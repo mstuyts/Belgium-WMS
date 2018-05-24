@@ -98,6 +98,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Bruenvi Bruenvi- WMS DATA NO INSPIRE - Bruxelles Environnement-IBGE](http://wms.ibgebim.be/ibgewms) - [GetCapabilities](http://wms.ibgebim.be/ibgewms?REQUEST=GetCapabilities&SERVICE=WMS)
 
+* [Brugis WMS - DAF - BDU - SPRB](https://mybrugis.irisnet.be/geoserver/ows) - [GetCapabilities](https://mybrugis.irisnet.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WMS)
+
 * [CIRB WMS - CIRB](http://geoserver.gis.irisnet.be/urbis/wms) - [GetCapabilities](http://geoserver.gis.irisnet.be/urbis/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [CIRB WMS - CIRB / CIBG](https://geoservices-urbis.irisnet.be/geoserver/ows) - [GetCapabilities](https://geoservices-urbis.irisnet.be/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -183,6 +185,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [IRENA Web Map Service - IRENA](https://irena.masdar.ac.ae/geoserver/belgium/wms) - [GetCapabilities](https://irena.masdar.ac.ae/geoserver/belgium/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Landgebruik - agentschap Informatie Vlaanderen](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Landgebruik/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Landgebruik/wms?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [meetpunten - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/meetpunten/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/meetpunten/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [meetpunten - inspirepub.waterinfo.be](https://inspirepub.waterinfo.be/arcgis/services/meetpunten_MOW/MapServer/WMSServer) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/services/meetpunten_MOW/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -706,7 +710,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [ZDE - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/INDUSTRIES_SERVICES/ZDE/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/INDUSTRIES_SERVICES/ZDE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [ZI_2016 - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/EAU/ZI_2016/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/ZI_2016/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+* [ZI_2016 - Service Public de Wallonie](https://geoservices.wallonie.be/arcgis/services/EAU/ZI_2016/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/ZI_2016/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Zones de baignade et zones amonts - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/EAU/BAIGNADE/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/BAIGNADE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
@@ -741,6 +745,8 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 * [GeoServer Web Map Service - CIESIN, Columbia University](https://sedac.ciesin.columbia.edu/geoserver/wms) - [GetCapabilities](https://sedac.ciesin.columbia.edu/geoserver/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [GeoServer Web Map Service - OBIS](http://iobis.org/geoserver/ows) - [GetCapabilities](http://iobis.org/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WMS)
+
+* [GeoServer Web Map Service - Boundless](https://demo.boundlessgeo.com/geoserver/ows) - [GetCapabilities](https://demo.boundlessgeo.com/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [MapProxy WMS Proxy - mapproxy.geosparc.com](http://mapproxy.geosparc.com/mapproxy/service) - [GetCapabilities](http://mapproxy.geosparc.com/mapproxy/service?REQUEST=GetCapabilities&SERVICE=WMS)
 
