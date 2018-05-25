@@ -198,8 +198,6 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [Nutsdiensten en overheidsdiensten - agentschap Informatie Vlaanderen](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Nutsdiensten_en_Overheidsdiensten/wms) - [GetCapabilities](https://geoservices.informatievlaanderen.be/raadpleegdiensten/Nutsdiensten_en_Overheidsdiensten/wms?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [OpenDataAntwerpen - geodata.antwerpen.be](https://geodata.antwerpen.be/arcgissql/services/P_Publiek/OpenDataAntwerpen/MapServer/WMSServer) - [GetCapabilities](https://geodata.antwerpen.be/arcgissql/services/P_Publiek/OpenDataAntwerpen/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
-
 * [opendata_opendata - trip.toerismevlaanderen.be](https://trip.toerismevlaanderen.be/arcgis/services/opendata/opendata/MapServer/WMSServer) - [GetCapabilities](https://trip.toerismevlaanderen.be/arcgis/services/opendata/opendata/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Orthofoto 2012 - Provincie West-Vlaanderen](https://www.geoloket.be/gwserver/services/WMS/AGS_Orthofoto_2012_WMS/MapServer/WMSServer) - [GetCapabilities](https://www.geoloket.be/gwserver/services/WMS/AGS_Orthofoto_2012_WMS/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
@@ -708,7 +706,7 @@ More information about WMS Services kan be found on [Wikipedia](https://en.wikip
 
 * [ZDE - Service public de Wallonie](https://geoservices.wallonie.be/arcgis/services/INDUSTRIES_SERVICES/ZDE/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/INDUSTRIES_SERVICES/ZDE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
-* [ZI_2016 - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/EAU/ZI_2016/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/ZI_2016/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
+* [ZI_2016 - Service Public de Wallonie](https://geoservices.wallonie.be/arcgis/services/EAU/ZI_2016/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/ZI_2016/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
 * [Zones de baignade et zones amonts - Direction de l'Intégration des géodonnées (SPW - SG - Département de la Géomatique - DIG)](https://geoservices.wallonie.be/arcgis/services/EAU/BAIGNADE/MapServer/WMSServer) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/services/EAU/BAIGNADE/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS)
 
